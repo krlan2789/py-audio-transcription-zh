@@ -27,6 +27,9 @@ Run it with [this](https://hub.docker.com/r/krlan2789/python-tensorflow) Docker 
 ```shell
 docker pull krlan2789/python-tensorflow
 docker run -it --rm -v path/to/python/project/dir/py-audio-transcription-zh:/py-audio-trancription-zh krlan2789/python-tensorflow bash
+
+# Example
+docker run -it --rm -v D:/Files/Documents/Python/Projects/py-audio-transcription-zh:/py-audio-trancription-zh krlan2789/python-tensorflow bash
 ```
 
 After entering the Docker Container terminal, run command below :
