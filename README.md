@@ -50,10 +50,10 @@ python main.py
 
 ### Train Model
 
-Run `train.py` or `train_more.py` to train model and save to .h5 file :
+Run `train.py` to train model and save to .h5 file :
 
 ```shell
-python train_more.py # Or train.py
+python train.py
 ```
 
 ### Test Model

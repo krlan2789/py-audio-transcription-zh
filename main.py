@@ -30,8 +30,11 @@ def get_txt_files(root_dir):
                         extFile = fl.split(".")[1]
                         file = os.path.join(sub_root, fl)
                         file = file.replace("\\", "/")
-                        dest = f"{re.sub(r"(/text/\d+/.*)", "", file)}.{extFile}".replace("contents/", "transcripts/")
                         file_paths.append(file)
+
+                        file = re.sub(r"(/text/\d+/.*)", "", file)
+                        dest = f"{file}.{extFile}"
+                        dest = dest.replace("contents/", "transcripts/")
                         file_paths_dest.append(dest)
                         idx += 1
 
@@ -105,7 +108,6 @@ move_files(txt_list, txt_list_dest)
 move_files(audio_list, audio_list_dest)
 
 
-
 # -------------------------- Generate Dataset --------------------------
 
 
@@ -123,7 +125,7 @@ for audio_file in os.listdir(audio_dir):
         ) as f:
             content = f.read()
             if "#-" in content:
-                content = content.split('#-')[0]
+                content = content.split("#-")[0]
             content = content.replace("\n*\n", "\n#\n")
             transcriptParts = content.split("#")
             transcriptCount = len(transcriptParts) - 2
@@ -157,5 +159,3 @@ with open("dataset.json", "w", encoding="utf-8") as f:
     json.dump(dataset, f, ensure_ascii=False, indent=4)
 
 print("Dataset created successfully!")
-
-

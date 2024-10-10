@@ -3,6 +3,7 @@ import tensorflow_io as tfio
 import numpy as np
 import json
 from tensorflow.keras.layers import Input, LSTM, Dense
+from tensorflow.keras.optimizers import Adam
 
 
 # Load Dataset
@@ -30,17 +31,6 @@ def preprocess_audio(file_path):
     return audio_tensor
 
 
-def preprocess_for_model(audio_tensor, max_length):
-    current_length = audio_tensor.shape[0]
-    if current_length < max_length:
-        padding = max_length - current_length
-        audio_tensor = tf.pad(audio_tensor, [[0, padding], [0, 0]], "CONSTANT")
-    else:
-        audio_tensor = audio_tensor[:max_length]
-    audio_tensor = tf.expand_dims(audio_tensor, axis=0)  # Add batch dimension
-    return audio_tensor
-
-
 audio_tensors = [preprocess_audio(item["audio_file"]) for item in dataset]
 transcripts = [item["transcript"] for item in dataset]
 
@@ -57,6 +47,7 @@ transcripts_indices = [
     [char_to_index[char] for char in transcript] for transcript in transcripts
 ]
 max_length = max([len(transcript) for transcript in transcripts_indices])
+print(f"\nmax_length: {max_length}")
 transcripts_indices = tf.keras.preprocessing.sequence.pad_sequences(
     transcripts_indices, padding="post"
 )
@@ -99,24 +90,33 @@ transcripts_indices = np.array(transcripts_indices)
 print("Shape of audio_tensors:", audio_tensors.shape)
 print("Shape of transcripts_indices:", transcripts_indices.shape)
 
+# Hyperparameters
+learning_rate = 0.001  # Adjust learning rate, 0.001
+batch_size = 32  # Adjust batch size, 32
+epochs = 500  # Adjust number of epochs, 10
+
 # Model Architecture
 input_audio = Input(shape=(max_length, 1), name="audio_input")
-x = LSTM(128, return_sequences=True)(input_audio)
-x = LSTM(128, return_sequences=True)(x)  # Ensure sequence output
+x = LSTM(128, return_sequences=True)(input_audio)  # Adjust number of units, 128
+x = LSTM(128, return_sequences=True)(x)  # Ensure sequence output, 128
 output = Dense(len(characters), activation="softmax")(x)
 model = tf.keras.Model(inputs=input_audio, outputs=output)
 model.compile(
-    optimizer="adam", loss="sparse_categorical_crossentropy", metrics=["accuracy"]
+    optimizer=Adam(learning_rate=learning_rate),
+    loss="sparse_categorical_crossentropy",
+    metrics=["accuracy"],
 )
 
 # Train Model
 print("Starting training...")
-history = model.fit(audio_tensors, transcripts_indices, epochs=10, batch_size=32)
+history = model.fit(
+    audio_tensors, transcripts_indices, epochs=epochs, batch_size=batch_size
+)
 print("Training completed.")
 
-# Evaluate the Model
-loss, accuracy = model.evaluate(audio_tensors, transcripts_indices)
-print(f"Evaluation - Loss: {loss}, Accuracy: {accuracy}")
+# # Evaluate the Model
+# loss, accuracy = model.evaluate(audio_tensors, transcripts_indices)
+# print(f"Evaluation - Loss: {loss}, Accuracy: {accuracy}")
 
 # Save Model
 print("Saving model...")
