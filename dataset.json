@@ -1,0 +1,218 @@
+[
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.1.ogg",
+        "transcript": "你有电脑吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.10.ogg",
+        "transcript": "我走着来的。"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.2.ogg",
+        "transcript": "我有一台电脑。"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.3.ogg",
+        "transcript": "明天星期几？"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.4.ogg",
+        "transcript": "明天星期一。"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.5.ogg",
+        "transcript": "今天冷不冷？"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.6.ogg",
+        "transcript": "今天不冷。"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.7.ogg",
+        "transcript": "我不会开车，你呢？"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.8.ogg",
+        "transcript": "我会开车。"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKBQ.9.ogg",
+        "transcript": "你是怎么来这儿的？"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKIR.1.ogg",
+        "transcript": "我想要有个家个不需要华丽的地方"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKIR.2.ogg",
+        "transcript": "男在我疲倦的时候会想到它"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKIR.3.ogg",
+        "transcript": "男我想要有个家一个不需要多大的地方"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKIR.4.ogg",
+        "transcript": "男在我受惊吓的时候我才不会害怕"
+    },
+    {
+        "audio_file": "./dataset/audio/001SHKIR.5.ogg",
+        "transcript": "谁不会想要家是就有人没有它"
+    },
+    {
+        "audio_file": "./dataset/audio/161SQJD.1.ogg",
+        "transcript": "请问这里有卖什么饮料？"
+    },
+    {
+        "audio_file": "./dataset/audio/161SQJD.2.ogg",
+        "transcript": "我想要喝冰咖啡，请给我一杯小杯的。"
+    },
+    {
+        "audio_file": "./dataset/audio/161SQJD.3.ogg",
+        "transcript": "我要四杯奶茶外带，谢谢。"
+    },
+    {
+        "audio_file": "./dataset/audio/161SQJD.4.ogg",
+        "transcript": "请问有卖咖啡牛奶吗？给我一杯冰的。"
+    },
+    {
+        "audio_file": "./dataset/audio/161SQJD.5.ogg",
+        "transcript": "请给我一杯咖啡加牛奶不加糖，谢谢！"
+    },
+    {
+        "audio_file": "./dataset/audio/161SQJD.6.ogg",
+        "transcript": "大杯奶茶和小杯奶茶，差多少钱？"
+    },
+    {
+        "audio_file": "./dataset/audio/162SQJD.1.ogg",
+        "transcript": "我要点两杯冰奶茶和一杯热咖啡。"
+    },
+    {
+        "audio_file": "./dataset/audio/162SQJD.2.ogg",
+        "transcript": "你好，我要买一瓶鲜奶，谢谢。"
+    },
+    {
+        "audio_file": "./dataset/audio/162SQJD.3.ogg",
+        "transcript": "我不用塑料杯，请给我玻璃杯好吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/162SQJD.4.ogg",
+        "transcript": "我要买一杯冰的柠檬茶。"
+    },
+    {
+        "audio_file": "./dataset/audio/162SQJD.5.ogg",
+        "transcript": "请问一瓶矿泉水多少钱？"
+    },
+    {
+        "audio_file": "./dataset/audio/162SQJD.6.ogg",
+        "transcript": "我要一杯西瓜汁，请给我两根吸管，谢谢。"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.1.ogg",
+        "transcript": "你有电脑吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.10.ogg",
+        "transcript": "我走着来的。"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.2.ogg",
+        "transcript": "我有一台电脑。"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.3.ogg",
+        "transcript": "明天星期几？"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.4.ogg",
+        "transcript": "明天星期一。"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.5.ogg",
+        "transcript": "今天冷不冷？"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.6.ogg",
+        "transcript": "今天不冷。"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.7.ogg",
+        "transcript": "我不会开车，你呢？"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.8.ogg",
+        "transcript": "我会开车。"
+    },
+    {
+        "audio_file": "./dataset/audio/SQ0002.9.ogg",
+        "transcript": "你是怎么来这儿的？"
+    },
+    {
+        "audio_file": "./dataset/audio/SR0002.1.ogg",
+        "transcript": "我们对你很有信心。"
+    },
+    {
+        "audio_file": "./dataset/audio/SR0002.2.ogg",
+        "transcript": "你别忘了带照相机。"
+    },
+    {
+        "audio_file": "./dataset/audio/SR0002.3.ogg",
+        "transcript": "桌子上放着一本书。"
+    },
+    {
+        "audio_file": "./dataset/audio/SR0002.4.ogg",
+        "transcript": "这个问题必须马上解决。"
+    },
+    {
+        "audio_file": "./dataset/audio/SR0002.5.ogg",
+        "transcript": "一年有春、夏、秋、冬四个季节。"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0001.1.ogg",
+        "transcript": "杨小姐，您要换哪一天？"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0001.2.ogg",
+        "transcript": "那么,大后天晚上九点可以吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0001.3.ogg",
+        "transcript": "对不起，晚上都排满了，下午四点半可以吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0001.4.ogg",
+        "transcript": "您好，我姓杨，本来跟林医师约好明天来看牙齿，可是临时有事，想要改时间。"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0001.5.ogg",
+        "transcript": "您好，这里是林牙科诊所。"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0001.6.ogg",
+        "transcript": "嗯!那要跟公司请假,不方便。"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0002.1.ogg",
+        "transcript": "杨小姐，您要换哪一天？"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0002.2.ogg",
+        "transcript": "那么,大后天晚上九点可以吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0002.3.ogg",
+        "transcript": "对不起，晚上都排满了，下午四点半可以吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0002.4.ogg",
+        "transcript": "您好，我姓杨，本来跟林医师约好明天来看牙齿，可是临时有事，想要改时间。"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0002.5.ogg",
+        "transcript": "您好，这里是林牙科诊所。"
+    },
+    {
+        "audio_file": "./dataset/audio/ST0002.6.ogg",
+        "transcript": "嗯!那要跟公司请假,不方便。"
+    }
+]

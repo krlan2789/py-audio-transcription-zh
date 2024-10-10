@@ -1,0 +1,65 @@
+﻿卖:mài-Sell
+冰咖啡:bīng kā fēi-Cold coffee
+小杯的:xiǎo bēi de-Small cup of
+外带:wài dài-Take-away
+点:diǎn-Order
+奶茶:nǎi chá-Milk tea
+鲜奶:xiān nǎi-Fresh milk
+不用:bú yòng-Don't use
+塑料杯:sù liào bēi-Plastic cup
+玻璃杯:bō lí bēi-Glass cup
+加:jiā-Add
+牛奶:niú nǎi-Milk  
+糖:táng-Sugar
+买:mǎi-Buy
+柠檬茶:níng méng chá-Lemon tea
+矿泉水:kuàng quán shuǐ-Mineral water
+多少钱:duō shǎo qián-How much
+大杯:dà bēi-Big cup 
+差:chà-Difference
+西瓜汁:xī guā zhī-Watermelon juice
+两根:liǎng gēn-2 (measure word)
+吸管:xī guǎn-Straw
+#
+卖(mài)[] :Sell
+冰(bīng)[] 咖(kā)[] 啡(fēi)[] :Cold coffee
+小(xiǎo)[] 杯(bēi)[] 的(de)[] :Small cup of
+外(wài)[] 带(dài)[] :Take-away
+点(diǎn)[] :Order
+奶(nǎi)[] 茶(chá)[] :Milk tea
+鲜(xiān)[] 奶(nǎi)[] :Fresh milk
+%
+不(bú)[] 用(yòng)[] :Don't use
+塑(sù)[] 料(liào)[] 杯(bēi)[] :Plastic cup
+玻(bō)[] 璃(li)[] 杯(bēi)[] :Glass cup
+加(jiā)[] :Add
+牛(niú)[] 奶(nǎi)[] :Milk  
+糖(táng)[] :Sugar
+买(mǎi)[] :Buy
+%
+柠(níng)[] 檬(méng)[] 茶(chá)[] :Lemon tea
+矿(kuàng)[] 泉(quán)[] 水(shuǐ)[] :Mineral water
+多(duō)[] 少(shǎo)[] 钱(qián)[] :How much
+大(dà)[] 杯(bēi)[] :Big cup 
+差(chà)[] :Difference
+西(xī)[] 瓜(guā)[] 汁(zhī)[] :Watermelon juice
+两(liǎng)[] 根(gēn)[] :2 (measure word)
+吸(xī)[] 管(guǎn)[] :Straw
+#
+< Excuse me, what beverages do you sell here? >
+< 请(qǐng)[] 问(wèn)[] 这(zhè)[] 里(lǐ)[] 有(yǒu)[] 卖(mài)[] 什(shén)[] 么(me)[] 饮(yǐn)[] 料(liào)[] ？ >
+#
+< I want to drink cold coffee, please give me a small cup of it. >
+< 我(wǒ)[] 想(xiǎng)[] 要(yào)[] 喝(hē)[] 冰(bīng)[] 咖(kā)[] 啡(fēi)[] ， 请(qǐng)[] 给(gěi)[] 我(wǒ)[] 一(yì)[] 杯(bēi)[] 小(xiǎo)[] 杯(bēi)[] 的(de)[] 。 >
+#
+< I want to take-away 4 cups of milk tea, thank you. >
+< 我(wǒ)[] 要(yào)[] 四(sì)[] 杯(bēi)[] 奶(nǎi)[] 茶(chá)[] 外(wài)[] 带(dài)[] ， 谢(xiè)[] 谢(xie)[] 。 >
+#
+< Excuse me, do you sell coffee with milk? Please give me a cold one. >
+< 请(qǐng)[] 问(wèn)[] 有(yǒu)[] 卖(mài)[] 咖(kā)[] 啡(fēi)[] 牛(niú)[] 奶(nǎi)[] 吗(ma)[] ？ 给(gěi)[] 我(wǒ)[] 一(yì)[] 杯(bēi)[] 冰(bīng)[] 的(de)[] 。 >
+#
+< Please give me one cup of coffee with milk without sugar, thank you. >
+< 请(qǐng)[] 给(gěi)[] 我(wǒ)[] 一(yì)[] 杯(bēi)[] 咖(kā)[] 啡(fēi)[] 加(jiā)[] 牛(niú)[] 奶(nǎi)[] 不(bù)[] 加(jiā)[] 糖(táng)[] ， 谢(xiè)[] 谢(xie)[] ！ >
+#
+< What is the price difference between the big and small cup of milk tea? >
+< 大(dà)[] 杯(bēi)[] 奶(nǎi)[] 茶(chá)[] 和(hé)[] 小(xiǎo)[] 杯(bēi)[] 奶(nǎi)[] 茶(chá)[] ， 差(chà)[] 多(duō)[] 少(shǎo)[] 钱(qián)[] ？ >

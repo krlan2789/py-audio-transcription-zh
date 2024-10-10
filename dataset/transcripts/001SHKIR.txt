@@ -1,0 +1,117 @@
+华丽:huá lì-gorgeous
+疲倦:pí juàn-tired
+受惊吓:shòu jīng xià-frightened
+眼泪:yǎn lèi-tear
+轻轻:qīng qīng-gently
+擦:cā-wipe
+羡慕:xiàn mù-envy
+受伤:shòu shāng-injured
+只能:zhǐ néng-only can
+孤单:gū dān-alone
+寻找:xún zhǎo-searching
+不曾:bù céng-never
+温暖:wēn nuǎn-warm
+渐渐:jiàn jiàn-gradually
+充满:chōng mǎn-full with
+被:bèi-be
+关怀:guān huái-care, concern
+无法:wú fǎ-can not
+埋怨:mán yuàn-complain
+一切:yī qiè-all
+靠:kào-rely on
+缺:quē-lack of, shortage
+为何:wèi hé-why
+露出:lù chū-show, expose
+笑脸:xiào liǎn-smiley
+永远:yǒng yuǎn-forever
+整天:zhěng tiān-whole day
+相同:xiāng tóng-the same
+年纪:nián jì-age
+心灵:xīn líng-soul, heart
+拥有:yǒng yǒu-have, own
+#
+华丽:gorgeous
+疲倦:tired
+受惊吓:frightened
+眼泪:tear
+轻轻:gently
+擦:wipe
+羡慕:envy
+%
+受伤:injured
+只能:only can
+孤单:alone
+寻找:searching
+不曾:never
+温暖:warm
+渐渐:gradually
+充满:full with
+%
+被:be
+关怀:care, concern
+无法:can not
+埋怨:complain
+一切:all
+靠:rely on
+缺:lack of, shortage
+为何:why
+%
+露出:show, expose
+笑脸:smiley
+永远:forever
+整天:whole day
+相同:the same
+年纪:age
+心灵:soul, heart
+拥有:have, own
+#
+< >
+< 我(wǒ)[3] 想(xiǎng)[3] 要(yào)[4] 有(yǒu)[3] 个(gè)[4] 家(jiā)[1]　一(yí)[2] 个(ge)[] 不(bù)[4] 需(xū)[1] 要(yào)[4] 华(huá)[2] 丽(lì)[4] 的(de)[] 地(dì)[4] 方(fāng)[1]  >
+#
+< >
+< 男(nán)[2] 在(zài)[4] 我(wǒ)[3] 疲(pí)[2] 倦(juàn)[4] 的(de)[] 时(shí)[2] 候(hou)[]　我(wǒ)[3] 会(huì)[4] 想(xiǎng)[3] 到(dào)[4] 它(tā)[1]  >
+#
+< >
+< 男(nán)[2] 我(wǒ)[3] 想(xiǎng)[3] 要(yào)[4] 有(yǒu)[3] 个(gè)[4] 家(jiā)[1] 一(yí)[2] 个(gè)[4] 不(bù)[4] 需(xū)[1] 要(yào)[4] 多(duō)[1] 大(dà)[4] 的(de)[] 地(dì)[4] 方(fāng)[1]  >
+#
+< >
+< 男(nán)[2] 在(zài)[4] 我(wǒ)[3] 受(shòu)[4] 惊(jīng)[1] 吓(xià)[4] 的(de)[] 时(shí)[2] 候(hou)[] 我(wǒ)[3] 才(cái)[2] 不(bú)[2] 会(huì)[4] 害(hài)[4] 怕(pà)[4]  >
+#
+< >
+< 谁(shéi)[2] 不(bú)[2] 会(huì)[4] 想(xiǎng)[3] 要(yào)[4] 家(jiā)[1]　可(kě)[3] 是(shì)[4] 就(jiù)[4] 有(yǒu)[3] 人(rén)[2] 没(méi)[2] 有(yǒu)[3] 它(tā)[1]  >
+#
+< >
+< 脸(liǎn)[3] 上(shàng)[4] 流(liú)[2] 着(zhe)[] 眼(yǎn)[3] 泪(lèi)[4] 只(zhǐ)[3] 能(néng)[2] 自(zì)[4] 己(jǐ)[3] 轻(qīng)[1] 轻(qīng)[1] 擦(cā)[1]  >
+#
+< >
+< 我(wǒ)[3] 好(hǎo)[3] 羡(xiàn)[4] 慕(mù)[4] 他(tā)[1]　受(shòu)[4] 伤(shāng)[1] 后(hòu)[4] 可(kě)[3] 以(yǐ)[3] 回(huí)[2] 家(jiā)[1]  >
+#
+< >
+< 而(ér)[2] 我(wǒ)[3] 只(zhǐ)[3] 能(néng)[2] 孤(gū)[1] 单(dān)[1] 的(de)[] 孤(gū)[1] 单(dān)[1] 的(de)[] 寻(xún)[2] 找(zhǎo)[3] 我(wǒ)[3] 的(de)[] 家(jiā)[1]  >
+#
+< >
+< 虽(suī)[1] 然(rán)[2] 我(wǒ)[3] 不(bù)[4] 曾(céng)[2] 有(yǒu)[3] 温(wēn)[1] 暖(nuǎn)[3] 的(de)[] 家(jiā)[1]  >
+#
+< >
+< 但(dàn)[4] 是(shì)[4] 我(wǒ)[3] 一(yí)[2] 样(yàng)[4] 渐(jiàn)[4] 渐(jiàn)[4] 的(de)[] 长(zhǎng)[3] 大(dà)[4]  >
+#
+< >
+< 只(zhǐ)[3] 要(yào)[4] 心(xīn)[1] 中(zhōng)[1] 充(chōng)[1] 满(mǎn)[3] 爱(ài)[4]　就(jiù)[4] 会(huì)[4] 被(bèi)[4] 关(guān)[1] 怀(huái)[2]  >
+#
+< >
+< 无(wú)[2] 法(fǎ)[3] 埋(mán)[2] 怨(yuàn)[4] 谁(shéi)[2]　一(yí)[2] 切(qiè)[4] 只(zhǐ)[3] 能(néng)[2] 靠(kào)[4] 自(zì)[4] 己(jǐ)[3]  >
+#
+< >
+< 虽(suī)[1] 然(rán)[2] 你(nǐ)[3] 有(yǒu)[3] 家(jiā)[1]　什(shén)[2] 么(me)[] 也(yě)[3] 不(bù)[4] 缺(quē)[1]  >
+#
+< >
+< 为(wèi)[4] 何(hé)[2] 看(kàn)[4] 不(bú)[2] 见(jiàn)[4] 你(nǐ)[3] 露(lù)[4] 出(chū)[1] 笑(xiào)[4] 脸(liǎn)[3]  >
+#
+< >
+< 永(yǒng)[3] 远(yuǎn)[3] 都(dōu)[1] 说(shuō)[1] 没(méi)[2] 有(yǒu)[3] 爱(ài)[4]　整(zhěng)[3] 天(tiān)[1] 不(bù)[4] 回(huí)[2] 家(jiā)[1]  >
+#
+< >
+< 相(xiāng)[1] 同(tóng)[2] 的(de)[] 年(nián)[2] 纪(jì)[4] 不(bù)[4] 同(tóng)[2] 的(de)[] 心(xīn)[1] 灵(líng)[2]  >
+#
+< >
+< 让(ràng)[4] 我(wǒ)[3] 拥(yōng)[1] 有(yǒu)[3] 一(yí)[2] 个(ge)[] 家(jiā)[1]  >

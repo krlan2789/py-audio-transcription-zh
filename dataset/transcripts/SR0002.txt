@@ -1,0 +1,31 @@
+照相机:zhào xiāng jī-camera
+春:chūn-spring
+夏:xià-summer
+秋:qiū-Autumn
+必须:bì xū-must
+解决:jiě jué-solved
+季节:jì jié-season
+#
+照(zhào)[] 相(xiàng)[] 机(jī)[] :camera
+春(chūn)[] :spring
+夏(xià)[] :summer
+秋(qiū)[] :Autumn
+必(bì)[] 须(xū)[] :must
+解(jiě)[] 决(jué)[] :solved
+季(jì)[] 节(jié)[] :season
+#
+< We have great confidence in you. >
+< 我(wǒ)[] 们(men)[] 对(duì)[] 你(nǐ)[] 很(hěn)[] 有(yǒu)[] 信(xìn)[] 心(xīn)[] 。 >
+#
+< Don't forget to bring your camera. >
+< 你(nǐ)[] 别(bié)[] 忘(wàng)[] 了(le)[] 带(dài)[] 照(zhào)[] 相(xiàng)[] 机(jī)[] 。 >
+#
+< There is a book on the table. >
+< 桌(zhuō)[] 子(zi)[] 上(shàng)[] 放(fàng)[] 着(zhe)[] 一(yì)[] 本(běn)[] 书(shū)[] 。 >
+#
+< This issue must be solved immediately. >
+< 这(zhè)[] 个(ge)[] 问(wèn)[] 题(tí)[] 必(bì)[] 须(xū)[] 马(mǎ)[] 上(shàng)[] 解(jiě)[] 决(jué)[] 。 >
+#
+< There are four seasons in a year: spring, summer, autumn and winter. >
+< 一(yì)[] 年(nián)[] 有(yǒu)[] 春(chūn)[] 、 夏(xià)[] 、 秋(qiū)[] 、 冬(dōng)[] 四(sì)[] 个(ge)[] 季(jì)[] 节(jié)[] 。  >
+

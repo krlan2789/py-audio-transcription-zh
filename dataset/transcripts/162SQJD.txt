@@ -1,0 +1,65 @@
+﻿卖:mài-Sell
+冰咖啡:bīng kā fēi-Cold coffee
+小杯的:xiǎo bēi de-Small cup of
+外带:wài dài-Take-away
+点:diǎn-Order
+奶茶:nǎi chá-Milk tea
+鲜奶:xiān nǎi-Fresh milk
+不用:bú yòng-Don't use
+塑料杯:sù liào bēi-Plastic cup
+玻璃杯:bō lí bēi-Glass cup
+加:jiā-Add
+牛奶:niú nǎi-Milk  
+糖:táng-Sugar
+买:mǎi-Buy
+柠檬茶:níng méng chá-Lemon tea
+矿泉水:kuàng quán shuǐ-Mineral water
+多少钱:duō shǎo qián-How much
+大杯:dà bēi-Big cup 
+差:chà-Difference
+西瓜汁:xī guā zhī-Watermelon juice
+两根:liǎng gēn-2 (measure word)
+吸管:xī guǎn-Straw
+#
+卖(mài)[] :Sell
+冰(bīng)[] 咖(kā)[] 啡(fēi)[] :Cold coffee
+小(xiǎo)[] 杯(bēi)[] 的(de)[] :Small cup of
+外(wài)[] 带(dài)[] :Take-away
+点(diǎn)[] :Order
+奶(nǎi)[] 茶(chá)[] :Milk tea
+鲜(xiān)[] 奶(nǎi)[] :Fresh milk
+%
+不(bú)[] 用(yòng)[] :Don't use
+塑(sù)[] 料(liào)[] 杯(bēi)[] :Plastic cup
+玻(bō)[] 璃(li)[] 杯(bēi)[] :Glass cup
+加(jiā)[] :Add
+牛(niú)[] 奶(nǎi)[] :Milk  
+糖(táng)[] :Sugar
+买(mǎi)[] :Buy
+%
+柠(níng)[] 檬(méng)[] 茶(chá)[] :Lemon tea
+矿(kuàng)[] 泉(quán)[] 水(shuǐ)[] :Mineral water
+多(duō)[] 少(shǎo)[] 钱(qián)[] :How much
+大(dà)[] 杯(bēi)[] :Big cup 
+差(chà)[] :Difference
+西(xī)[] 瓜(guā)[] 汁(zhī)[] :Watermelon juice
+两(liǎng)[] 根(gēn)[] :2 (measure word)
+吸(xī)[] 管(guǎn)[] :Straw
+#
+< I want to order 2 cups of cold milk tea and one cup of hot coffee. >
+< 我(wǒ)[] 要(yào)[] 点(diǎn)[] 两(liǎng)[] 杯(bēi)[] 冰(bīng)[] 奶(nǎi)[] 茶(chá)[] 和(hé)[] 一(yì)[] 杯(bēi)[] 热(rè)[] 咖(kā)[] 啡(fēi)[] 。 >
+#
+< Hi, I want to buy a bottle of fresh milk, thank you. >
+< 你(nǐ)[] 好(hǎo)[] ， 我(wǒ)[] 要(yào)[] 买(mǎi)[] 一(yì)[] 瓶(píng)[] 鲜(xiān)[] 奶(nǎi)[] ， 谢(xiè)[] 谢(xie)[] 。 >
+#
+< I don’t use plastic cups, can you please give me glass cups? >
+< 我(wǒ)[] 不(bú)[] 用(yòng)[] 塑(sù)[] 料(liào)[] 杯(bēi)[] ， 请(qǐng)[] 给(gěi)[] 我(wǒ)[] 玻(bō)[] 璃(li)[] 杯(bēi)[] 好(hǎo)[] 吗(ma)[] ？ >
+#
+< I want to buy a cup of cold lemon tea.  >
+< 我(wǒ)[] 要(yào)[] 买(mǎi)[] 一(yì)[] 杯(bēi)[] 冰(bīng)[] 的(de)[] 柠(níng)[] 檬(méng)[] 茶(chá)[] 。 >
+#
+< How much does a bottle of mineral water cost?>
+< 请(qǐng)[] 问(wèn)[] 一(yì)[] 瓶(píng)[] 矿(kuàng)[] 泉(quán)[] 水(shuǐ)[] 多(duō)[] 少(shǎo)[] 钱(qián)[] ？ >
+#
+< I want one cup of watermelon juice, please give me 2 straws, thank you. >
+< 我(wǒ)[] 要(yào)[] 一(yì)[] 杯(bēi)[] 西(xī)[] 瓜(guā)[] 汁(zhī)[] ， 请(qǐng)[] 给(gěi)[] 我(wǒ)[] 两(liǎng)[] 根(gēn)[] 吸(xī)[] 管(guǎn)[] ， 谢(xiè)[] 谢(xie)[] 。 >
