@@ -92,7 +92,7 @@ print("Shape of transcripts_indices:", transcripts_indices.shape)
 # Hyperparameters
 learning_rate = 0.001  # Adjust learning rate, 0.001
 batch_size = 32  # Adjust batch size, 32
-epochs = 1000  # Adjust number of epochs, 10
+epochs = 100  # Adjust number of epochs, 10
 
 # Model Architecture
 input_audio = Input(shape=(max_length, 1), name="audio_input")
