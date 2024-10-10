@@ -1,0 +1,45 @@
+今年:jīn nián-this year
+八岁:bā suì-8 years old
+二年级:èr nián jí-grade 2
+读:dú-study
+住:zhù-live
+在:zài-at, in
+四个人:sì gè rén-4 people
+#
+今(jīn)[] 年(nián)[] :this year
+八(bā)[] 岁(suì)[] :8 years old
+二(èr)[] 年(nián)[] 级(jí)[] :grade 2
+读(dú)[] :study
+住(zhù)[] :live
+在(zài)[] :at, in
+四(sì)[] 个(gè)[] 人(rén)[] :4 people
+#
+< He is Wang Xiao Ming > {:id Dia adalah Wang Xiao Ming }
+< 他(tā)[] 叫(jiào)[] 王(wáng)[] 小(xiǎo)[] 明(míng)[] >
+#
+< He is 8 years old this year > {:id Tahun ini dia berumur 8 tahun }
+< 他(tā)[] 今(jīn)[] 年(nián)[] 八(bā)[] 岁(suì)[] >
+#
+< He study in grade 2 > {:id Dia sekolah di kelas 2 }
+< 他(tā)[] 读(dú)[] 二(èr)[] 年(nián)[] 级(jí)[] >
+#
+< There are 4 people in my family > {:id Ada 4 orang di dalam keluarganya }
+< 我(wǒ)[] 的(de)[] 家(jiā)[] 有(yǒu)[] 四(sì)[] 个(gè)[] 人(rén)[] >
+#
+< I live in Jakarta > {:id Saya tinggal di Jakarta }
+< 我(wǒ)[] 住(zhù)[] 在(zài)[] Jakarta >
+#--------------
+< Where is my raincoat? > {:id Dimanakah jas hujan saya? }
+< 我(wǒ)[] * 的(de)[] * 雨(yǔ)[]衣(yī)[] * 呢(ne)[] >
+#
+< I bow to the teacher > {:id Saya memberi hormat kepada guru }
+< 我(wǒ)[] * 向(xiàng)[] * 老(lǎo)[]师(shī)[] * 行(xíng)[]礼(lǐ)。[] >
+#
+< My name is Xiao Yu > {:id Nama saya adalah Xiao Yu }
+< 我(wǒ)[] * 的(de)[]  * 名(míng)[]字(zi)[] * 叫(jiào)[] * 小(xiǎo)[]鱼(yú)。[] >
+#
+< Today is the first day I go to school > {:id Hari ini adalah hari pertama saya ke sekolah }
+< 今(jīn)[]天(tiān) [] * 我(wǒ)[] * 第(dì)[]一(yì)[]天(tiān)[] * 上(shàng)[]学(xué)[] >
+#
+< I and my classmate play together > {:id Saya dan teman sekelas bermain bersama }
+< 我(wǒ)[] * 和(hé)[] * 同(tóng)[]学(xué)[] * 一(yì)[]起(qǐ) [] * 玩(wán)。[] >

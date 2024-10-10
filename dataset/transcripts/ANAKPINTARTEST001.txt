@@ -1,0 +1,45 @@
+照相机:zhào xiāng jī-camera
+春:chūn-spring
+夏:xià-summer
+秋:qiū-Autumn
+必须:bì xū-must
+解决:jiě jué-solved
+季节:jì jié-season
+#
+照(zhào)[] 相(xiàng)[] 机(jī)[] :camera
+春(chūn)[] :spring
+夏(xià)[] :summer
+秋(qiū)[] :Autumn
+必(bì)[] 须(xū)[] :must
+解(jiě)[] 决(jué)[] :solved
+季(jì)[] 节(jié)[] :season
+#
+< We have great confidence in you. > {:id Ini Bahasa indonesia. }
+< 我(wǒ)[] 们(men)[] 对(duì)[] 你(nǐ)[] 很(hěn)[] 有(yǒu)[] 信(xìn)[] 心(xīn)[] 。 >
+#
+< Don't forget to bring your camera. > {:id Ini Bahasa indonesia. }
+< 你(nǐ)[] 别(bié)[] 忘(wàng)[] 了(le)[] 带(dài)[] 照(zhào)[] 相(xiàng)[] 机(jī)[] 。 >
+#
+< There is a book on the table. > {:id Ini Bahasa indonesia. }
+< 桌(zhuō)[] 子(zi)[] 上(shàng)[] 放(fàng)[] 着(zhe)[] 一(yì)[] 本(běn)[] 书(shū)[] 。 >
+#
+< This issue must be solved immediately. > {:id Ini Bahasa indonesia. }
+< 这(zhè)[] 个(ge)[] 问(wèn)[] 题(tí)[] 必(bì)[] 须(xū)[] 马(mǎ)[] 上(shàng)[] 解(jiě)[] 决(jué)[] 。 >
+#
+< There are four seasons in a year: spring, summer, autumn and winter. > {:id Ini Bahasa indonesia. }
+< 一(yì)[] 年(nián)[] 有(yǒu)[] 春(chūn)[] 、 夏(xià)[] 、 秋(qiū)[] 、 冬(dōng)[] 四(sì)[] 个(ge)[] 季(jì)[] 节(jié)[] 。  >
+#--------------
+< The little fish grows into a big fish > {:id Ikan kecil itu tumbuh menjadi ikan besar }
+< 小(xiǎo)[] 鱼(yú)[] * 长(zhǎng)[] 成(chéng)[] * 了(le)[] * 大(dà)[] 鱼(yú)[] >
+#
+< The sea is like a blue sky > {:id Laut itu seperti langit biru }
+< 大(dà)[] 海(hǎi)[] * 像(xiàng)[] * 一(yí)[] 片(piàn)[] * 蓝(lán)[] 蓝(lán)[] 的(de)[] * 天(tiān)[] >
+#
+< Birds fly happily in the sky > {:id Burung-burung terbang gembira di angkasa }
+< 小(xiǎo)[] 鸟(niǎo)[] * 快(kuài)[] 乐(lè)[] 地(dì)[] * 在(zài)[] * 天(tiān)[] 空(kōng)[] 中(zhōng)[] * 飞(fēi)[] >
+#
+< There is a road in front of my house > {:id Ada jalan di depan rumahku }
+< 我(wǒ)[] 家(jiā)[] * 门(mén)[] 前(qián)[] * 有(yǒu)[] * 一(yì)[] 条(tiáo)[] * 马(mǎ)[] 路(lù)[] >
+#
+< The stars in the sky are like eyes > {:id Bintang-bintang di langit bagaikan mata }
+< 天(tiān)[] 上(shàng)[] 的(de)[] * 星(xīng)[] 星(xīng)[] 像(xiàng)[] * 一(yì)[] 只(zhī)[] 只(zhī)[] * 眼(yǎn)[] 睛(jīng)[] >

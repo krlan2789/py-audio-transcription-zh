@@ -1,0 +1,52 @@
+﻿大家:dà jiā-everyone
+今年:jīn nián-this year
+七岁:qī suì-seven years old
+读:dú-read / study at
+小学:xiǎo xué-primary school
+一年级:yī nián jí-primary one
+住:zhù-stay
+雅加达:yǎ jiā dá-Jakarta
+南部:nán bù-south part/side
+喜欢:xǐ huan-like
+画画:huà huà-draw
+也:yě-also
+运动:yùn dòng-exercise
+最:zuì-the most
+吃:chī-eat
+冰淇淋:bīng qí lín-ice cream
+#
+大(dà)[] 家(jiā)[] :everyone
+今(jīn)[] 年(nián)[] :this year
+七(qī)[] 岁(suì)[] :seven years old
+读(dú)[] :read / study at
+小(xiǎo)[] 学(xué)[] :primary school
+一(yī)[] 年(nián)[] 级(jí)[] :primary one
+住(zhù)[] :stay
+雅(yǎ)[] 加(jiā)[] 达(dá)[] :Jakarta
+%
+南(nán)[] 部(bù)[] :south part/side
+喜(xǐ)[] 欢(huan)[] :like
+画(huà)[] 画(huà)[] :draw
+也(yě)[] :also
+运(yùn)[] 动(dòng)[] :exercise
+最(zuì)[] :the most
+吃(chī)[] :eat
+冰(bīng)[] 淇(qí)[] 淋(lín)[] :ice cream
+#
+< Hello everyone ! I'm called Le Le. >
+< 大(dà)[] 家(jiā)[] 好(hǎo)[] ! 我(wǒ)[] 叫(jiào)[] 乐(lè)[] 乐(lè)[] 。 >
+#
+< I'm already seven years old this year. >
+< 今(jīn)[] 年(nián)[] 七(qī)[] 岁(suì)[] 了(le)[] 。 >
+#
+< Studying primary one. >
+< 读(dú)[] 小(xiǎo)[] 学(xué)[] 一(yī)[] 年(nián)[] 级(jí)[] 。 >
+#
+< I stay in the southern part of Jakarta. >
+< 我(wǒ)[] 住(zhù)[] 在(zài)[] 雅(yǎ)[] 加(jiā)[] 达(dá)[] 南(nán)[] 部(bù)[] 。 >
+#
+< I like to draw, also like to exercise. >
+< 我(wǒ)[] 喜(xǐ)[] 欢(huān)[] 画(huà)[] 画(huà)[] ， 也(yě)[] 喜(xǐ)[] 欢(huān)[] 运(yùn)[] 动(dòng)[] 。 >
+#
+< I really like to eat ice cream. >
+< 我(wǒ)[] 最(zuì)[] 喜(xǐ)[] 欢(huan)[] 吃(chī)[] 冰(bīng)[] 淇(qí)[] 淋(lín)[] 。 >

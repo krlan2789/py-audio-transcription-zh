@@ -1,0 +1,43 @@
+今年:jīn nián-this year
+八岁:bā suì-8 years old
+读:dú-study
+二年级:èr nián jí-grade 2
+住:zhù-live
+四个人:sì gè rén-4 people
+#
+今(jīn)[] 年(nián)[] :this year
+八(bā)[] 岁(suì)[] :8 years old
+读(dú)[] :study
+二(èr)[] 年(nián)[] 级(jí)[] :grade 2
+住(zhù)[] :live
+四(sì)[] 个(gè)[] 人(rén)[] :4 people
+#
+< My name is Le Kai Xin > {:id Nama saya adalah Le Kai Xin }
+< 我(wǒ)[] 叫(jiào)[] 乐(lè)[] 开(kāi)[] 心(xīn)[] >
+#
+< I am 8 years old this year > {:id Tahun ini saya berumur 8 tahun }
+< 我(wǒ)[] 今(jīn)[] 年(nián)[] 八(bā)[] 岁(suì)[] >
+#
+< I am study in grade 2 > {:id Saya sekolah di kelas 2 }
+< 我(wǒ)[] 读(dú)[] 二(èr)[] 年(nián)[] 级(jí)[] >
+#
+< There are 4 people in my family > {:id Ada 4 orang di dalam keluarga saya }
+< 我(wǒ)[] 的(de)[] 家(jiā)[] 有(yǒu)[] 四(sì)[] 个(gè)[] 人(rén)[] >
+#
+< I am living in Jakarta > {:id Saya tinggal di Jakarta }
+< 我(wǒ)[] 住(zhù)[] 在(zài)[]  Jakarta >
+#--------------
+< The little fish grows into a big fish > {:id Ikan kecil itu tumbuh menjadi ikan besar }
+< 小(xiǎo)[] 鱼(yú)[] * 长(zhǎng)[] 成(chéng)[] * 了(le)[] * 大(dà)[] 鱼(yú)[] >
+#
+< The sea is like a blue sky > {:id Laut itu seperti langit biru }
+< 大(dà)[] 海(hǎi)[] * 像(xiàng)[] * 一(yí)[] 片(piàn)[] * 蓝(lán)[] 蓝(lán)[] 的(de)[] * 天(tiān)[] >
+#
+< Birds fly happily in the sky > {:id Burung-burung terbang gembira di angkasa }
+< 小(xiǎo)[] 鸟(niǎo)[] * 快(kuài)[] 乐(lè)[] 地(dì)[] * 在(zài)[] * 天(tiān)[] 空(kōng)[] 中(zhōng)[] * 飞(fēi)[] >
+#
+< There is a road in front of my house > {:id Ada jalan di depan rumahku }
+< 我(wǒ)[] 家(jiā)[] * 门(mén)[] 前(qián)[] * 有(yǒu)[] * 一(yì)[] 条(tiáo)[] * 马(mǎ)[] 路(lù)[] >
+#
+< The stars in the sky are like eyes > {:id Bintang-bintang di langit bagaikan mata }
+< 天(tiān)[] 上(shàng)[] 的(de)[] * 星(xīng)[] 星(xīng)[] 像(xiàng)[] * 一(yì)[] 只(zhī)[] 只(zhī)[] * 眼(yǎn)[] 睛(jīng)[] >

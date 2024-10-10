@@ -41,23 +41,59 @@
     },
     {
         "audio_file": "./dataset/audio/001SHKIR.1.ogg",
-        "transcript": "我想要有个家个不需要华丽的地方"
+        "transcript": "我们对你很有信心。"
     },
     {
         "audio_file": "./dataset/audio/001SHKIR.2.ogg",
-        "transcript": "男在我疲倦的时候会想到它"
+        "transcript": "你别忘了带照相机。"
     },
     {
         "audio_file": "./dataset/audio/001SHKIR.3.ogg",
-        "transcript": "男我想要有个家一个不需要多大的地方"
+        "transcript": "桌子上放着一本书。"
     },
     {
         "audio_file": "./dataset/audio/001SHKIR.4.ogg",
-        "transcript": "男在我受惊吓的时候我才不会害怕"
+        "transcript": "这个问题必须马上解决。"
     },
     {
         "audio_file": "./dataset/audio/001SHKIR.5.ogg",
-        "transcript": "谁不会想要家是就有人没有它"
+        "transcript": "一年有春、夏、秋、冬四个季节。"
+    },
+    {
+        "audio_file": "./dataset/audio/001SW3S.1.ogg",
+        "transcript": "一月一日放假。"
+    },
+    {
+        "audio_file": "./dataset/audio/001SW3S.2.ogg",
+        "transcript": "妈妈的电话是零八一六七四三五九。"
+    },
+    {
+        "audio_file": "./dataset/audio/001SW3S.3.ogg",
+        "transcript": "我的生日是七月十九日。"
+    },
+    {
+        "audio_file": "./dataset/audio/076SMRD.1.ogg",
+        "transcript": "这个是我的，不是你的。"
+    },
+    {
+        "audio_file": "./dataset/audio/076SMRD.2.ogg",
+        "transcript": "你认识他吗？我不认识。"
+    },
+    {
+        "audio_file": "./dataset/audio/076SMRD.3.ogg",
+        "transcript": "我很冷,有没有外套？"
+    },
+    {
+        "audio_file": "./dataset/audio/076SMRD.4.ogg",
+        "transcript": "星期一有什么考试?"
+    },
+    {
+        "audio_file": "./dataset/audio/076SMRD.5.ogg",
+        "transcript": "我的水没了,我要买水。"
+    },
+    {
+        "audio_file": "./dataset/audio/076SMRD.6.ogg",
+        "transcript": "我没有时间看电视。"
     },
     {
         "audio_file": "./dataset/audio/161SQJD.1.ogg",
@@ -106,6 +142,662 @@
     {
         "audio_file": "./dataset/audio/162SQJD.6.ogg",
         "transcript": "我要一杯西瓜汁，请给我两根吸管，谢谢。"
+    },
+    {
+        "audio_file": "./dataset/audio/193SLCD.1.ogg",
+        "transcript": "一根香肠和十串烤肉总共多少钱？"
+    },
+    {
+        "audio_file": "./dataset/audio/193SLCD.2.ogg",
+        "transcript": "弟弟有五颗糖果吃掉三颗剩下两颗。"
+    },
+    {
+        "audio_file": "./dataset/audio/193SLCD.3.ogg",
+        "transcript": "今天早上我吃了两个鸡蛋和两片面包。"
+    },
+    {
+        "audio_file": "./dataset/audio/193SLCD.4.ogg",
+        "transcript": "桌子上有一杯牛奶和两包饼干不知道是谁的？"
+    },
+    {
+        "audio_file": "./dataset/audio/193SLCD.5.ogg",
+        "transcript": "我把蛋糕切成两块，一块给你一块给我。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST.1.ogg",
+        "transcript": "我要领药。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST.2.ogg",
+        "transcript": "我要探望病人。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST.3.ogg",
+        "transcript": "你有咳嗽吗？/我有咳嗽。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST.4.ogg",
+        "transcript": "你有发烧吗？/我有发烧。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST.5.ogg",
+        "transcript": "我的手受伤了。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST001.1.ogg",
+        "transcript": "我们对你很有信心。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST001.2.ogg",
+        "transcript": "你别忘了带照相机。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST001.3.ogg",
+        "transcript": "桌子上放着一本书。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST001.4.ogg",
+        "transcript": "这个问题必须马上解决。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST001.5.ogg",
+        "transcript": "一年有春、夏、秋、冬四个季节。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST002.1.ogg",
+        "transcript": "我有两个哥哥没有弟弟。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST002.2.ogg",
+        "transcript": "我们家有一个司机，两个佣人。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST002.3.ogg",
+        "transcript": "我有六个好朋友。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST002.4.ogg",
+        "transcript": "今天我要去超市。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST002.5.ogg",
+        "transcript": "明天晚上奶奶要去医院。"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.1.ogg",
+        "transcript": "这是什么东西？"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.10.ogg",
+        "transcript": "我很好"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.2.ogg",
+        "transcript": "这是我的书"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.3.ogg",
+        "transcript": "你在做什么事情？"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.4.ogg",
+        "transcript": "我在做功课"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.5.ogg",
+        "transcript": "你叫什么名字？"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.6.ogg",
+        "transcript": "我叫Kevin"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.7.ogg",
+        "transcript": "这个门怎么开？"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.8.ogg",
+        "transcript": "我不会开"
+    },
+    {
+        "audio_file": "./dataset/audio/ANAKPINTARTEST003.9.ogg",
+        "transcript": "你怎么了？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG1.1.ogg",
+        "transcript": "小鱼:你为什么哭呀？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG1.2.ogg",
+        "transcript": "小青蛙:我的玩具不见了。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG1.3.ogg",
+        "transcript": "小鱼:你的玩具是怎样的"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG1.4.ogg",
+        "transcript": "小青蛙:我不知道它的名字，它是圆圆的，黄黄的东西。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG2.1.ogg",
+        "transcript": "文文:妈妈，我饿了，您可以煮东西给我吃吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG2.2.ogg",
+        "transcript": "妈妈:现在不可以，我正在洗你的衣服。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG2.3.ogg",
+        "transcript": "文文:我饿得受不了了,您可以先煮给我吃吗?"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG2.4.ogg",
+        "transcript": "妈妈:好吧,我马上煮面给你吃。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG2.5.ogg",
+        "transcript": "文文:我不是很想吃面,我想吃炒饭。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDDIALOG2.6.ogg",
+        "transcript": "妈妈:那我给你炒饭，不过你要多等一会儿。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.1.ogg",
+        "transcript": "这是什么东西？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.10.ogg",
+        "transcript": "我很好"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.2.ogg",
+        "transcript": "这是我的书"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.3.ogg",
+        "transcript": "你在做什么事情？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.4.ogg",
+        "transcript": "我在做功课"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.5.ogg",
+        "transcript": "你叫什么名字？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.6.ogg",
+        "transcript": "我叫Kevin"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.7.ogg",
+        "transcript": "这个门怎么开？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.8.ogg",
+        "transcript": "我不会开"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA1.9.ogg",
+        "transcript": "你怎么了？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.1.ogg",
+        "transcript": "你有电脑吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.10.ogg",
+        "transcript": "我走着来的。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.2.ogg",
+        "transcript": "我有一台电脑。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.3.ogg",
+        "transcript": "明天星期几？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.4.ogg",
+        "transcript": "明天星期一。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.5.ogg",
+        "transcript": "今天冷不冷？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.6.ogg",
+        "transcript": "今天不冷。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.7.ogg",
+        "transcript": "我不会开车，你呢？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.8.ogg",
+        "transcript": "我会开车。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA2.9.ogg",
+        "transcript": "你是怎么来这儿的？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.1.ogg",
+        "transcript": "咖啡和茶，你喜欢喝什么？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.10.ogg",
+        "transcript": "我的生日是八月六号。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.2.ogg",
+        "transcript": "我喜欢喝咖啡。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.3.ogg",
+        "transcript": "你最想去哪儿旅游？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.4.ogg",
+        "transcript": "我最想去中国旅游。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.5.ogg",
+        "transcript": "你会写多少个汉字？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.6.ogg",
+        "transcript": "我会写50个汉字。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.7.ogg",
+        "transcript": "你们家谁做饭？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.8.ogg",
+        "transcript": "在我们家爸爸做饭。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA3.9.ogg",
+        "transcript": "哪天是你的生日？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.1.ogg",
+        "transcript": "这是什么东西？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.10.ogg",
+        "transcript": "我很好。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.2.ogg",
+        "transcript": "这是我的笔。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.3.ogg",
+        "transcript": "你在做什么事情？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.4.ogg",
+        "transcript": "我在读书。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.5.ogg",
+        "transcript": "你叫什么名字？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.6.ogg",
+        "transcript": "我叫王小明。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.7.ogg",
+        "transcript": "这个门怎么开？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.8.ogg",
+        "transcript": "往前推就好。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDQNA4.9.ogg",
+        "transcript": "你怎么了？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION1.1.ogg",
+        "transcript": "苹果的皮可以吃，香蕉的皮不可以吃。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION1.2.ogg",
+        "transcript": "椰子的皮和西瓜的皮都不可以吃。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION1.3.ogg",
+        "transcript": "芒果的皮和木瓜的皮都是绿色的。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION1.4.ogg",
+        "transcript": "草莓的皮和葡萄的皮都可以吃。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION1.5.ogg",
+        "transcript": "凤梨的皮不可以吃，要削皮。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION2.1.ogg",
+        "transcript": "我叫乐开心"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION2.2.ogg",
+        "transcript": "我今年八岁"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION2.3.ogg",
+        "transcript": "我读二年级"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION2.4.ogg",
+        "transcript": "我的家有四个人"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION2.5.ogg",
+        "transcript": "我住在Jakarta"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION3.1.ogg",
+        "transcript": "他叫王小明"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION3.2.ogg",
+        "transcript": "他今年八岁"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION3.3.ogg",
+        "transcript": "他读二年级"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION3.4.ogg",
+        "transcript": "我的家有四个人"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION3.5.ogg",
+        "transcript": "我住在Jakarta"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION4.1.ogg",
+        "transcript": "我叫开心"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION4.2.ogg",
+        "transcript": "我今年8岁"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION4.3.ogg",
+        "transcript": "我在IPEKA读小学一年级"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION4.4.ogg",
+        "transcript": "我的家有八个人"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION4.5.ogg",
+        "transcript": "我住在Tamankebonjeruk"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION4.6.ogg",
+        "transcript": "我有两个姐姐，一个妹妹"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION5.1.ogg",
+        "transcript": "你叫什么名字？我叫乐乐"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION5.2.ogg",
+        "transcript": "你今年几岁？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION5.3.ogg",
+        "transcript": "我今年7岁"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION5.4.ogg",
+        "transcript": "你读什么学校？IPEKA"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION5.5.ogg",
+        "transcript": "你读几年级？"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION5.6.ogg",
+        "transcript": "我读小学一年级"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION6.1.ogg",
+        "transcript": "你的家有几个人。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION6.2.ogg",
+        "transcript": "我的家有6个人。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION6.3.ogg",
+        "transcript": "爸爸妈妈两个哥哥和我。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION6.4.ogg",
+        "transcript": "我有两个姐姐。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION6.5.ogg",
+        "transcript": "我没有弟弟。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDREPETITION6.6.ogg",
+        "transcript": "我住在kelapagading"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE2.1.ogg",
+        "transcript": "我喜欢吃红色的苹果。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE2.2.ogg",
+        "transcript": "弟弟不喜欢吃草莓。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE2.3.ogg",
+        "transcript": "妹妹喜欢吃香蕉和葡萄。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE2.4.ogg",
+        "transcript": "妈妈喜欢喝椰子水。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE2.5.ogg",
+        "transcript": "奶奶喜欢吃木瓜不喜欢吃西瓜。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE3.1.ogg",
+        "transcript": "我有两个哥哥没有弟弟。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE3.2.ogg",
+        "transcript": "我们家有一个司机，两个佣人。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE3.3.ogg",
+        "transcript": "我有六个好朋友。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE3.4.ogg",
+        "transcript": "今天我要去超市。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE3.5.ogg",
+        "transcript": "明天晚上奶奶要去医院。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE4.1.ogg",
+        "transcript": "今天我要去商场"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE4.2.ogg",
+        "transcript": "明天我要买玩具"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE4.3.ogg",
+        "transcript": "星期天我要吃汉堡"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE4.4.ogg",
+        "transcript": "下午我要看电影"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE4.5.ogg",
+        "transcript": "早上我要喝牛奶"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE5.1.ogg",
+        "transcript": "弟弟在睡觉，妹妹在洗澡。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE5.2.ogg",
+        "transcript": "爸爸在看电视，妈妈在做饭。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE5.3.ogg",
+        "transcript": "姐姐在吃饭，我在做功课。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE5.4.ogg",
+        "transcript": "哥哥去上学，爸爸去上班。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE5.5.ogg",
+        "transcript": "妈妈去银行，奶奶去超市。"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE6.1.ogg",
+        "transcript": "桌子上有饼干和蛋糕"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE6.2.ogg",
+        "transcript": "书包里有铅笔和本子"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE6.3.ogg",
+        "transcript": "抽屉里有漫画和故事书"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE6.4.ogg",
+        "transcript": "沙发上有娃娃和游戏机"
+    },
+    {
+        "audio_file": "./dataset/audio/GDTRANSLATE6.5.ogg",
+        "transcript": "口袋里有弹珠和卷笔刀"
+    },
+    {
+        "audio_file": "./dataset/audio/GOOGLEDRIVETRANSLATE.1.ogg",
+        "transcript": "我要领药。"
+    },
+    {
+        "audio_file": "./dataset/audio/GOOGLEDRIVETRANSLATE.2.ogg",
+        "transcript": "我要探望病人。"
+    },
+    {
+        "audio_file": "./dataset/audio/GOOGLEDRIVETRANSLATE.3.ogg",
+        "transcript": "你有咳嗽吗？/我有咳嗽。"
+    },
+    {
+        "audio_file": "./dataset/audio/GOOGLEDRIVETRANSLATE.4.ogg",
+        "transcript": "你有发烧吗？/我有发烧。"
+    },
+    {
+        "audio_file": "./dataset/audio/GOOGLEDRIVETRANSLATE.5.ogg",
+        "transcript": "我的手受伤了。"
+    },
+    {
+        "audio_file": "./dataset/audio/JS0024.1.ogg",
+        "transcript": "大家好!我叫乐乐。"
+    },
+    {
+        "audio_file": "./dataset/audio/JS0024.2.ogg",
+        "transcript": "今年七岁了。"
+    },
+    {
+        "audio_file": "./dataset/audio/JS0024.3.ogg",
+        "transcript": "读小学一年级。"
+    },
+    {
+        "audio_file": "./dataset/audio/JS0024.4.ogg",
+        "transcript": "我住在雅加达南部。"
+    },
+    {
+        "audio_file": "./dataset/audio/JS0024.5.ogg",
+        "transcript": "我喜欢画画，也喜欢运动。"
+    },
+    {
+        "audio_file": "./dataset/audio/JS0024.6.ogg",
+        "transcript": "我最喜欢吃冰淇淋。"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.1.ogg",
+        "transcript": "你有电脑吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.10.ogg",
+        "transcript": "我走着来的。"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.2.ogg",
+        "transcript": "我有一台电脑。"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.3.ogg",
+        "transcript": "明天星期几？"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.4.ogg",
+        "transcript": "明天星期一。"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.5.ogg",
+        "transcript": "今天冷不冷？"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.6.ogg",
+        "transcript": "今天不冷。"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.7.ogg",
+        "transcript": "我不会开车，你呢？"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.8.ogg",
+        "transcript": "我会开车。"
+    },
+    {
+        "audio_file": "./dataset/audio/QNA001.9.ogg",
+        "transcript": "你是怎么来这儿的？"
+    },
+    {
+        "audio_file": "./dataset/audio/RP001.1.ogg",
+        "transcript": "我们对你很有信心。"
+    },
+    {
+        "audio_file": "./dataset/audio/RP001.2.ogg",
+        "transcript": "你别忘了带照相机。"
+    },
+    {
+        "audio_file": "./dataset/audio/RP001.3.ogg",
+        "transcript": "桌子上放着一本书。"
+    },
+    {
+        "audio_file": "./dataset/audio/RP001.4.ogg",
+        "transcript": "这个问题必须马上解决。"
+    },
+    {
+        "audio_file": "./dataset/audio/RP001.5.ogg",
+        "transcript": "一年有春、夏、秋、冬四个季节。"
     },
     {
         "audio_file": "./dataset/audio/SQ0002.1.ogg",
@@ -169,27 +861,11 @@
     },
     {
         "audio_file": "./dataset/audio/ST0001.1.ogg",
-        "transcript": "杨小姐，您要换哪一天？"
+        "transcript": "假期结束了，要开学了。艾丽斯准备好了自己的行李，因为她就要飞去中国上大学了。今天一早，父母陪着她来到机场为她送行。她在机场托运了行李、换了登机牌，然后依依不舍地跟父母告别，她忍不住流下了眼泪。接着，她背着自己的笔记本电脑，提着登机箱，不停地回头望，眼里含着泪水，走进了候机室。"
     },
     {
         "audio_file": "./dataset/audio/ST0001.2.ogg",
-        "transcript": "那么,大后天晚上九点可以吗？"
-    },
-    {
-        "audio_file": "./dataset/audio/ST0001.3.ogg",
-        "transcript": "对不起，晚上都排满了，下午四点半可以吗？"
-    },
-    {
-        "audio_file": "./dataset/audio/ST0001.4.ogg",
-        "transcript": "您好，我姓杨，本来跟林医师约好明天来看牙齿，可是临时有事，想要改时间。"
-    },
-    {
-        "audio_file": "./dataset/audio/ST0001.5.ogg",
-        "transcript": "您好，这里是林牙科诊所。"
-    },
-    {
-        "audio_file": "./dataset/audio/ST0001.6.ogg",
-        "transcript": "嗯!那要跟公司请假,不方便。"
+        "transcript": "小王很喜欢看书，不管是上课、下课，还是吃饭、等车，总是能看到他正在看书或者手里拿着书。小王非常节省，他总是把父母给的零用钱存起来买各种喜欢的书。当然，每逢周末或者假期，他几乎都会去图书馆看书。他告诉我：他很享受读书的过程，通过读书既开阔了他的眼界，又增长了知识。你看，现在他又站在图书馆的书架前找自己喜欢的书呢！"
     },
     {
         "audio_file": "./dataset/audio/ST0002.1.ogg",
@@ -213,6 +889,70 @@
     },
     {
         "audio_file": "./dataset/audio/ST0002.6.ogg",
+        "transcript": "嗯!那要跟公司请假,不方便。"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.1.ogg",
+        "transcript": "你有电脑吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.10.ogg",
+        "transcript": "我走着来的。"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.2.ogg",
+        "transcript": "我有一台电脑。"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.3.ogg",
+        "transcript": "明天星期几？"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.4.ogg",
+        "transcript": "明天星期一。"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.5.ogg",
+        "transcript": "今天冷不冷？"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.6.ogg",
+        "transcript": "今天不冷。"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.7.ogg",
+        "transcript": "我不会开车，你呢？"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.8.ogg",
+        "transcript": "我会开车。"
+    },
+    {
+        "audio_file": "./dataset/audio/TD001.9.ogg",
+        "transcript": "你是怎么来这儿的？"
+    },
+    {
+        "audio_file": "./dataset/audio/TR001.1.ogg",
+        "transcript": "杨小姐，您要换哪一天？"
+    },
+    {
+        "audio_file": "./dataset/audio/TR001.2.ogg",
+        "transcript": "那么,大后天晚上九点可以吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/TR001.3.ogg",
+        "transcript": "对不起，晚上都排满了，下午四点半可以吗？"
+    },
+    {
+        "audio_file": "./dataset/audio/TR001.4.ogg",
+        "transcript": "您好，我姓杨，本来跟林医师约好明天来看牙齿，可是临时有事，想要改时间。"
+    },
+    {
+        "audio_file": "./dataset/audio/TR001.5.ogg",
+        "transcript": "您好，这里是林牙科诊所。"
+    },
+    {
+        "audio_file": "./dataset/audio/TR001.6.ogg",
         "transcript": "嗯!那要跟公司请假,不方便。"
     }
 ]

@@ -1,0 +1,49 @@
+总共:zǒng gòng-total
+剩下:shèng xià-remain
+两个鸡蛋:liǎng gè jī dàn-two eggs
+两片面包:liǎng piàn miàn bāo-two slices of bread
+桌子上:zhuō zi shàng-On the table
+两杯牛奶:liǎng bēi niú nǎi-two glasses of milk
+两包饼干:liǎng bāo bǐng gān-2 packets of cookies
+不知道:bù zhī dào-have no idea
+谁的:shéi de-who
+两块蛋糕:liǎng kuài dàn gāo-two cakes
+切成:qiè chéng-cut into
+给:gěi-Give
+两根香肠:liǎng gēn xiāng cháng-two sausages
+两串烤肉:liǎng chuàn kǎo ròu-two skewers
+多少钱:duō shǎo qián-How much
+两颗糖果:liǎng kē táng guǒ-two candies
+#
+总(zǒng)[] 共(gòng)[] :total
+剩(shèng)[] 下(xià)[] :remain
+两(liǎng)[] 个(gè)[] 鸡(jī)[] 蛋(dàn)[] :two eggs
+两(liǎng)[] 片(piàn)[] 面(miàn)[] 包(bāo)[] :two slices of bread
+桌(zhuō)[] 子(zi)[] 上(shàng)[] :On the table
+两(liǎng)[] 杯(bēi)[] 牛(niú)[] 奶(nǎi)[] :two glasses of milk
+两(liǎng)[] 包(bāo)[] 饼(bǐng)[] 干(gān)[] :2 packets of cookies
+不(bù)[] 知(zhī)[] 道(dào)[] :have no idea
+%
+谁(shéi)[] 的(de)[] :who
+两(liǎng)[] 块(kuài)[] 蛋(dàn)[] 糕(gāo)[] :two cakes
+切(qiè)[] 成(chéng)[] :cut into
+给(gěi)[] :Give
+两(liǎng)[] 根(gēn)[] 香(xiāng)[] 肠(cháng)[] :two sausages
+两(liǎng)[] 串(chuàn)[] 烤(kǎo)[] 肉(ròu)[] :two skewers
+多(duō)[] 少(shǎo)[] 钱(qián)[] :How much
+两(liǎng)[] 颗(kē)[] 糖(táng)[] 果(guǒ)[] :two candies
+#
+< How much is one sausage and ten skewers bbq ? >
+< 一(yī)[] 根(gēn)[] 香(xiāng)[] 肠(cháng)[] 和(hé)[] 十(shí)[] 串(chuàn)[] 烤(kǎo)[] 肉(ròu)[] 总(zǒng)[] 共(gòng)[] 多(duō)[] 少(shǎo)[] 钱(qián)[] ？ >
+#
+< The younger brother has five candies，  eats three and leaves two. >
+< 弟(dì)[] 弟(di)[] 有(yǒu)[] 五(wǔ)[] 颗(kē)[] 糖(táng)[] 果(guǒ)[] 吃(chī)[] 掉(diào)[] 三(sān)[] 颗(kē)[] 剩(shèng)[] 下(xià)[] 两(liǎng)[] 颗(kē)[] 。 >
+#
+< I had two eggs and two slices of bread this morning >
+< 今(jīn)[] 天(tiān)[] 早(zǎo)[] 上(shang)[] 我(wǒ)[] 吃(chī)[] 了(le)[] 两(liǎng)[] 个(gè)[] 鸡(jī)[] 蛋(dàn)[] 和(hé)[] 两(liǎng)[] 片(piàn)[] 面(miàn)[] 包(bāo)[] 。 >
+#
+< There is a glass of milk and two packs of biscuits on the table. I don't know whose it is ? >
+< 桌(zhuō)[] 子(zi)[] 上(shàng)[] 有(yǒu)[] 一(yī)[] 杯(bēi)[] 牛(niú)[] 奶(nǎi)[] 和(hé)[] 两(liǎng)[] 包(bāo)[] 饼(bǐng)[] 干(gān)[] 不(bù)[] 知(zhī)[] 道(dào)[] 是(shì)[] 谁(shéi)[] 的(de)[] ？ >
+#
+< I cut the cake into two pieces，  one for you and one for me. >
+< 我(wǒ)[] 把(bǎ)[] 蛋(dàn)[] 糕(gāo)[] 切(qiē)[] 成(chéng)[] 两(liǎng)[] 块(kuài)[] ， 一(yí)[] 块(kuài)[] 给(gěi)[] 你(nǐ)[] 一(yí)[] 块(kuài)[] 给(gěi)[] 我(wǒ)[] 。 >

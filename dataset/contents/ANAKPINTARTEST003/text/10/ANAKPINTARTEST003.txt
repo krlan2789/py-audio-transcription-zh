@@ -1,0 +1,25 @@
+明天:míng tiān-tomorrow
+今天:jīn tiān-today
+冷:lěng-cold
+汉字:hàn zì-Chinese character/ writing
+电脑:diàn nǎo-computer
+星期几:xīng qí jǐ-which day
+不会:bù huì-can't
+开车:kāi chē-drive a car
+#
+明(míng)[] 天(tiān)[] :tomorrow
+今(jīn)[] 天(tiān)[] :today
+冷(lěng)[] :cold
+汉(hàn)[] 字(zì)[] :Chinese character/ writing
+%
+电(diàn)[] 脑(nǎo)[] :computer
+星(xīng)[] 期(qī)[] 几(jǐ)[] :which day
+不(bú)[] 会(huì)[] :can't
+开(kāi)[] 车(chē)[] :drive a car
+#
+< Do you have computer? > {:id Ini Bahasa indonesia. }
+< 你(nǐ)[] 有(yǒu)[] 电(diàn)[] 脑(nǎo)[] 吗(ma)[] ？ >
+*
+< I have a computer > {:id Ini Bahasa indonesia. }
+< 我(wǒ)[] 有(yǒu)[] 一(yì)[] 台(tái)[] 电(diàn)[] 脑(nǎo)[] 。 >
+

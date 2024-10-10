@@ -1,0 +1,37 @@
+眼睛:yǎn jing-Eye
+耳朵:ěr duo-Ear
+牙齿:yá chǐ-Tooth
+肚子:dù zi-Stomach
+喉咙 痛:hóu lóng tòng-Sore throat
+流鼻涕:liú bí tì-Runny nose
+蛀牙:zhù yá-Tooth decay
+饭后:fàn hòu-After meals
+睡前:shuì qián-Before sleep
+药:yào-Medicine
+#
+眼(yǎn) 睛(jing) :Eye
+耳(ěr) 朵(duo) :Ear
+牙(yá) 齿(chǐ) :Tooth
+肚(dù) 子(zi) :Stomach
+喉(hóu) 咙(lóng) 痛(tòng) :Sore throat
+%
+流(liú) 鼻(bí) 涕(tì) :Runny nose
+蛀(zhù) 牙(yá) :Tooth decay
+饭(fàn) 后(hòu) :After meals
+睡(shuì) 前(qián) :Before sleep
+药(yào) :Medicine
+#
+< I want to get medicine. > {:id RRRRRRR }
+< 我(wǒ)[] 要(yào)[] 领(lǐng)[] 药(yào)[] 。 >
+#
+< I want to visit the patient. > {:id RRRRRRR }
+< 我(wǒ)[] 要(yào)[] 探(tàn)[] 望(wàng)[] 病(bìng)[] 人(rén)[] 。 >
+#
+< Do you have a cough? I have a cough. > {:id RRRRRRR }
+< 你(nǐ)[] 有(yǒu)[] 咳(ké)[] 嗽(sou)[] 吗(ma)[] ？ /  我(wǒ)[] 有(yǒu)[] 咳(ké)[] 嗽(sou)[] 。 >
+#
+< Do you have a fever? I have a fever. > {:id RRRRRRR }
+< 你(nǐ)[] 有(yǒu)[] 发(fā)[] 烧(shāo)[] 吗(ma)[] ？ / 我(wǒ)[] 有(yǒu)[] 发(fā)[] 烧(shāo)[] 。 >
+#
+< My hand is injured. > {:id RRRRRRR }
+< 我(wǒ)[] 的(de)[] 手(shǒu)[] 受(shòu)[] 伤(shāng)[] 了(le)[] 。 >

@@ -1,0 +1,64 @@
+﻿什么时候:shén me shí hou-When
+放假:fàng jià-Holiday
+想:xiǎng-Want
+玩:wán-Play
+到:dào-Until
+回来:huí lái-Come back
+哪一个:nǎ yí gè-Which
+同学:tóng xué-Classmate
+说:shuō-Say
+哪一种:nǎ yì zhǒng-Which kind
+语言:yǔ yán-Languages
+哪一年:nǎ yì nián-Which year
+出生:chū shēng-Born
+#
+什(shén)[] 么(me)[] 时(shí)[] 候(hòu)[] :When
+放(fàng)[] 假(jià)[] :Holiday
+想(xiǎng)[] :Want
+玩(wán)[] :Play
+到(dào)[] :Until
+回(huí)[] 来(lái)[] :Come back
+哪(nǎ)[] 一(yí)[] 个(gè)[] :Which
+%
+同(tóng)[] 学(xué)[] :Classmate
+说(shuō)[] :Say
+哪(nǎ)[] 一(yì)[] 种(zhǒng)[] :Which kind
+语(yǔ)[] 言(yán)[] :Languages
+哪(nǎ)[] 一(yì)[] 年(nián)[] :Which year
+出(chū)[] 生(shēng)[] :Born
+#
+< What is this? > {:id Ini apa? }
+< 这(zhè)[] 是(shì)[] 什(shén)[] 么(me)[] 东(dōng)[] 西(xi)[] ？ >
+*
+< This is my pen. > {:id Ini pulpen saya }
+< 这(zhè)[] 是(shì)[] 我(wǒ)[] 的(de)[] 笔(bǐ)[] 。 >
+#
+< What are you doing? > {:id Kamu sedang apa? }
+< 你(nǐ)[] 在(zài)[] 做(zuò)[] 什(shén)[] 么(me)[] 事(shì)[] 情(qing)[] ？ >
+*
+< I am reading. > {:id Saya sedang membaca }
+< 我(wǒ)[] 在(zài)[] 读(dú)[] 书(shū)[] 。 >
+#
+< What is your name? > {:id Siapa nama kamu? }
+< 你(nǐ)[] 叫(jiào)[] 什(shén)[] 么(me)[] 名(míng)[] 字(zi)[] ？ >
+*
+< My name is Wang Xiaoming. > {:id Nama saya Wang Xiaoming }
+< 我(wǒ)[] 叫(jiào)[] 王(wáng)[] 小(xiǎo)[] 明(míng)[] 。 >
+#
+< How do you open this door? > {:id Bagaimana kamu membuka pintu ini }
+< 这(zhè)[] 个(gè)[] 门(mén)[] 怎(zěn)[] 么(me)[] 开(kāi)[] ？ >
+*
+< Just push forward. > {:id Hanya mendorongnya ke depan }
+< 往(wǎng)[] 前(qián)[] 推(tuī)[] 就(jiù)[] 好(hǎo)[] 。 >
+< 往前推就好。 >
+#
+< Are you okay? > {:id Apakah kamu baik-baik saja? }
+< 你(nǐ)[] 怎(zěn)[] 么(me)[] 了(le)[] ？ >
+*
+< I'm fine. > {:id Saya baik-baik saja }
+< 我(wǒ)[] 很(hěn)[] 好(hǎo)[] 。 >
+
+
+
+
+

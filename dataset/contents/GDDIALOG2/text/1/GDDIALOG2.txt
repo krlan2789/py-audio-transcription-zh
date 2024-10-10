@@ -1,0 +1,42 @@
+面:miàn-noddle
+楼下:lóu xià-downstairs
+多等:duō děng-wait longer
+饿:è-hungry
+煮:zhǔ-cook
+受不了:shòu bù liǎo-can't hold it
+炒饭:chǎo fàn-fried rice
+马上:mǎ shàng-immediately
+正在:zhèng zài-in the process of
+帮:bāng-help
+#
+面:noddle
+楼下:downstairs
+多等:wait longer
+饿:hungry
+煮:cook
+受不了:can't hold it
+炒饭:fried rice
+马上:immediately
+正在:in the process of
+帮:help
+#
+< Wenwen : Mother, I am hungry, could you like to cook something for me to eat? >  {:id Wenwen : Ibu, saya lapar, apakah Ibu bisa memasak sesuatu untuk saya makan? }
+< 文(wén)[2] 文(wén)[2] : 妈(mā)[1] 妈(ma)[] ， 我(wǒ)[3] 饿(è)[4] 了(le)[] ， 您(nín)[2] 可(kě)[3] 以(yǐ)[3] 煮(zhǔ)[3] 东(dōng)[1] 西(xī)[1] 给(gěi)[3] 我(wǒ)[3] 吃(chī)[1] 吗(ma)[] ？ >
+#
+< Mother : I can't do it now, I am washing your clothes >  {:id Ibu : Sekarang tidak bisa, saya sedang mencuci pakaianmu }
+< 妈(mā)[1] 妈(ma)[] : 现(xiàn)[4] 在(zài)[4] 不(bù)[4] 可(kě)[3] 以(yǐ)[3] ， 我(wǒ)[3] 正(zhèng)[4] 在(zài)[4] 洗(xǐ)[3] 你(nǐ)[3] 的(de)[] 衣(yī)[1] 服(fu)[] 。 >
+#
+< Wenwen : I'm really hungry, would you like to cook for me first? >  {:id Wenwen : Saya sudah sangat lapar, bisakah memasak untukku terlebih dahulu? }
+< 文(wén)[2] 文(wén)[2] : 我(wǒ)[3] 饿(è)[4] 得(de)[] 受(shòu)[4] 不(bù)[4] 了(liǎo)[3] 了(le)[] , 您(nín)[2] 可(kě)[3] 以(yǐ)[3] 先(xiān)[1] 煮(zhǔ)[3] 给(gěi)[3] 我(wǒ)[3] 吃(chī)[1] 吗(ma)[] ? >
+#
+< Mother : OK, I cook for you immediately >  {:id Ibu : Baiklah, saya segera memasak untukmu }
+< 妈(mā)[1] 妈(ma)[] : 好(hǎo)[3] 吧(ba)[] , 我(wǒ)[3] 马(mǎ)[3] 上(shàng)[4] 煮(zhǔ)[3] 面(miàn)[4] 给(gěi)[3] 你(nǐ)[3] 吃(chī)[1] 。 >
+#
+< Wenwen : I don't really want to eat noodles, I want to eat fried rice >  {:id Wenwen : Saya sedang tidak ingin makan mie, saya ingin makan nasi goreng }
+< 文(wén)[2] 文(wén)[2] : 我(wǒ)[3] 不(bú)[2] 是(shì)[4] 很(hěn)[3] 想(xiǎng)[3] 吃(chī)[1] 面(miàn)[4] , 我(wǒ)[3] 想(xiǎng)[3] 吃(chī)[1] 炒(chǎo)[3] 饭(fàn)[4] 。 >
+#
+< Mother : I'll cook fried rice for you, but you have to wait for a while >  {:id Ibu : Saya akan memasak nasi goreng untukmu, tetapi kamu harus tunggu sebentar }
+< 妈(mā)[1] 妈(ma)[] : 那(nà)[4] 我(wǒ)[3] 给(gěi)[3] 你(nǐ)[3] 炒(chǎo)[3] 饭(fàn)[4] ， 不(bú)[2] 过(guò)[4] 你(nǐ)[3] 要(yào)[4] 多(duō)[1] 等(děng)[3] 一(yí)[2] 会(huì)[4] 儿(er)[] 。 >
+#
+< Wenwen : Let me help you. So, it'll be faster >  {:id Wenwen : Saya akan membantu Ibu, demikian akan lebih cepat }
+< 文(wén)[2] 文(wén)[2] : 我(wǒ)[3] 来(lái)[2] 帮(bāng)[1] 您(nín)[2] 吧(ba)[] 。 这(zhè)[4] 样(yàng)[4] 就(jiù)[4] 可(kě)[3] 以(yǐ)[3] 快(kuài)[4] 一(yì)[4] 点(diǎn)[3] 。 >

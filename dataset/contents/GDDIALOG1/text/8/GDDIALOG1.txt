@@ -1,0 +1,36 @@
+﻿玩具:wán jù-Toy
+认识:rèn shi-Know
+名字:míng zi-Name
+皮球:pí qiú-Ball
+不必:bù bì-No need
+找:zhǎo-Find
+倒影:dào yǐng-Reflection
+#
+玩(wán)[] 具(jù)[]:Toy
+认(rèn)[] 识(shi)[]:Know
+名(míng)[] 字(zi)[]:Name
+皮(pí)[] 球(qiú)[]:Ball
+不(bù)[] 必(bì)[]:No need
+找(zhǎo)[]:Find
+倒(dào)[] 影(yǐng)[]:Reflection
+#
+< Xiaoyu: Why are you crying? >  {:id Xiao Yu: Kenapa kamu menangis? }
+< 小(xiǎo)[] 鱼(yú)[] :  你(nǐ)[] 为(wèi)[] 什(shén)[] 么(me)[0] 哭(kū)[] 呀(ya)[]  ？ >
+*
+< Little Frog: My toy is missing. >  {:id Katak Kecil: Mainanku hilang. }
+< 小(xiǎo)[] 青(qīng)[] 蛙(wā)[] : 我(wǒ)[] 的(de)[] 玩(wán)[] 具(jù)[] 不(bú)[] 见(jiàn)[] 了(le)[] 。  >
+#
+< Xiaoyu: What are your toys like? >  {:id Xiaoyu: Seperti apa mainanmu? }
+< 小(xiǎo)[] 鱼(yú)[] : 你(nǐ)[] 的(de)[] 玩(wán)[] 具(jù)[] 是(shì)[] 怎(zěn)[] 样(yàng)[] 的(de)[] > 
+*
+< Little Frog: I don’t know its name. It’s round and yellow. >  {:id Katak Kecil: Saya tidak tahu namanya. Bentuknya bulat dan berwarna kuning. }
+< 小(xiǎo)[] 青(qīng)[] 蛙(wā)[] : 我(wǒ)[] 不(bù)[] 知(zhī)[] 道(dao)[] 它(tā)[] 的(de)[] 名(míng)[] 字(zi)[] ， 它(tā)[] 是(shì)[] 圆(yuán)[] 圆(yuán)[] 的(de)[] ， 黄(huáng)[] 黄(huáng)[2] 的(de)[0] 东(dōng)[1] 西(xi)[0] 。 >
+
+
+
+
+
+
+
+
+

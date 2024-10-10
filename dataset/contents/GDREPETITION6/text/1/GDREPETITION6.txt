@@ -1,0 +1,48 @@
+几个:jǐ gè-how many
+哥哥:gē ge-older brother
+姐姐:jiě jie-older sister
+住:zhù-live
+没有:méi yǒu-don't have
+家:jiā-family
+弟弟:dì di-younger brother
+#
+几(jǐ)[] 个(gè)[] :how many
+哥(gē)[] 哥(ge)[] :older brother
+姐(jiě)[] 姐(jie)[] :older sister
+住(zhù)[] :live
+没(méi)[] 有(yǒu)[] :don't have
+家(jiā)[] :family
+弟(dì)[] 弟(di)[] :younger brother
+#
+< How many people are there in your family? > {:id Ada berapa orang di dalam keluargamu? }  
+< 你(nǐ)[] 的(de)[] 家(jiā)[] 有(yǒu)[] 几(jǐ)[] 个(gè)[] 人(rén)[] 。 >
+#
+< there are 6 people in my family > {:id Ada 6 orang di dalam keluarga saya }
+< 我(wǒ)[] 的(de)[] 家(jiā)[] 有(yǒu)[] 6 个(gè)[] 人(rén)[] 。 >
+#
+< Father, mother, two older brothers and me > {:id Ayah, Ibu, 2 kakak laki-laki dan saya }
+< 爸(bà)[] 爸(ba)[] 妈(mā)[] 妈(mā)[] 两(liǎng)[] 个(gè)[] 哥(gē)[] 哥(ge)[] 和(hé)[] 我(wǒ)[] 。 >
+#
+< I have 2 older sisters > {:id Saya punya 2 kakak perempuan }
+< 我(wǒ)[] 有(yǒu)[] 两(liǎng)[] 个(gè)[] 姐(jiě)[] 姐(jie)[] 。 >
+#
+< I don't have younger brother > {:id Saya tidak mempunyai adik laki-laki }
+< 我(wǒ)[] 没(méi)[] 有(yǒu)[] 弟(dì)[] 弟(di)[] 。 >
+#
+< I live at Kelapa Gading > {:id Saya tinggal di Kelapa Gading }
+< 我(wǒ)[] 住(zhù)[] 在(zài)[]  kelapa gading >
+#--------------
+< The little fish grows into a big fish > {:id Ikan kecil itu tumbuh menjadi ikan besar }
+< 小(xiǎo)[]鱼(yú)[] * 长(zhǎng)[]成(chéng)[] * 了(le)[] * 大(dà)[]鱼(yú)[] >
+#
+< The sea is like a blue sky > {:id Laut itu seperti langit biru }
+< 大(dà)[] 海(hǎi)[] * 像(xiàng)[] * 一(yí)[] 片(piàn)[] * 蓝(lán)[] 蓝(lán)[] 的(de)[] * 天(tiān)[] >
+#
+< Birds fly happily in the sky > {:id Burung-burung terbang gembira di angkasa }
+< 小(xiǎo)[] 鸟(niǎo)[] * 快(kuài)[] 乐(lè)[] 地(dì)[] * 在(zài)[] * 天(tiān)[] 空(kōng)[] 中(zhōng)[] * 飞(fēi)[] >
+#
+< There is a road in front of my house > {:id Ada jalan di depan rumahku }
+< 我(wǒ)[] 家(jiā)[] * 门(mén)[] 前(qián)[] * 有(yǒu)[] * 一(yì)[] 条(tiáo)[] * 马(mǎ)[] 路(lù)[] >
+#
+< The stars in the sky are like eyes > {:id Bintang-bintang di langit bagaikan mata }
+< 天(tiān)[] 上(shàng)[] 的(de)[] * 星(xīng)[] 星(xīng)[] 像(xiàng)[] * 一(yì)[] 只(zhī)[] 只(zhī)[] * 眼(yǎn)[] 睛(jīng)[] >

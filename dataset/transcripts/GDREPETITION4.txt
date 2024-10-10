@@ -1,0 +1,51 @@
+今年:jīn nián-this year
+读:dú-study
+小学:xiǎo xué-primary school
+一年级:yī nián jí-grade 1
+八个人:bā gè rén-8 people
+住:zhù-live
+姐姐:jiě jie-older sister
+妹妹:mèi mei-younger sister
+#
+今(jīn)[] 年(nián)[] :this year
+读(dú)[] :study
+小(xiǎo)[] 学(xué)[] :primary school
+一(yī)[] 年(nián)[] 级(jí)[] :grade 1
+八(bā)[] 个(gè)[] 人(rén)[] :8 people
+住(zhù)[] :live
+姐(jiě)[] 姐(jie)[] :older sister
+妹(mèi)[] 妹(mei)[] :younger sister
+#
+< My name is Kai Xin > {:id Nama saya Kai xin }
+< 我(wǒ)[] 叫(jiào)[] 开(kāi)[] 心(xīn)[]  >
+#
+< I am 8 years old this year > {:id Tahun ini saya berumur 8 tahun }
+< 我(wǒ)[] 今(jīn)[] 年(nián)[] 8岁(suì)[]  >
+#
+< I am studying in the first grade of elementary school at IPEKA > {:id Saya sekolah di IPEKA, kelas 1 SD }
+< 我(wǒ)[] 在(zài)[] IPEKA读(dú)[] 小(xiǎo)[] 学(xué)[] 一(yī)[] 年(nián)[] 级(jí)[]  >
+#
+< there are 8 people in my family > {:id Di dalam keluarga saya ada 8 orang }
+< 我(wǒ)[] 的(de)[] 家(jiā)[] 有(yǒu)[] 八(bā)[] 个(gè)[] 人(rén)[]  >
+#
+< I live at Taman Kebun Jeruk > {:id Saya tinggal di Taman Kebun Jeruk }
+< 我(wǒ)[] 住(zhù)[] 在(zài)[]  Taman kebon jeruk >
+#
+< I have 2 older sisters and 1 younger sister > {:id Saya mempunyai 2 kakak perempuan dan 1 adik perempuan }
+< 我(wǒ)[] 有(yǒu)[] 两(liǎng)[] 个(gè)[] 姐(jiě)[] 姐(jie)[] ，一(yí)[] 个(gè)[] 妹(mèi)[] 妹(mei)[]  >
+#--------------
+< Where is my raincoat? > {:id Dimanakah jas hujan saya? }
+< 我(wǒ)[] * 的(de)[] * 雨(yǔ)[]衣(yī)[] * 呢(ne)[] >
+#
+< I bow to the teacher > {:id Saya memberi hormat kepada guru }
+< 我(wǒ)[] * 向(xiàng)[] * 老(lǎo)[]师(shī)[] * 行(xíng)[]礼(lǐ)。[] >
+#
+< My name is Xiao Yu > {:id Nama saya adalah Xiao Yu }
+< 我(wǒ)[] * 的(de)[]  * 名(míng)[]字(zi)[] * 叫(jiào)[] * 小(xiǎo)[]鱼(yú)。[] >
+#
+< Today is the first day I go to school > {:id Hari ini adalah hari pertama saya ke sekolah }
+< 今(jīn)[]天(tiān) [] * 我(wǒ)[] * 第(dì)[]一(yì)[]天(tiān)[] * 上(shàng)[]学(xué)[] >
+#
+< I and my classmate play together > {:id Saya dan teman sekelas bermain bersama }
+< 我(wǒ)[] * 和(hé)[] * 同(tóng)[]学(xué)[] * 一(yì)[]起(qǐ) [] * 玩(wán)。[] >
+

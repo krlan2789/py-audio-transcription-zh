@@ -1,0 +1,52 @@
+这是:zhè shì-This
+什么:shén me-What
+东西:dōng xi-Thing
+做:zuò-Do
+事情:shì qing-Thing
+叫:jiào-Call
+名字:míng zi-Name
+门:mén-Door
+怎么:zěn me-How
+开:kāi-Open
+#
+这(zhè)[] 是(shì)[] :This
+什(shén)[] 么(me)[] :What
+做(zuò)[] :Do
+事(shì)[] 情(qing)[] :Thing
+叫(jiào)[] :Call
+%
+名(míng)[] 字(zi)[] :Name
+东(dōng)[] 西(xī)[] :Thing
+门(mén)[] :Door
+怎(zěn)[] 么(me)[] :How
+开(kāi)[] :Open
+#
+< What is this? >  {:id Apa ini? }
+< 这(zhè)[] 是(shì)[] 什(shén)[] 么(me)[] 东(dōng)[] 西(xi)[] ？ >
+*
+< This is my book > {:id ini adalah buku }
+< 这(zhè)[] 是(shì)[] 我(wǒ)[] 的(de)[] 书(shū)[]  >
+#
+< What are you doing? > {:id kamu sedang apa? }
+< 你(nǐ)[] 在(zài)[] 做(zuò)[] 什(shén)[] 么(me)[] 事(shì)[] 情(qing)[] ？ >
+*
+< Doing my homework >  {:id sedang mengerjakan PR }
+< 我(wǒ)[] 在(zài)[] 做(zuò)[] 功(gōng)[] 课(kè)[]  >
+#
+< What is your name? >  {:id Siapa Namamu? }
+< 你(nǐ)[] 叫(jiào)[] 什(shén)[] 么(me)[] 名(míng)[] 字(zi)[] ？ >
+*
+< my name is Kevin >  {:id Namaku Kevin? }
+< 我(wǒ)[] 叫(jiào)[] Kevin >
+#
+< How do you open this door? >  {:id Bagaimana Buka pintu ini? }
+< 这(zhè)[] 个(gè)[] 门(mén)[] 怎(zěn)[] 么(me)[] 开(kāi)[] ？ >
+*
+< I can not open it. >  {:id aku tidak bisa buka itu? }
+< 我(wǒ)[] 不(bù)[] 会(huì)[] 开(kāi)[]  >
+#
+< Are you okay? >  {:id apakah kamu baik-baik saja? }
+< 你(nǐ)[] 怎(zěn)[] 么(me)[] 了(le)[] ？ >
+*
+< I am OK  >  {:id aku baik-baik saja }
+< 我(wǒ)[] 很(hěn)[] 好(hǎo)[]  >

@@ -1,0 +1,50 @@
+这个:zhè ge-this
+什么:shén me-what
+不是:bú shì-no
+认识:rèn shí-know
+很冷:hěn lěng-very cold
+外套:wài tào-jacket
+星期一:xīng qī yī-Monday
+考试:kǎo shì-take an exam
+没了:méi le-Gone
+有没有:yǒu méi yǒu-Do you have
+买:mǎi-Buy
+没有:méi yǒu-no
+时间:shí jiān-time
+看电视:kàn diàn shì-watch TV
+要:yào-want
+#
+这(zhè)[] 个(ge)[] :this
+什(shén)[] 么(me)[] :what
+不(bú)[] 是(shì)[] :no
+认(rèn)[] 识(shi)[] :know
+很(hěn)[] 冷(lěng)[] :very cold
+外(wài)[] 套(tào)[] :jacket
+星(xīng)[] 期(qī)[] 一(yī)[] :Monday
+%
+考(kǎo)[] 试(shì)[] :take an exam
+没(méi)[] 了(le)[] :Gone
+有(yǒu)[] 没(méi)[] 有(yǒu)[] :Do you have
+买(mǎi)[] :Buy
+没(méi)[] 有(yǒu)[] :no
+时(shí)[] 间(jiān)[] :time
+看(kàn)[] 电(diàn)[] 视(shì)[] :watch TV
+要(yào)[] :want
+#
+< This is mine, not yours. >
+< 这(zhè)[] 个(ge)[] 是(shì)[] 我(wǒ)[] 的(de)[] ， 不(bú)[] 是(shì)[] 你(nǐ)[] 的(de)[] 。 >
+#
+< Do you know him? No, I don’t. >
+< 你(nǐ)[] 认(rèn)[] 识(shi)[] 他(tā)[] 吗(ma)[] ？ 我(wǒ)[] 不(bú)[] 认(rèn)[] 识(shi)[] 。 >
+#
+< I’m very cold, is there any jacket? >
+< 我(wǒ)[] 很(hěn)[] 冷(lěng)[] , 有(yǒu)[] 没(méi)[] 有(yǒu)[] 外(wài)[] 套(tào)[] ？ >
+#
+< What exam do we have on Monday? >
+< 星(xīng)[] 期(qī)[] 一(yī)[] 有(yǒu)[] 什(shén)[] 么(me)[] 考(kǎo)[] 试(shì)[] ? >
+#
+< My water is finished, I want to buy water. >
+< 我(wǒ)[] 的(de)[] 水(shuǐ)[] 没(méi)[] 了(le)[] , 我(wǒ)[] 要(yào)[] 买(mǎi)[] 水(shuǐ)[] 。 >
+#
+< I don’t have time to watch TV. >
+< 我(wǒ)[] 没(méi)[] 有(yǒu)[] 时(shí)[] 间(jiān)[] 看(kàn)[] 电(diàn)[] 视(shì)[] 。 >

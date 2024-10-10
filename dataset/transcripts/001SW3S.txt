@@ -1,0 +1,31 @@
+一月一日:yī yuè yī rì-January 1st
+放假:fàng jià-Holiday
+电话:diàn huà-phone number
+是:shì-Is
+我的:wǒ de-My
+生日:shēng rì-Birthday
+七月十九日:qī yuè shí jiǔ rì-July 19
+零:líng-Zero
+妈妈的:mā ma de-Mother's
+十二月:shí èr yuè-December
+#
+一(yī)[] 月(yuè)[] 一(yí)[] 日(rì)[] :January 1st
+放(fàng)[] 假(jià)[] :Holiday
+电(diàn)[] 话(huà)[] :Phone number
+是(shì)[] :Is
+我(wǒ)[] 的(de)[] :My
+%
+生(shēng)[] 日(rì)[] :Birthday
+七(qī)[] 月(yuè)[] 十(shí)[] 九(jiǔ)[] 日(rì)[] :July 19
+零(líng)[] :Zero
+妈(mā)[] 妈(ma)[] 的(de)[] :Mother's
+十(shí)[] 二(èr)[] 月(yuè)[] :December
+#
+< Holiday on January 1st. >
+< 一(yī)[] 月(yuè)[] 一(yí)[] 日(rì)[] 放(fàng)[] 假(jià)[]  。 >
+#
+< Mom's phone number is 081674359. >
+< 妈(mā)[] 妈(ma)[] 的(de)[] 电(diàn)[] 话(huà)[] 是(shì)[] 零(líng)[] 八(bā)[] 一(yī)[] 六(liù)[] 七(qī)[] 四(sì)[] 三(sān)[] 五(wǔ)[] 九(jiǔ)[]  。 >
+#
+< My birthday is July 19. >
+< 我(wǒ)[] 的(de)[] 生(shēng)[] 日(rì)[] 是(shì)[] 七(qī)[] 月(yuè)[] 十(shí)[] 九(jiǔ)[] 日(rì)[]  。 >

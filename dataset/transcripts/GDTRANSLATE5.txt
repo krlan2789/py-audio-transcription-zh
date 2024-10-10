@@ -1,0 +1,42 @@
+在:zài-doing something
+睡觉:shuì jiào-sleep
+看电视:kàn diàn shì-watch television
+吃饭:chī fàn-eat
+上学:shàng xué-go to school
+银行:yín háng-bank
+去:qù-go to
+洗澡:xǐ zǎo-take a shower
+做饭:zuò fàn-cooking
+做功课:zuò gōng kè-do homework
+上班:shàng bān-work
+超市:chāo shì-supermarket
+奶奶:nǎi nai-grandma
+弟弟:dì di-younger brother
+妹妹:mèi mei-younger sister
+#
+在(zài)[] :doing something
+睡(shuì)[] 觉(jiào)[] :sleep
+看(kàn)[] 电(diàn)[] 视(shì)[] :watch television
+吃(chī)[] 饭(fàn)[] :eat
+上(shàng)[] 学(xué)[] :go to school
+%
+银(yín)[] 行(háng)[] :bank
+去(qù)[] :go to
+洗(xǐ)[] 澡(zǎo)[] :take a shower
+做(zuò)[] 饭(fàn)[] :cooking
+做(zuò)[] 功(gōng)[] 课(kè)[] :do homework
+#
+< Younger brother is sleeping, younger sister is bathing. > {:id Adik laki-laki sedang tidur, adik perempuan sedang mandi }
+< 弟(dì)[] 弟(di)[] 在(zài)[] 睡(shuì)[] 觉(jiào)[] ， 妹(mèi)[] 妹(mei)[] 在(zài)[] 洗(xǐ)[] 澡(zǎo)[] 。 >
+#
+< Father is watching television, mother is cooking. > {:id Ayah sedang menonton TV, Ibu sedang memasak }
+< 爸(bà)[] 爸(ba)[] 在(zài)[] 看(kàn)[] 电(diàn)[] 视(shì)[] ， 妈(mā)[] 妈(ma)[] 在(zài)[] 做(zuò)[] 饭(fàn)[] 。 >
+#
+< Elder sister is eating, I am doing homework. > {:id Kakak sedang makan, saya sedang mengerjakan PR }
+< 姐(jiě)[] 姐(jie)[] 在(zài)[] 吃(chī)[] 饭(fàn)[] ， 我(wǒ)[] 在(zài)[] 做(zuò)[] 功(gōng)[] 课(kè)[] 。 >
+#
+< Elder brother goes to school, father goes to work. > {:id Kakak laki-laki pergi ke sekolah, Ayah pergi bekerja }
+< 哥(gē)[] 哥(ge)[] 去(qù)[] 上(shàng)[] 学(xué)[] ， 爸(bà)[] 爸(ba)[] 去(qù)[] 上(shàng)[] 班(bān)[] 。 >
+#
+< Mother goes to the bank, grandma goes to the supermarket. > {:id Ibu pergi ke bank, nenek pergi ke supermarket }
+< 妈(mā)[] 妈(ma)[] 去(qù)[] 银(yín)[] 行(háng)[] ， 奶(nǎi)[] 奶(nai)[] 去(qù)[] 超(chāo)[] 市(shì)[] 。 >

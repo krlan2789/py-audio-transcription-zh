@@ -1,0 +1,42 @@
+今天:jīn tiān-today
+去:qù-go to
+商场:shāng cháng-shopping mall
+明天:míng tiān-tomorrow
+买:mǎi-buy
+玩具:wán jù-toys
+星期天:xīng qī tiān-Sunday
+要:yào-want to
+吃:chī-eat
+汉堡:hàn bǎo-hamburger
+下午:xià wǔ-afternoon
+看电影:kàn diàn yǐng-watch a movie
+早上:zǎo shàng-morning
+喝:hē-drink
+牛奶:niú nǎi-milk
+#
+玩(wán)[] 具(jù)[] :toys
+星(xīng)[] 期(qī)[] 天(tiān)[] :Sunday
+要(yào)[] :want to
+吃(chī)[] :eat
+汉(hàn)[] 堡(bǎo)[] :hamburger
+%
+下(xià)[] 午(wǔ)[] :afternoon
+看(kàn)[] 电(diàn)[] 影(yǐng)[] :watch a movie
+早(zǎo)[] 上(shàng)[] :morning
+喝(hē)[] :drink
+牛(niú)[] 奶(nǎi)[] :milk
+#
+< I want to go to the shopping mall today. > {:id Saya mau ke pusat perbelanjaan hari ini }
+< 今(jīn)[] 天(tiān)[] 我(wǒ)[] 要(yào)[] 去(qù)[] 商(shāng)[] 场(cháng)[] >
+#
+< I want to buy toys tomorrow. > {:id Saya mau membeli mainan besok }
+< 明(míng)[] 天(tiān)[] 我(wǒ)[] 要(yào)[] 买(mǎi)[] 玩(wán)[] 具(jù)[] >
+#
+< I am going to eat burger on Sunday > {:id Saya akan makan burger di hari Minggu }
+< 星(xīng)[] 期(qī)[] 天(tiān)[] 我(wǒ)[] 要(yào)[] 吃(chī)[] 汉(hàn)[] 堡(bǎo)[] >
+#
+< I want to watch a movie in the afternoon. > {:id Saya mau nonton film nanti sore }
+< 下(xià)[] 午(wǔ)[] 我(wǒ)[] 要(yào)[] 看(kàn)[] 电(diàn)[] 影(yǐng)[] >
+#
+< I want to drink milk in the morning. > {:id Saya mau minum susu di pagi hari }
+< 早(zǎo)[] 上(shàng)[] 我(wǒ)[] 要(yào)[] 喝(hē)[] 牛(niú)[] 奶(nǎi)[] >

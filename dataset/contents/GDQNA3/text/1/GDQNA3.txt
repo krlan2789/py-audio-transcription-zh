@@ -1,0 +1,44 @@
+地铁:dì tiě-subway
+巴士:bā shì-bus
+汉字:hàn zì-Chinese character/ writing
+茶:chá-tea
+旅游:lǚ yóu-travel
+咖啡:kā fēi-coffee
+#
+旅(lǚ)[] 游(yóu)[] :travel
+咖(kā)[] 啡(fēi)[] :coffee
+地(dì)[] 铁(tiě)[] :subway
+巴(bā)[] 士(shì)[] :bus
+汉(hàn)[] 字(zì)[] :Chinese character/ writing
+茶(chá)[] :tea
+#
+< Coffee and tea, which one do you like?  > {:id Kopi dan teh, mana yang kamu suka? }
+< 咖(kā)[] 啡(fēi)[] 和(hé)[] 茶(chá)[] ， 你(nǐ)[] 喜(xǐ)[] 欢(huan)[] 喝(hē)[] 什(shén)[] 么(me)[] ？ >
+*
+< I love coffee > {:id Saya suka kopi }
+< 我(wǒ)[] 喜(xǐ)[] 欢(huān)[] 喝(hē)[] 咖(kā)[] 啡(fēi)[] 。 >
+#
+< Where would you like to travel most? > {:id Ke mana kamu paling ingin pergi? }
+< 你(nǐ)[] 最(zuì)[] 想(xiǎng)[] 去(qù)[] 哪(nǎ)[] 儿(er)[] 旅(lǚ)[] 游(yóu)[] ？ >
+*
+< I most want to travel to China. > {:id Saya paling ingin ke Cina }
+< 我(wǒ)[] 最(zuì)[] 想(xiǎng)[] 去(qù)[] 中(zhōng)[] 国(guó)[] 旅(lǚ)[] 游(yóu)[] 。 >
+#
+< How many Chinese characters can you write? > {:id Berapa banyak tulisan Cina yang bisa kamu tulis? }
+< 你(nǐ)[] 会(huì)[] 写(xiě)[] 多(duō)[] 少(shǎo)[] 个(gè)[] 汉(hàn)[] 字(zì)[] ？ >
+*
+< I can write 50 Chinses character > {:id Saya bisa menulis 50 tulisan Cina }
+< 我(wǒ)[] 会(huì)[] 写(xiě)[] 50个(gè)[] 汉(hàn)[] 字(zì)[] 。 >
+#
+< Who cooks in your family? > {:id Siapa yang memasak di dalam keluargamu? }
+< 你(nǐ)[] 们(men)[] 家(jiā)[] 谁(shuí)[] 做(zuò)[] 饭(fàn)[] ？ >
+*
+< My father cooks in our family > {:id Ayah yang memasak di dalam keluarga kami }
+< 在(zài)[] 我(wǒ)[] 们(men)[] 家(jiā)[] 爸(bà)[] 爸(ba)[] 做(zuò)[] 饭(fàn)[] 。 >
+#
+< When is your birthday? > {:id Kapan ulang tahunmu? }
+< 哪(nǎ)[] 天(tiān)[] 是(shì)[] 你(nǐ)[] 的(de)[] 生(shēng)[] 日(rì)[] ？ >
+*
+< My birthday is August 6th > {:id Ulang tahun saya tanggal 6 Agustus }
+< 我(wǒ)[] 的(de)[] 生(shēng)[] 日(rì)[] 是(shì)[] 八(bā)[] 月(yuè)[] 六(liù)[] 号(hào)[] 。 >
+

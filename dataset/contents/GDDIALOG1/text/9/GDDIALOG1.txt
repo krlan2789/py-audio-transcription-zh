@@ -1,0 +1,33 @@
+﻿玩具:wán jù-Toy
+认识:rèn shi-Know
+名字:míng zi-Name
+皮球:pí qiú-Ball
+不必:bù bì-No need
+找:zhǎo-Find
+倒影:dào yǐng-Reflection
+#
+玩(wán)[] 具(jù)[]:Toy
+认(rèn)[] 识(shi)[]:Know
+名(míng)[] 字(zi)[]:Name
+皮(pí)[] 球(qiú)[]:Ball
+不(bù)[] 必(bì)[]:No need
+找(zhǎo)[]:Find
+倒(dào)[] 影(yǐng)[]:Reflection
+#
+< What is this? >  {:id apa ini? }
+< 这(zhè)[] 是(shì)[] 什(shén)[] 么(me)[] 东(dōng)[] 西(xi)[] ？ >
+*
+< This is my book > {:id ini buku saya }
+< 这(zhè)[] 是(shì)[] 我(wǒ)[] 的(de)[] 书(shū)[]  >
+#
+< What are you doing? > {:id lagi ngapain? }
+< 你(nǐ)[] 在(zài)[] 做(zuò)[] 什(shén)[] 么(me)[] 事(shì)[] 情(qing)[] ？ >
+*
+< Doing my homework >  {:id lagi kerjain PR saya }
+< 我(wǒ)[] 在(zài)[] 做(zuò)[] 功(gōng)[] 课(kè)[]  >
+
+
+
+
+
+

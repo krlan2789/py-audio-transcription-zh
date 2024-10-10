@@ -1,0 +1,52 @@
+什么:shén me-what
+名字:míng zì-name
+几岁:jǐ suì-how old
+今年:jīn nián-this year
+读:dú-study
+学校:xué xiào-school
+年级:nián jí-grade
+小学:xiǎo xué-primary school
+一年级:yī nián jí-grade 1
+#
+什(shén)[] 么(me)[] :what
+名(míng)[] 字(zì)[] :name
+几(jǐ)[] 岁(suì)[] :how old
+今(jīn)[] 年(nián)[] :this year
+读(dú)[] :study
+学(xué)[] 校(xiào)[] :school
+年(nián)[] 级(jí)[] :grade
+小(xiǎo)[] 学(xué)[] :primary school
+一(yī)[] 年(nián)[] 级(jí)[] :grade 1
+#
+< What is your name? My name is Lele > {:id Siapa nama kamu? Nama saya Lele }
+< 你(nǐ)[] 叫(jiào)[] 什(shén)[] 么(me)[] 名(míng)[] 字(zì)[] ？ 我(wǒ)[] 叫(jiào)[] 乐(lè)[] 乐(lè)[] >
+#
+< How old are you? > {:id Berapa umur kamu? }
+< 你(nǐ)[] 今(jīn)[] 年(nián)[] 几(jǐ)[] 岁(suì)[] ？ >
+#
+< I am 7 years old this year > {:id Tahun ini saya berumur 7 tahun }
+< 我(wǒ)[] 今(jīn)[] 年(nián)[] 7岁(suì)[] >
+#
+< What school do you go to? IPEKA > {:id Kamu sekolah di mana? IPEKA }
+< 你(nǐ)[] 读(dú)[] 什(shén)[] 么(me)[] 学(xué)[] 校(xiào)[] ？ IPEKA >
+#
+< Which grade are you? > {:id Kamu kelas berapa ? }
+< 你(nǐ)[] 读(dú)[] 几(jǐ)[] 年(nián)[] 级(jí)[] ？ >
+#
+< I am in the grade 1 in primary school > {:id Saya kelas 1 SD }
+< 我(wǒ)[] 读(dú)[] 小(xiǎo)[] 学(xué)[] 一(yī)[] 年(nián)[] 级(jí)[] >
+#--------------
+< Where is my raincoat? > {:id Dimanakah jas hujan saya? }
+< 我(wǒ)[] * 的(de)[] * 雨(yǔ)[]衣(yī)[] * 呢(ne)[] >
+#
+< I bow to the teacher > {:id Saya memberi hormat kepada guru }
+< 我(wǒ)[] * 向(xiàng)[] * 老(lǎo)[]师(shī)[] * 行(xíng)[]礼(lǐ)。[] >
+#
+< My name is Xiao Yu > {:id Nama saya adalah Xiao Yu }
+< 我(wǒ)[] * 的(de)[]  * 名(míng)[]字(zi)[] * 叫(jiào)[] * 小(xiǎo)[]鱼(yú)。[] >
+#
+< Today is the first day I go to school > {:id Hari ini adalah hari pertama saya ke sekolah }
+< 今(jīn)[]天(tiān) [] * 我(wǒ)[] * 第(dì)[]一(yì)[]天(tiān)[] * 上(shàng)[]学(xué)[] >
+#
+< I and my classmate play together > {:id Saya dan teman sekelas bermain bersama }
+< 我(wǒ)[] * 和(hé)[] * 同(tóng)[]学(xué)[] * 一(yì)[]起(qǐ) [] * 玩(wán)。[] >

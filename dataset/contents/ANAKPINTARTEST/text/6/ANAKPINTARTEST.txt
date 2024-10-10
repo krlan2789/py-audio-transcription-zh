@@ -1,0 +1,40 @@
+牙科诊所:yá kē zhěn suǒ-Dental clinic
+约好:yuē hǎo-Promise
+临时:lín shí-Suddenly
+排满:pái mǎn-Fully booked
+请假:qǐng jià-Ask for leave
+不方便:bù fāng biàn-Inconvenient
+大名:dà míng-Name
+换:huàn-Change
+改:gǎi-Change
+时间:shí jiān-Time
+#
+牙(yá) 科(kē) 诊(zhěn) 所(suǒ) :Dental clinic
+约(yuē) 好(hǎo) :Promise
+临(lín) 时(shí) :Suddenly
+大(dà) 名(míng) :Name
+换(huàn) :Change
+%
+排(pái) 满(mǎn) :Fully booked
+请(qǐng) 假(jià) :Ask for leave
+不(bù) 方(fāng) 便(biàn) :Inconvenient
+改(gǎi) :Change
+时(shí) 间(jiān) :Time
+#
+< Miss Yang, what date would you like to change to? > { :id ini Bahasa }
+< 杨(yáng)[] 小(xiǎo)[] 姐(jiě)[] ， 您(nín)[] 要(yào)[] 换(huàn)[] 哪(nǎ)[] 一(yì)[] 天(tiān)[] ？ >
+#
+< Then, is nine o’clock at night three days from now ok? >
+< 那(nà)[] 么(me)[] , 大(dà)[] 后(hòu)[] 天(tiān)[] 晚(wǎn)[] 上(shang)[] 九(jiǔ)[] 点(diǎn)[] 可(kě)[] 以(yǐ)[] 吗(ma)[] ？ >
+#
+< Sorry, it’s fully booked at night, how about 4.30 in the afternoon? >
+< 对(duì)[] 不(bu)[] 起(qǐ)[] ， 晚(wǎn)[] 上(shang)[] 都(dōu)[] 排(pái)[] 满(mǎn)[] 了(le)[] ， 下(xià)[] 午(wǔ)[] 四(sì)[] 点(diǎn)[] 半(bàn)[] 可(kě)[] 以(yǐ)[] 吗(ma)[] ？ >
+#
+< Hello, my name is Yang, at first I promise to Dr. Lin tomorrow to come to check teeth, but suddenly something has come up, want to change time. >
+< 您(nín)[] 好(hǎo)[] ， 我(wǒ)[] 姓(xìng)[] 杨(yáng)[] ， 本(běn)[] 来(lái)[] 跟(gēn)[] 林(lín)[] 医(yī)[] 师(shī)[] 约(yuē)[] 好(hǎo)[] 明(míng)[] 天(tiān)[] 来(lái)[] 看(kàn)[] 牙(yá)[] 齿(chǐ)[] ， 可(kě)[] 是(shì)[] 临(lín)[] 时(shí)[] 有(yǒu)[] 事(shì)[] ， 想(xiǎng)[] 要(yào)[] 改(gǎi)[] 时(shí)[] 间(jiān)[] 。 >
+#
+< Hello, this is Lin dental clinic. >
+< 您(nín)[] 好(hǎo)[] ， 这(zhè)[] 里(lǐ)[] 是(shì)[] 林(lín)[] 牙(yá)[] 科(kē)[] 诊(zhěn)[] 所(suǒ)[] 。 >
+#
+< Well! I need to ask for leave with the company, it’s inconvenient. >
+< 嗯(ēn)[] ! 那(nà)[] 要(yào)[] 跟(gēn)[] 公(gōng)[] 司(sī)[] 请(qǐng)[] 假(jià)[] , 不(bù)[] 方(fāng)[] 便(biàn)[] 。 >

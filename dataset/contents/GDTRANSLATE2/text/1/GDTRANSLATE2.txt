@@ -1,0 +1,47 @@
+喜欢:xǐ huan-like
+吃:chī-eat
+红色:hóng sè-red colour
+苹果:píng guǒ-apple
+不喜欢:bù xǐ huan-dont like to
+草莓:cǎo méi-strawberry
+香蕉:xiāng jiāo-banana
+葡萄:pú táo-grape
+喝:hē-drink
+椰子水:yē zi shuǐ-coconut water
+木瓜:mù guā-papaya
+西瓜:xī guā-watermelon
+奶奶:nǎi nai-grandma
+妹妹:mèi mei-younger sister
+和:hé-and
+#
+喜(xǐ)[] 欢(huan)[] :like
+吃(chī)[] :eat
+红(hóng)[] 色(sè)[] :red colour
+苹(píng)[] 果(guǒ)[] :apple
+不(bù)[] 喜(xǐ)[] 欢(huan)[] :dont like to
+草(cǎo)[] 莓(méi)[] :strawberry
+香(xiāng)[] 蕉(jiāo)[] :banana
+%
+葡(pú)[] 萄(táo)[] :grape
+喝(hē)[] :drink
+椰(yē)[] 子(zi)[] 水(shuǐ)[] :coconut water
+木(mù)[] 瓜(guā)[] :papaya
+西(xī)[] 瓜(guā)[] :watermelon
+奶(nǎi)[] 奶(nai)[] :grandma
+妹(mèi)[] 妹(mei)[] :younger sister
+和(hé)[] :and
+#
+< I like to eat red apples. > {:id Saya suka makan apel merah. }
+< 我(wǒ)[] 喜(xǐ)[] 欢(huan)[] 吃(chī)[] 红(hóng)[] 色(sè)[] 的(de)[] 苹(píng)[] 果(guǒ)[] 。 >
+#
+< Younger brother doesn't like to eat strawberries. > {:id Adik laki-laki tidak suka makan stroberi. }
+< 弟(dì)[] 弟(di)[] 不(bù)[] 喜(xǐ)[] 欢(huan)[] 吃(chī)[] 草(cǎo)[] 莓(méi)[] 。 >
+#
+< Younger sister likes to eat bananas and grapes. > {:id Adik perempuan suka makan pisang dan anggur. }
+< 妹(mèi)[] 妹(mei)[] 喜(xǐ)[] 欢(huan)[] 吃(chī)[] 香(xiāng)[] 蕉(jiāo)[] 和(hé)[] 葡(pú)[] 萄(táo)[] 。 >
+#
+< Mom likes to drink coconut water. > {:id Ibu suka minum air kelapa. }
+< 妈(mā)[] 妈(ma)[] 喜(xǐ)[] 欢(huan)[] 喝(hē)[] 椰(yē)[] 子(zi)[] 水(shuǐ)[] 。 >
+#
+< Grandma like to eat papaya, doesn't like to eat watermelons. > {:id Nenek suka makan papaya, tidak suka makan semangka. }
+< 奶(nǎi)[] 奶(nai)[] 喜(xǐ)[] 欢(huan)[] 吃(chī)[] 木(mù)[] 瓜(guā)[] 不(bù)[] 喜(xǐ)[] 欢(huan)[] 吃(chī)[] 西(xī)[] 瓜(guā)[] 。 >

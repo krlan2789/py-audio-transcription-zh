@@ -1,0 +1,52 @@
+眼睛:yǎn jing-Eye
+耳朵:ěr duo-Ear
+牙齿:yá chǐ-Tooth
+肚子:dù zi-Stomach
+喉咙 痛:hóu lóng tòng-Sore throat
+流鼻涕:liú bí tì-Runny nose
+蛀牙:zhù yá-Tooth decay
+饭后:fàn hòu-After meals
+睡前:shuì qián-Before sleep
+药:yào-Medicine
+#
+眼(yǎn) 睛(jing) :Eye
+耳(ěr) 朵(duo) :Ear
+牙(yá) 齿(chǐ) :Tooth
+肚(dù) 子(zi) :Stomach
+喉(hóu) 咙(lóng) 痛(tòng) :Sore throat
+%
+流(liú) 鼻(bí) 涕(tì) :Runny nose
+蛀(zhù) 牙(yá) :Tooth decay
+饭(fàn) 后(hòu) :After meals
+睡(shuì) 前(qián) :Before sleep
+药(yào) :Medicine
+#
+< I want to get medicine. > {:id aku ingin obat }
+< 我(wǒ)[] 要(yào)[] 领(lǐng)[] 药(yào)[] 。 >
+#
+< I want to visit the patient. > {:id aku ingin mengunjungi pasien. }
+< 我(wǒ)[] 要(yào)[] 探(tàn)[] 望(wàng)[] 病(bìng)[] 人(rén)[] 。 >
+#
+< Do you have a cough? I have a cough. > {:id apa kamu batuk? iya aku sedang batuk. }
+< 你(nǐ)[] 有(yǒu)[] 咳(ké)[] 嗽(sou)[] 吗(ma)[] ？ /  我(wǒ)[] 有(yǒu)[] 咳(ké)[] 嗽(sou)[] 。 >
+#
+< Do you have a fever? I have a fever. > {:id apa kamu demam? iya aku sedang demam. }
+< 你(nǐ)[] 有(yǒu)[] 发(fā)[] 烧(shāo)[] 吗(ma)[] ？ / 我(wǒ)[] 有(yǒu)[] 发(fā)[] 烧(shāo)[] 。 >
+#
+< My hand is injured. > {:id tanganku sedang di infus. }
+< 我(wǒ)[] 的(de)[] 手(shǒu)[] 受(shòu)[] 伤(shāng)[] 了(le)[] 。 >
+#------------------------------------------------------------------ 	        <-Batas Recording dan Arranging Text->
+< The little fish grows into a big fish > {:id Ikan kecil itu tumbuh menjadi ikan besar }
+< 小(xiǎo)[] 鱼(yú)[] * 长(zhǎng)[] 成(chéng)[] * 了(le)[] * 大(dà)[] 鱼(yú)[] >
+#
+< The sea is like a blue sky > {:id Laut itu seperti langit biru }
+< 大(dà)[] 海(hǎi)[] * 像(xiàng)[] * 一(yí)[] 片(piàn)[] * 蓝(lán)[] 蓝(lán)[] 的(de)[] * 天(tiān)[] >
+#
+< Birds fly happily in the sky > {:id Burung-burung terbang gembira di angkasa }
+< 小(xiǎo)[] 鸟(niǎo)[] * 快(kuài)[] 乐(lè)[] 地(dì)[] * 在(zài)[] * 天(tiān)[] 空(kōng)[] 中(zhōng)[] * 飞(fēi)[] >
+#
+< There is a road in front of my house > {:id Ada jalan di depan rumahku }
+< 我(wǒ)[] 家(jiā)[] * 门(mén)[] 前(qián)[] * 有(yǒu)[] * 一(yì)[] 条(tiáo)[] * 马(mǎ)[] 路(lù)[] >
+#
+< The stars in the sky are like eyes > {:id Bintang-bintang di langit bagaikan mata }
+< 天(tiān)[] 上(shàng)[] 的(de)[] * 星(xīng)[] 星(xīng)[] 像(xiàng)[] * 一(yì)[] 只(zhī)[] 只(zhī)[] * 眼(yǎn)[] 睛(jīng)[] >

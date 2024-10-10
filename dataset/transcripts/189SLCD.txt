@@ -1,0 +1,37 @@
+桌子:zhuō zi-table
+一本书:yī běn shū-a book
+一颗牙齿:yī kē yá chǐ-a tooth
+一支笔:yī zhī bǐ-a pen
+送:sòng-give
+一朵:yī duǒ-one measure word （flower）
+红色:hóng sè-red
+水池:shuǐ chí-pond
+一条:yī tiáo-one piece
+金色:jīn sè-gold
+#
+桌(zhuō)[] 子(zi)[] :table
+一(yī)[] 本(běn)[] 书(shū)[] :a book
+一(yī)[] 颗(kē)[] 牙(yá)[] 齿(chǐ)[] :a tooth
+一(yī)[] 支(zhī)[] 笔(bǐ)[] :a pen
+送(sòng)[] :give
+%
+一(yī)[] 朵(duǒ)[] :one measure word （flower）
+红(hóng)[] 色(sè)[] :red
+水(shuǐ)[] 池(chí)[] :pond
+一(yī)[] 条(tiáo)[] :one piece
+金(jīn)[] 色(sè)[] :gold
+#
+< There is a book on the table. >
+< 桌(zhuō)[] 子(zi)[] 上(shàng)[] 有(yǒu)[] 一(yī)[] 本(běn)[] 书(shū)[] 。 >
+#
+< Grandpa has only one tooth in his mouth. >
+< 爷(yé)[] 爷(ye)[] 的(de)[] 嘴(zuǐ)[] 里(lǐ)[] 只(zhǐ)[] 有(yǒu)[] 一(yī)[] 颗(kē)[] 牙(yá)[] 齿(chǐ)[] 。 >
+#
+< There is a pen in my schoolbag. >
+< 我(wǒ)[] 的(de)[] 书(shū)[] 包(bāo)[] 里(lǐ)[] 有(yǒu)[] 一(yī)[] 支(zhī)[] 笔(bǐ)[] 。 >
+#
+< I give my mother a red flower. >
+< 我(wǒ)[] 送(sòng)[] 给(gěi)[] 妈(mā)[] 妈(ma)[] 一(yī)[] 朵(duǒ)[] 红(hóng)[] 色(sè)[] 的(de)[] 花(huā)[] 。 >
+#
+< There is a goldfish in the pond. >
+< 水(shuǐ)[] 池(chí)[] 里(lǐ)[] 有(yǒu)[] 一(yī)[] 条(tiáo)[] 金(jīn)[] 色(sè)[] 的(de)[] 鱼(yú)[] 。 >

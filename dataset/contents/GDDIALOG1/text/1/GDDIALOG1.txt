@@ -1,0 +1,42 @@
+﻿玩具:wán jù-Toy
+认识:rèn shi-Know
+名字:míng zi-Name
+皮球:pí qiú-Ball
+不必:bù bì-No need
+找:zhǎo-Find
+倒影:dào yǐng-Reflection
+#
+玩具:Toy
+认识:Know
+名字:Name
+皮球:Ball
+不必:No need
+找:Find
+倒影:Reflection
+#
+< Xiaoyu: Why are you crying? >  {:id Xiao Yu: Kenapa kamu menangis? }
+< 小(xiǎo)[3] 鱼(yú)[2] : { 你(nǐ)[3] 为(wèi)[4] 什(shén)[2] 么(me)[0] 哭(kū)[1] 呀(ya)[0]  ？ } >
+#
+< Little Frog: My toy is missing. >  {:id Katak Kecil: Mainanku hilang. }
+< 小(xiǎo)[3] 青(qīng)[1] 蛙(wā)[1] : 我(wǒ)[3] 的(de)[0] 玩(wán)[2] 具(jù)[4] 不(bú)[2] 见(jiàn)[4] 了(le)[0] 。 }  >
+#
+< Xiaoyu: What are your toys like? >  {:id Xiaoyu: Seperti apa mainanmu? }
+< 小(xiǎo)[3] 鱼(yú)[2] : 你(nǐ)[3] 的(de)[0] 玩(wán)[2] 具(jù)[4] 是(shì)[4] 怎(zěn)[3] 样(yàng)[4] 的(de)[0] > 
+#
+< Little Frog: I don’t know its name. It’s round and yellow. >  {:id Katak Kecil: Saya tidak tahu namanya. Bentuknya bulat dan berwarna kuning. }
+< 小(xiǎo)[3] 青(qīng)[1] 蛙(wā)[1] : 我(wǒ)[3] 不(bù)[4] 知(zhī)[1] 道(dao)[0] 它(tā)[1] 的(de)[0] 名(míng)[2] 字(zi)[0] ， 它(tā)[1] 是(shì)[4] 圆(yuán)[2] 圆(yuán)[2] 的(de)[0] ， 黄(huáng)[2] 黄(huáng)[2] 的(de)[0] 东(dōng)[1] 西(xi)[0] 。 >
+#
+< Xiaoyu: I know it’s a rubber ball. I saw the children playing on the playground. >  {:id Xiaoyu: Saya tahu itu bola karet. Saya melihat anak-anak bermain di taman bermain. }
+< 小(xiǎo)[3] 鱼(yú)[2] : 我(wǒ)[3] 知(zhī)[1] 道(dao)[0] 那(nà)[4] 是(shì)[4] 皮(pí)[2] 球(qiú)[2] ， 我(wǒ)[3] 看(kàn)[4] 见(jiàn)[4] 小(xiǎo)[3] 朋(péng)[2] 友(you)[] 们(men)[0] 正(zhèng)[4] 在(zài)[4] 操(cāo)[1] 场(chǎng)[3] 玩(wán)[2] 着(zhe)[] 。 >
+
+
+
+
+
+
+
+
+
+
+
+

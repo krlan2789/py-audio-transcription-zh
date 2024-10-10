@@ -1,0 +1,48 @@
+明天:míng tiān-tomorrow
+今天:jīn tiān-today
+冷:lěng-cold
+汉字:hàn zì-Chinese character/ writing
+电脑:diàn nǎo-computer
+星期几:xīng qí jǐ-which day
+不会:bù huì-can't
+开车:kāi chē-drive a car
+#
+明(míng)[] 天(tiān)[] :tomorrow
+今(jīn)[] 天(tiān)[] :today
+冷(lěng)[] :cold
+汉(hàn)[] 字(zì)[] :Chinese character/ writing
+%
+电(diàn)[] 脑(nǎo)[] :computer
+星(xīng)[] 期(qī)[] 几(jǐ)[] :which day
+不(bú)[] 会(huì)[] :can't
+开(kāi)[] 车(chē)[] :drive a car
+#
+< Do you have computer? > {:id Apakah kamu mempunyai computer? }
+< 你(nǐ)[] 有(yǒu)[] 电(diàn)[] 脑(nǎo)[] 吗(ma)[] ？ >
+*
+< I have a computer > {:id Saya mempunyai 1 komputer }
+< 我(wǒ)[] 有(yǒu)[] 一(yì)[] 台(tái)[] 电(diàn)[] 脑(nǎo)[] 。 >
+#
+< What day is today? > {:id Hari ini hari apa? }
+< 明(míng)[] 天(tiān)[] 星(xīng)[] 期(qī)[] 几(jǐ)[] ？ >
+*
+< Today is Monday > {:id Hari ini hari Senin }
+< 明(míng)[] 天(tiān)[] 星(xīng)[] 期(qī)[] 一(yī)[] 。 >
+#
+< Is it cold today? > {:id Apakah hari ini dingin? }
+< 今(jīn)[] 天(tiān)[] 冷(lěng)[] 不(bù)[] 冷(lěng)[] ？ >
+*
+< Today is not cold > {:id Hari ini tidak dingin }
+< 今(jīn)[] 天(tiān)[] 不(bù)[] 冷(lěng)[] 。 >
+#
+< I can't drive, how about you? > {:id Saya tidak bisa menyetir, bagaimana dengan kamu? }
+< 我(wǒ)[] 不(bú)[] 会(huì)[] 开(kāi)[] 车(chē)[] ， 你(nǐ)[] 呢(ne)[] ？ >
+*
+< I can drive > {:id Saya bisa menyetir }
+< 我(wǒ)[] 会(huì)[] 开(kāi)[] 车(chē)[] 。 >
+#
+< How did you get here? > {:id Bagaimana kamu sampai di sini? }
+< 你(nǐ)[] 是(shì)[] 怎(zěn)[] 么(me)[] 来(lái)[] 这(zhè)[] 儿(ér)[] 的(de)[] ？ >
+*
+< I walked > {:id Saya jalan kaki }
+< 我(wǒ)[] 走(zǒu)[] 着(zhe)[] 来(lái)[] 的(de)[] 。 >

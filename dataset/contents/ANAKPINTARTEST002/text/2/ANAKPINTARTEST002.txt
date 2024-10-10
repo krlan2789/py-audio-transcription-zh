@@ -1,0 +1,37 @@
+﻿有:yǒu-have
+两个:liǎng gè-two
+没有:méi yǒu-no
+我们家:wǒ men jiā-our house
+司机:sī jī-driver
+佣人:yōng rén-maid
+好朋友:hǎo péng you-good friend
+明天:míng tiān-tomorrow
+晚上:wǎn shàng-night
+奶奶:nǎi nai-grandma
+#
+有(yǒu)[] :have
+两(liǎng)[] 个(gè)[] :two
+没(méi)[] 有(yǒu)[] :no
+我(wǒ)[] 们(men)[] 家(jiā)[] :our house
+司(sī)[] 机(jī)[] :driver
+%
+佣(yōng)[] 人(rén)[] :maid
+好(hǎo)[] 朋(péng)[] 友(you)[] :good friend
+明(míng)[] 天(tiān)[] :tomorrow
+晚(wǎn)[] 上(shàng)[] :night
+奶(nǎi)[] 奶(nai)[] :grandma
+#
+< I have two elder brothers and no younger brother >{:id saya punya 2 kakak }
+< 我(wǒ)[] 有(yǒu)[] 两(liǎng)[] 个(gè)[] 哥(gē)[] 哥(ge)[] 没(méi)[] 有(yǒu)[] 弟(dì)[] 弟(di)[] 。 >
+#
+< Our house has one driver, two maids. >{:id rumah kami tidak ada supir }
+< 我(wǒ)[] 们(men)[] 家(jiā)[] 有(yǒu)[] 一(yí)[] 个(gè)[] 司(sī)[] 机(jī)[] ， 两(liǎng)[] 个(gè)[] 佣(yōng)[] 人(rén)[] 。 >
+#
+< I have six good friends. >{:id saya punya 6 teman baik }
+< 我(wǒ)[] 有(yǒu)[] 六(liù)[] 个(gè)[] 好(hǎo)[] 朋(péng)[] 友(you)[] 。 >
+#
+< I want to go to the supermarket today. >{:id saya ingin pergi ke took hari ini }
+< 今(jīn)[] 天(tiān)[] 我(wǒ)[] 要(yào)[] 去(qù)[] 超(chāo)[] 市(shì)[] 。 >
+#
+< Grandma needs to go to the hospital tomorrow night. >{:id nenek butuh ke rumah sakit malam ini }
+< 明(míng)[] 天(tiān)[] 晚(wǎn)[] 上(shàng)[] 奶(nǎi)[] 奶(nai)[] 要(yào)[] 去(qù)[] 医(yī)[] 院(yuàn)[] 。 >

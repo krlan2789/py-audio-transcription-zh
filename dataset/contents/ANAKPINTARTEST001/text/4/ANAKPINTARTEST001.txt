@@ -1,0 +1,39 @@
+苹果:píng guǒ-Apple
+葡萄:pú tao-Grape
+香蕉:xiāng jiāo-Banana
+草莓:cǎo méi-Strawberry
+橘子:jú zi-Orange
+西瓜:xī guā-Watermelon
+凤梨:fèng lí-Pineapple
+芒果:máng guǒ-Mango
+椰子:yē zi-Coconut
+木瓜:mù guā-Papaya
+柠檬:níng méng-Lemon
+#
+苹(píng)[] 果(guǒ)[] :Apple
+葡(pú)[] 萄(tao)[] :Grape
+香(xiāng)[] 蕉(jiāo)[] :Banana
+草(cǎo)[] 莓(méi)[] :Strawberry
+橘(jú)[] 子(zi)[] :Orange
+%
+西(xī)[] 瓜(guā)[] :Watermelon
+凤(fèng)[] 梨(lí)[] :Pineapple
+芒(máng)[] 果(guǒ)[] :Mango
+椰(yē)[] 子(zi)[] :Coconut
+木(mù)[] 瓜(guā)[] :Papaya
+柠(níng)[] 檬(méng)[] :Lemon
+#
+< Apple skins can be eaten, banana peels cannot be eaten. > {:id kulit apel bisa dimakan, kulit pisang tidak bisa dimakan }
+< 苹(píng)[] 果(guǒ)[] 的(de)[] 皮(pí)[] 可(kě)[] 以(yǐ)[] 吃(chī)[] ， 香(xiāng)[] 蕉(jiāo)[] 的(de)[] 皮(pí)[] 不(bù)[] 可(kě)[] 以(yǐ)[] 吃(chī)[] 。 >
+#
+< Coconut skins and watermelon skins cannot be eaten. > {:id kulit kelapa dan semangka tidak bisa dimakan }
+< 椰(yē)[] 子(zi)[] 的(de)[] 皮(pí)[] 和(hé)[] 西(xī)[] 瓜(guā)[] 的(de)[] 皮(pí)[] 都(dōu)[] 不(bù)[] 可(kě)[] 以(yǐ)[] 吃(chī)[] 。 >
+#
+< Mango skins and papaya skins are green. >{:id kulit manga dan papaya warna hijau }
+< 芒(máng)[] 果(guǒ)[] 的(de)[] 皮(pí)[] 和(hé)[] 木(mù)[] 瓜(guā)[] 的(de)[] 皮(pí)[] 都(dōu)[] 是(shì)[] 绿(lǜ)[] 色(sè)[] 的(de)[] 。 >
+#
+< Strawberry skins and grape skins can be eaten. >{:id kulit strawbeeri dan kulit anggur bisa dimakan }
+< 草(cǎo)[] 莓(méi)[] 的(de)[] 皮(pí)[] 和(hé)[] 葡(pú)[] 萄(tao)[] 的(de)[] 皮(pí)[] 都(dōu)[] 可(kě)[] 以(yǐ)[] 吃(chī)[] 。 >
+#
+< Pineapple's skin cannot be eaten, it must be peeled. >{:id kulit nanas tidak bisa dimakan }
+< 凤(fèng)[] 梨(lí)[] 的(de)[] 皮(pí)[] 不(bù)[] 可(kě)[] 以(yǐ)[] 吃(chī)[] ， 要(yào)[] 削(xiāo)[] 皮(pí)[] 。 >

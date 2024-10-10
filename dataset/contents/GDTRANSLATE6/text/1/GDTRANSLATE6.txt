@@ -1,0 +1,42 @@
+桌子上:zhuō zi shàng-on the table
+游戏机:yóu xì jī-game console
+饼干:bǐng gān-biscuit
+和:hé-and
+蛋糕:dàn gāo-cake
+书包里:shū bāo lǐ-in the schoolbag
+铅笔:qiān bǐ-pencil
+本子:běn zi-book / notebook
+抽屉:chōu tì-drawer
+漫画:màn huà-comic
+故事书:gù shì shū-story book
+口袋:kǒu dài-pocket
+弹珠:dàn zhū-marbles
+卷笔刀:juàn bǐ dāo-pencil sharpener
+沙发上:shā fā shàng-on the sofa
+#
+桌(zhuō)[] 子(zi)[] 上(shàng)[] :on the table
+游(yóu)[] 戏(xì)[] 机(jī)[] :game console
+饼(bǐng)[] 干(gān)[] :biscuit
+和(hé)[] :and
+蛋(dàn)[] 糕(gāo)[] :cake
+%
+书(shū)[] 包(bāo)[] 里(lǐ)[] :in the schoolbag
+铅(qiān)[] 笔(bǐ)[] :pencil
+本(běn)[] 子(zi)[] :book / notebook
+抽(chōu)[] 屉(tì)[] :drawer
+漫(màn)[] 画(huà)[] :comic
+#
+< There are cookies and cakes on the table. > {:id Ada kukis dan kue di atas meja }
+< 桌(zhuō)[] 子(zi)[] 上(shàng)[] 有(yǒu)[] 饼(bǐng)[] 干(gān)[] 和(hé)[] 蛋(dàn)[] 糕(gāo)[] >
+#
+< There are pencils and books in the school bag. > {:id Ada pensil dan buku di dalam tas sekolah }
+< 书(shū)[] 包(bāo)[] 里(lǐ)[] 有(yǒu)[] 铅(qiān)[] 笔(bǐ)[] 和(hé)[] 本(běn)[] 子(zǐ)[] >
+#
+< There are comics and story books in the drawer. > {:id Ada komik dan buku cerita di dalam laci }
+< 抽(chōu)[] 屉(tì)[] 里(lǐ)[] 有(yǒu)[] 漫(màn)[] 画(huà)[] 和(hé)[] 故(gù)[] 事(shì)[] 书(shū)[] >
+#
+< There is a doll and game console on the sofa. > {:id Ada boneka dan mesin permainan di atas sofa }
+< 沙(shā)[] 发(fā)[] 上(shàng)[] 有(yǒu)[] 娃(wá)[] 娃(wa)[] 和(hé)[] 游(yóu)[] 戏(xì)[] 机(jī)[] >
+#
+< There are marbles and a pencil sharpener in the pocket. > {:id Ada kelereng dan rautan pensil di dalam kantong }
+< 口(kǒu)[] 袋(dài)[] 里(lǐ)[] 有(yǒu)[] 弹(dàn)[] 珠(zhū)[] 和(hé)[] 卷(juàn)[] 笔(bǐ)[] 刀(dāo)[] >
