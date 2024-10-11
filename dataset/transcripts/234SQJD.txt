@@ -1,0 +1,60 @@
+护照:hù zhào-Passport
+丢失:diū shī-lost
+申请:shēn qǐng-apply
+补发:bǔ fā-reissue
+银行:yín háng-bank
+办:bàn-to 
+停卡:tíng kǎ-stop the card 
+重要:zhòng yào-Important
+证件:zhèng jiàn-Documents
+偷:tōu-Stolen
+报警:bào jǐng-Report to the police
+捡到:jiǎn dào-picked it up
+背包:bēi bāo-Backpack
+脚踏车:jiǎo tà chē-Bicycle
+皮夹:pí jiā-Wallet
+失主:shī zhǔ-Owner (of lost property) 
+联系:lián xì-Contact
+失物招领处:shī wù zhāo lǐng chù-Lost and Found
+需要:xū yào-Need to 
+被:bèi-by
+#
+护(hù)[] 照(zhào)[] :Passport
+丢(diū)[] 失(shī)[] :lost
+申(shēn)[] 请(qǐng)[] :apply
+补(bǔ)[] 发(fā)[] :reissue
+银(yín)[] 行(háng)[] :bank
+办(bàn)[] :to 
+停(tíng)[] 卡(kǎ)[] :stop the card 
+重(zhòng)[] 要(yào)[] :Important
+证(zhèng)[] 件(jiàn)[] :Documents
+偷(tōu)[] :Stolen
+%
+报(bào)[] 警(jǐng)[] :Report to the police
+捡(jiǎn)[] 到(dào)[] :picked it up
+背(bèi)[] 包(bāo)[] :Backpack
+脚(jiǎo)[] 踏(tà)[] 车(chē)[] :Bicycle
+皮(pí)[] 夹(jiā)[] :Wallet
+失(shī)[] 主(zhǔ)[] :Owner (of lost property) 
+联(lián)[] 系(xì)[] :Contact
+失(shī)[] 物(wù)[] 招(zhāo)[] 领(lǐng)[] 处(chù)[] :Lost and Found
+需(xū)[] 要(yào)[] :Need to 
+被(bèi)[] :by
+#
+< Dad's important documents has been stolen by someone, hurry report it to the police! >
+< 爸(bà)[] 爸(ba)[] 的(de)[] 重(zhòng)[] 要(yào)[] 证(zhèng)[] 件(jiàn)[] 被(bèi)[] 人(rén)[] 偷(tōu)[] 了(le)[] ， 快(kuài)[] 去(qù)[] 报(bào)[] 警(jǐng)[] ！ >
+#
+< Oh no, my wallet is missing, can help me find it for a moment? >
+< 糟(zāo)[] 糕(gāo)[] ， 我(wǒ)[] 的(de)[] 钱(qián)[] 包(bāo)[] 不(bú)[] 见(jiàn)[] 了(le)[] ， 可(kě)[] 以(yǐ)[] 帮(bāng)[] 我(wǒ)[] 找(zhǎo)[] 一(yí)[] 下(xià)[] 吗(ma)[] ？ >
+#
+< I lost my passport, how to apply for a reissue? >
+< 我(wǒ)[] 的(de)[] 护(hù)[] 照(zhào)[] 丢(diū)[] 失(shī)[] 了(le)[] ， 要(yào)[] 怎(zěn)[] 么(me)[] 申(shēn)[] 请(qǐng)[] 补(bǔ)[] 发(fā)[] ？ >
+#
+< The credit card is lost, hurry to the bank to stop the card. >
+< 信(xìn)[] 用(yòng)[] 卡(kǎ)[] 丢(diū)[] 失(shī)[] 了(le)[] ， 快(kuài)[] 到(dào)[] 银(yín)[] 行(háng)[] 办(bàn)[] 停(tíng)[] 卡(kǎ)[] 。 >
+#
+< The things that I lost have been found, thank you. >
+< 我(wǒ)[] 丢(diū)[] 失(shī)[] 的(de)[] 东(dōng)[] 西(xi)[] 已(yǐ)[] 经(jīng)[] 找(zhǎo)[] 到(dào)[] 了(le)[] ， 谢(xiè)[] 谢(xie)[] 你(nǐ)[] 。 >
+#
+< Pardon, excuse me where is the " Lost and Found"？ >
+< 不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] ， 请(qǐng)[] 问(wèn)[]  “失(shī)[] 物(wù)[] 招(zhāo)[] 领(lǐng)[] 处(chù)[] ” 在(zài)[] 哪(nǎ)[] 里(lǐ)[] ？ >

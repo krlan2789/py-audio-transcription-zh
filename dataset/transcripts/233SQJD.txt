@@ -1,0 +1,60 @@
+糟糕:zāo gāo-Oh no
+钱包:qián bāo-Wallet
+身份证:shēn fèn zhèng-ID Card
+信用卡:xìn yòng kǎ-Credit Card
+一些:yì xiē-some
+现金:xiàn jīn-Cash
+要是:yào shì-If
+找:zhǎo-found
+尽快:jìn kuài-as soon as possible
+通知:tōng zhī-notify
+护照:hù zhào-Passport
+丢失:diū shī-lost
+申请:shēn qǐng-apply
+补发:bǔ fā-reissue
+银行:yín háng-bank
+办:bàn-to 
+停卡:tíng kǎ-stop the card 
+重要:zhòng yào-Important
+证件:zhèng jiàn-Documents
+偷:tōu-Stolen
+#
+糟(zāo)[] 糕(gāo)[] :Oh no
+钱(qián)[] 包(bāo)[] :Wallet
+身(shēn)[] 份(fèn)[] 证(zhèng)[] :ID Card
+信(xìn)[] 用(yòng)[] 卡(kǎ)[] :Credit Card
+一(yì)[] 些(xiē)[] :some
+现(xiàn)[] 金(jīn)[] :Cash
+要(yào)[] 是(shì)[] :If
+找(zhǎo)[] :found
+尽(jìn)[] 快(kuài)[] :as soon as possible
+通(tōng)[] 知(zhī)[] :notify
+%
+护(hù)[] 照(zhào)[] :Passport
+丢(diū)[] 失(shī)[] :lost
+申(shēn)[] 请(qǐng)[] :apply
+补(bǔ)[] 发(fā)[] :reissue
+银(yín)[] 行(háng)[] :bank
+办(bàn)[] :to 
+停(tíng)[] 卡(kǎ)[] :stop the card 
+重(zhòng)[] 要(yào)[] :Important
+证(zhèng)[] 件(jiàn)[] :Documents
+偷(tōu)[] :Stolen
+#
+< My wallet is brown colour,inside it there is an ID card, credit card and some cash. >
+< 我(wǒ)[] 的(de)[] 钱(qián)[] 包(bāo)[] 是(shì)[] 咖(kā)[] 啡(fēi)[] 色(sè)[] ， 里(lǐ)[] 面(miàn)[] 有(yǒu)[] 身(shēn)[] 份(fèn)[] 证(zhèng)[] ， 信(xìn)[] 用(yòng)[] 卡(kǎ)[] 和(hé)[] 一(yì)[] 些(xiē)[] 现(xiàn)[] 金(jīn)[] 。 >
+#
+< My phone is missing, excuse me did anyone picked it up? >
+< 我(wǒ)[] 的(de)[] 手(shǒu)[] 机(jī)[] 不(bú)[] 见(jiàn)[] 了(le)[] ， 请(qǐng)[] 问(wèn)[] 有(yǒu)[] 没(méi)[] 有(yǒu)[] 人(rén)[] 捡(jiǎn)[] 到(dào)[] ？ >
+#
+< I picked up one black coloured wallet, let the owner (of lost property)[]  contact me as soon as possible. >
+< 我(wǒ)[] 捡(jiǎn)[] 到(dào)[] 一(yí)[] 个(gè)[] 黑(hēi)[] 色(sè)[] 皮(pí)[] 夹(jiā)[] ， 请(qǐng)[] 失(shī)[] 主(zhǔ)[] 尽(jǐn)[] 快(kuài)[] 联(lián)[] 系(xì)[] 我(wǒ)[] 。 >
+#
+< If the wallet is found, please notify me as soon as possible. >
+< 要(yào)[] 是(shì)[] 钱(qián)[] 包(bāo)[] 找(zhǎo)[] 到(dào)[] 了(le)[] ， 请(qǐng)[] 尽(jìn)[] 快(kuài)[] 通(tōng)[] 知(zhī)[] 我(wǒ)[] 。 >
+#
+< My bicycle is missing, do I need to report to the police? >
+< 我(wǒ)[] 的(de)[] 脚(jiǎo)[] 踏(tà)[] 车(chē)[] 不(bú)[] 见(jiàn)[] 了(le)[] ， 需(xū)[] 要(yào)[] 报(bào)[] 警(jǐng)[] 吗(ma)[] ？ >
+#
+< My red backpack is missing, inside it there are important documents, what can be done? >
+< 我(wǒ)[] 的(de)[] 红(hóng)[] 色(sè)[] 背(bēi)[] 包(bāo)[] 不(bú)[] 见(jiàn)[] 了(le)[] ， 里(lǐ)[] 面(miàn)[] 有(yǒu)[] 重(zhòng)[] 要(yào)[] 证(zhèng)[] 件(jiàn)[] ， 怎(zěn)[] 么(me)[] 办(bàn)[] ？ >

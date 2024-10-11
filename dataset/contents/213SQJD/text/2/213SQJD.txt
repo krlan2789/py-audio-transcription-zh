@@ -1,0 +1,50 @@
+每天:měi tiān-Every day
+洗衣服:xǐ yī fu-Wash clothes
+才:cái-Only
+教:jiāo-Teach
+怎么用:zěn me yòng-How to use
+说明书:shuō míng shū-Instruction manual
+零钱:líng qián-Small change
+换:huàn-Change
+毛衣:máo yī-Sweater
+需要:xū yào-Need
+干洗:gān xǐ-Dry clean
+隔壁:gé bì-Next door
+商店:shāng diàn-Store
+洗衣粉:xǐ yī fěn-Detergent
+烘衣机:hōng yī jī-Dryer
+#
+每(měi)[] 天(tiān)[] :Every day
+洗(xǐ)[] 衣(yī)[] 服(fú)[] :Wash clothes
+才(cái)[] :Only
+教(jiāo)[] :Teach
+怎(zěn)[] 么(me)[] 用(yòng)[] :How to use
+说(shuō)[] 明(míng)[] 书(shū)[] :Instruction manual
+零(líng)[] 钱(qián)[] :Small change
+换(huàn)[] :Change
+%
+毛(máo)[] 衣(yī)[] :Sweater
+需(xū)[] 要(yào)[] :Need
+干(gān)[] 洗(xǐ)[] :Dry clean
+隔(gé)[] 壁(bì)[] :Next door
+商(shāng)[] 店(diàn)[] :Store
+洗(xǐ)[] 衣(yī)[] 粉(fěn)[] :Detergent
+烘(hōng)[] 衣(yī)[] 机(jī)[] :Dryer
+#
+< Do you wash clothes every day? I only wash them every three days. >
+< 你(nǐ)[] 每(měi)[] 天(tiān)[] 都(dōu)[] 会(huì)[] 洗(xǐ)[] 衣(yī)[] 服(fu)[] 吗(ma)[] ？ 我(wǒ)[] 三(sān)[] 天(tiān)[] 才(cái)[] 洗(xǐ)[] 一(yí)[] 次(cì)[] 。 >
+#
+< Can you teach me how to use this washing machine? >
+< 可(kě)[] 以(yǐ)[] 教(jiāo)[] 我(wǒ)[] 怎(zěn)[] 么(me)[] 用(yòng)[] 这(zhè)[] 个(ge)[] 洗(xǐ)[] 衣(yī)[] 机(jī)[] 吗(ma)[] ？ >
+#
+< There is an instruction manual on the washing machine, please take a look! >
+< 洗(xǐ)[] 衣(yī)[] 机(jī)[] 上(shàng)[] 面(mian)[] 有(yǒu)[] 说(shuō)[] 明(míng)[] 书(shū)[] ， 你(nǐ)[] 看(kàn)[] 一(yí)[] 下(xià)[] 吧(ba)[] ！ >
+#
+< Do you have any small change? If not, you can change it with me. >
+< 你(nǐ)[] 身(shēn)[] 上(shàng)[] 有(yǒu)[] 零(líng)[] 钱(qián)[] 吗(ma)[] ？ 如(rú)[] 果(guǒ)[] 没(méi)[] 有(yǒu)[] 可(kě)[] 以(yǐ)[] 跟(gēn)[] 我(wǒ)[] 换(huàn)[] 。 >
+#
+< You cannot wash this sweater by yourself, it needs to be dry cleaned. >
+< 这(zhè)[] 件(jiàn)[] 毛(máo)[] 衣(yī)[] 不(bù)[] 能(néng)[] 自(zì)[] 己(jǐ)[] 洗(xǐ)[] ， 需(xū)[] 要(yào)[] 干(gān)[] 洗(xǐ)[] 。 >
+#
+< You can go to the store next door to buy detergent. >
+< 你(nǐ)[] 可(kě)[] 以(yǐ)[] 到(dào)[] 隔(gé)[] 壁(bì)[] 的(de)[] 商(shāng)[] 店(diàn)[] 买(mǎi)[] 洗(xǐ)[] 衣(yī)[] 粉(fěn)[] 。 >

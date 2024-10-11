@@ -1,0 +1,55 @@
+主修:zhǔ xiū-major
+副修:fù xiū-minor
+法律:fǎ lǜ-law studies
+英语:yīng yǔ-english
+什么系:shén me xì-what department
+借:jiè-borrow
+心理学:xīn lǐ xué-psychology
+图书馆:tú shū guǎn-library
+绘画:huì huà-drawing
+参加:cān jiā-join
+社团:shè tuán-club
+商店:shāng diàn-shop
+体育馆:tǐ yù guǎn-gymnasium
+寒假:hán jià-winter holiday
+需要:xū yào-need
+学生证:xué shēng zhèng-student ID
+大学:dà xué-university
+#
+主(zhǔ)[] 修(xiū)[] :major
+副(fù)[] 修(xiū)[] :minor
+法(fǎ)[] 律(lǜ)[] :law studies
+英(yīng)[] 语(yǔ)[] :english
+什(shén)[] 么(me)[] 系(xì)[] :what department
+借(jiè)[] :borrow
+%
+心(xīn)[] 理(lǐ)[] 学(xué)[] :psychology
+图(tú)[] 书(shū)[] 馆(guǎn)[] :library
+绘(huì)[] 画(huà)[] :drawing
+参(cān)[] 加(jiā)[] :join
+社(shè)[] 团(tuán)[] :club
+商(shāng)[] 店(diàn)[] :shop
+%
+体(tǐ)[] 育(yù)[] 馆(guǎn)[] :gymnasium
+寒(hán)[] 假(jià)[] :winter holiday
+需(xū)[] 要(yào)[] :need
+学(xué)[] 生(shēng)[] 证(zhèng)[] :student ID
+大(dà)[] 学(xué)[] :university
+#
+< What department do you study in? I major in law studies, minor in english. >
+< 你(nǐ)[] 读(dú)[] 什(shén)[] 么(me)[] 系(xì)[] ？ 我(wǒ)[] 主(zhǔ)[] 修(xiū)[] 法(fǎ)[] 律(lǜ)[] ， 副(fù)[] 修(xiū)[] 英(yīng)[] 语(yǔ)[] 。 >
+#
+< Do I need a student ID to borrow books from the library? >
+< 在(zài)[] 图(tú)[] 书(shū)[] 馆(guǎn)[] 借(jiè)[] 书(shū)[] ， 需(xū)[] 要(yào)[] 学(xué)[] 生(shēng)[] 证(zhèng)[] 吗(ma)[] ？ >
+#
+< I went to bed too late last night and have been dozing off in class today. >
+< 我(wǒ)[] 昨(zuó)[] 晚(wǎn)[] 太(tài)[] 晚(wǎn)[] 睡(shuì)[] 觉(jiào)[] ， 今(jīn)[] 天(tiān)[] 上(shàng)[] 课(kè)[] 一(yì)[] 直(zhí)[] 打(dǎ)[] 瞌(kē)[] 睡(shuì)[] 。 >
+#
+< I work at gas station for four hours after school. >
+< 我(wǒ)[] 放(fàng)[] 学(xué)[] 后(hòu)[] 要(yào)[] 去(qù)[] 加(jiā)[] 油(yóu)[] 站(zhàn)[] 打(dǎ)[] 工(gōng)[] 四(sì)[] 个(gè)[] 小(xiǎo)[] 时(shí)[] 。 >
+#
+< Is there a specialized coach in tennis club? >
+< 网(wǎng)[] 球(qiú)[] 社(shè)[] 有(yǒu)[] 专(zhuān)[] 门(mén)[] 的(de)[] 教(jiào)[] 练(liàn)[] 指(zhǐ)[] 导(dǎo)[] 吗(ma)[] ？ >
+#
+< What clubs does the school have? Is there a tennis club? >
+< 学(xué)[] 校(xiào)[] 有(yǒu)[] 哪(nǎ)[] 些(xiē)[] 社(shè)[] 团(tuán)[] 活(huó)[] 动(dòng)[] ？ 有(yǒu)[] 网(wǎng)[] 球(qiú)[] 社(shè)[] 吗(ma)[] ？ >

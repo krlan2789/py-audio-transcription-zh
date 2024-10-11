@@ -1,0 +1,50 @@
+西瓜汁:xī guā zhī-Watermelon juice
+现榨:xiàn zhà-Freshly squeezed
+饮料:yǐn liào-Beverage
+太甜:tài tián-Too sweet
+不好意思:bù hǎo yì si-Sorry
+点:diǎn-Order
+冰茶:bīng chá-Iced tea
+芒果口味:máng guǒ kǒu wèi-Mango-flavored
+冰淇淋:bīng qí lín-Ice cream
+咖啡:kā fēi-Coffee
+不加:bù jiā-Don't add
+奶精:nǎi jīng-Creamer
+糖:táng-Sugar
+免费:miǎn fèi-Free
+甜点:tián diǎn-Desserts
+#
+西(xī)[] 瓜(guā)[] 汁(zhī)[] :Watermelon juice
+现(xiàn)[] 榨(zhà)[] :Freshly squeezed
+饮(yǐn)[] 料(liào)[] :Beverage
+太(tài)[] 甜(tián)[] :Too sweet
+不(bù)[] 好(hǎo)[] 意(yì)[] 思(sī)[] :Sorry
+点(diǎn)[] :Order
+冰(bīng)[] 茶(chá)[] :Iced tea
+芒(máng)[] 果(guǒ)[] 口(kǒu)[] 味(wèi)[] :Mango-flavored
+冰(bīng)[] 淇(qí)[] 淋(lín)[] :Ice cream
+咖(kā)[] 啡(fēi)[] :Coffee
+%
+不(bù)[] 加(jiā)[] :Don't add
+奶(nǎi)[] 精(jīng)[] :Creamer
+糖(táng)[] :Sugar
+免(miǎn)[] 费(fèi)[] :Free
+甜(tián)[] 点(diǎn)[] :Desserts
+#
+< Is this glass of watermelon juice freshly squeezed? >
+< 这(zhè)[] 杯(bēi)[] 西(xī)[] 瓜(guā)[] 汁(zhī)[] 是(shì)[] 现(xiàn)[] 榨(zhà)[] 的(de)[] 吗(ma)[] ？ >
+#
+< This beverage is too sweet, grandfather can’t drink it. I'll give it to you! >
+< 这(zhè)[] 杯(bēi)[] 饮(yǐn)[] 料(liào)[] 太(tài)[] 甜(tián)[] 了(le)[] ， 爷(yé)[] 爷(ye)[] 不(bù)[] 能(néng)[] 喝(hē)[] ， 给(gěi)[] 你(nǐ)[] 喝(hē)[] 吧(ba)[] ！ >
+#
+< Sorry, I ordered hot tea, not iced tea. >
+< 不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] ， 我(wǒ)[] 点(diǎn)[] 的(de)[] 是(shì)[] 热(rè)[] 茶(chá)[] ， 不(bú)[] 是(shì)[] 冰(bīng)[] 茶(chá)[] 。 >
+#
+< I want to eat mango-flavored ice cream. >
+< 我(wǒ)[] 想(xiǎng)[] 吃(chī)[] 芒(máng)[] 果(guǒ)[] 口(kǒu)[] 味(wèi)[] 的(de)[] 冰(bīng)[] 淇(qí)[] 淋(lín)[] 。 >
+#
+< Don't add creamer and sugar to my coffee. >
+< 我(wǒ)[] 的(de)[] 咖(kā)[] 啡(fēi)[] 不(bù)[] 加(jiā)[] 奶(nǎi)[] 精(jīng)[] ， 不(bù)[] 加(jiā)[] 糖(táng)[] 。 >
+#
+< Excuse me, do you have free desserts? >
+< 请(qǐng)[] 问(wèn)[] 你(nǐ)[] 们(men)[] 有(yǒu)[] 免(miǎn)[] 费(fèi)[] 的(de)[] 甜(tián)[] 点(diǎn)[] 吗(ma)[] ？ >

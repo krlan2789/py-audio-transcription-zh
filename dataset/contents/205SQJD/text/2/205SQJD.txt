@@ -1,0 +1,81 @@
+﻿不收:bù shōu-Don't accept
+现金:xiàn jīn-Cash
+只能:zhǐ néng-Can only
+刷卡:shuā kǎ-Use credit card
+饭店:fàn diàn-Hotel
+价钱:jià qián-Price
+包括:bāo kuò-Include
+运费:yùn fèi-Shipping fee
+税金:shuì jīn-Tax
+不二价:bú èr jià-Fixed price
+放心:fàng xīn-Don't worry/feel free
+购物:gòu wù-Buy
+如果:rú guǒ-If
+那。。。:nà-Then
+付现:fù xiàn-Pay cash
+特产:tè chǎn-Special product
+送给:sòng gěi-Give to
+怎么那么:zěn me nà me-Why
+算:suàn-Give
+便宜一点:pián yi yī diǎn-Cheaper
+超市:chāo shì-Supermarket
+才:cái-Only
+贵:guì-Expensive
+活动:huó dòng-Activity/promotion
+结束:jié shù-End
+盒子:hé zi-Box
+分开:fēn kāi-Separate
+包:bāo-Wrap
+会员卡:huì yuán kǎ-Membership card
+包装:bāo zhuāng-Pack/wrap
+#
+不(bù)[] 收(shōu)[] :Don't accept
+现(xiàn)[] 金(jīn)[] :Cash
+只(zhǐ)[] 能(néng)[] :Can only
+刷(shuā)[] 卡(kǎ)[] :Use credit card
+饭(fàn)[] 店(diàn)[] :Hotel
+价(jià)[] 钱(qián)[] :Price
+包(bāo)[] 括(kuò)[] :Include
+运(yùn)[] 费(fèi)[] :Shipping fee
+税(shuì)[] 金(jīn)[] :Tax
+不(bú)[] 二(èr)[] 价(jià)[] :Fixed price
+%
+放(fàng)[] 心(xīn)[] :Don't worry/feel free
+购(gòu)[] 物(wù)[] :Buy
+如(rú)[] 果(guǒ)[] :If
+那(nà)[] 。。。:Then
+付(fù)[] 现(xiàn)[] :Pay cash
+特(tè)[] 产(chǎn)[] :Special product
+送(sòng)[] 给(gěi)[] :Give to
+怎(zěn)[] 么(me)[] 那(nà)[] 么(me)[] :Why
+超(chāo)[] 市(shì)[] :Supermarket
+包(bāo)[] 装(zhuāng)[] :Pack/wrap
+%
+算(suàn)[] :Give
+才(cái)[] :Only
+贵(guì)[] :Expensive
+活(huó)[] 动(dòng)[] :Activity/promotion
+结(jié)[] 束(shù)[] :End
+盒(hé)[] 子(zi)[] :Box
+分(fēn)[] 开(kāi)[] :Separate
+包(bāo)[] :Wrap
+会(huì)[] 员(yuán)[] 卡(kǎ)[] :Membership card
+便(pián)[] 宜(yi)[] 一(yì)[] 点(diǎn)[] :Cheaper
+#
+< We don't accept cash here, you can only use credit cards. >
+< 这(zhè)[] 里(lǐ)[] 不(bù)[] 收(shōu)[] 现(xiàn)[] 金(jīn)[] ， 只(zhǐ)[] 能(néng)[] 刷(shuā)[] 卡(kǎ)[] 。 >
+#
+< Does this price include shipping fee and tax? >
+< 这(zhè)[] 个(ge)[] 价(jià)[] 钱(qián)[] 包(bāo)[] 括(kuò)[] 运(yùn)[] 费(fèi)[] 和(hé)[] 税(shuì)[] 金(jīn)[] 吗(ma)[] ？ >
+#
+< All of these are the specialty products here, you can buy and give them to your friends when you come back. >
+< 这(zhè)[] 些(xiē)[] 都(dōu)[] 是(shì)[] 这(zhè)[] 里(lǐ)[] 的(de)[] 特(tè)[] 产(chǎn)[] ， 你(nǐ)[] 可(kě)[] 以(yǐ)[] 买(mǎi)[] 回(huí)[] 去(qù)[] 送(sòng)[] 给(gěi)[] 朋(péng)[] 友(you)[] 。 >
+#
+< Why is it so expensive? Can you give me cheaper price? >
+< 怎(zěn)[] 么(me)[] 那(nà)[] 么(me)[] 贵(guì)[] ？ 可(kě)[] 以(yǐ)[] 算(suàn)[] 便(pián)[] 宜(yi)[] 一(yī)[] 点(diǎn)[] 吗(ma)[] ？ >
+#
+< The buy one get one free promo will end this Friday. >
+< 买(mǎi)[] 一(yī)[] 送(sòng)[] 一(yī)[] 的(de)[] 活(huó)[] 动(dòng)[] 只(zhǐ)[] 到(dào)[] 这(zhè)[] 个(ge)[] 星(xīng)[] 期(qī)[] 五(wǔ)[] 就(jiù)[] 结(jié)[] 束(shù)[] 。 >
+#
+< I have a membership card, can I get a 20% discount? >
+< 我(wǒ)[] 有(yǒu)[] 会(huì)[] 员(yuán)[] 卡(kǎ)[] ， 可(kě)[] 以(yǐ)[] 打(dǎ)[] 八(bā)[] 折(zhé)[] 吗(ma)[] ？ >

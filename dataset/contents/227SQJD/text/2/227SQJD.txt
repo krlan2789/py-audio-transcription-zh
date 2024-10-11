@@ -1,0 +1,96 @@
+打九折:dǎ jiǔ zhé-10 percent discount
+不二价:bú èr jià-no second price, can't bargain
+价钱:jià qián-price
+包括:bāo kuò-include
+运费:yùn fèi-shipping fee
+服务费:fú wù fèi-service charge
+刷卡:shuā kǎ-swipe card
+付:fù-pay
+现金:xiàn jīn-cash
+不够:bú gòu-not enough
+一半:yí bàn-a half
+已经:yǐ jīng-already
+付清:fù qīng-fully paid
+收据:shōu jù-receipt
+费用:fèi yòng-cost, fee
+一共:yí gòng-total
+一百:yì bǎi-100
+一千:yì qiān-1000
+收:shōu-receive
+找:zhǎo-pay the change
+除了:chú le-except
+车票:chē piào-fare
+以外:yǐ wài-apart from
+需要:xū yào-need
+缴:jiǎo-pay
+折价卷:zhé jià juǎn-discount coupon
+到期:dào qí-expire
+集点卡:jí diǎn kǎ-point card
+集满:jí mǎn-fully collected
+一百点:yì bǎi diǎn-100 points
+免费:miǎn fèi-free
+赠送:zèng sòng-give
+手表:shǒu biǎo-watch
+换成:huàn chéng-change into
+炒饭:chǎo fàn-fried rice
+炒米粉:chǎo mǐ fěn-fried rice noodles
+加钱:jiā qián-pay more
+#
+打(dǎ)[] 九(jiǔ)[] 折(zhé)[] :10 percent discount
+不(bú)[] 二(èr)[] 价(jià)[] :no second price, can't bargain
+价(jià)[] 钱(qián)[] :price
+包(bāo)[] 括(kuò)[] :include
+运(yùn)[] 费(fèi)[] :shipping fee
+服(fú)[] 务(wù)[] 费(fèi)[] :service charge
+刷(shuā)[] 卡(kǎ)[] :swipe card
+付(fù)[] :pay
+现(xiàn)[] 金(jīn)[] :cash
+%
+不(bú)[] 够(gòu)[] :not enough
+一(yí)[] 半(bàn)[] :a half
+已(yǐ)[] 经(jīng)[] :already
+付(fù)[] 清(qīng)[] :fully paid
+收(shōu)[] 据(jù)[] :receipt
+费(fèi)[] 用(yòng)[] :cost, fee
+一(yí)[] 共(gòng)[] :total
+一(yì)[] 百(bǎi)[] :100
+一(yì)[] 千(qiān)[] :1000
+%
+收(shōu)[] :receive
+找(zhǎo)[] :pay the change
+除(chú)[] 了(le)[] :except
+车(chē)[] 票(piào)[] :fare
+以(yǐ)[] 外(wài)[] :apart from
+需(xū)[] 要(yào)[] :need
+缴(jiǎo)[] :pay
+折(zhé)[] 价(jià)[] 卷(juǎn)[] :discount coupon
+到(dào)[] 期(qī)[] :expire
+%
+集(jí)[] 点(diǎn)[] 卡(kǎ)[] :point card
+集(jí)[] 满(mǎn)[] :fully collected
+一(yì)[] 百(bǎi)[] 点(diǎn)[] :100 points
+免(miǎn)[] 费(fèi)[] :free
+赠(zèng)[] 送(sòng)[] :give
+手(shǒu)[] 表(biǎo)[] :watch
+换(huàn)[] 成(chéng)[] :change into
+炒(chǎo)[] 饭(fàn)[] :fried rice
+炒(chǎo)[] 米(mǐ)[] 粉(fěn)[] :fried rice noodles
+加(jiā)[] 钱(qián)[] :pay more
+#
+< I buy so many things, can I get a 10% discount? >
+< 我(wǒ)[] 买(mǎi)[] 这(zhè)[] 么(me)[] 多(duō)[] 东(dōng)[] 西(xi)[] ， 可(kě)[] 以(yǐ)[] 打(dǎ)[] 九(jiǔ)[] 折(zhé)[] 吗(ma)[] ？ >
+#
+< Does this price include shipping and service charges? >
+< 这(zhè)[] 个(ge)[] 价(jià)[] 钱(qián)[] 包(bāo)[] 括(kuò)[] 运(yùn)[] 费(fèi)[] 和(hé)[] 服(fú)[] 务(wù)[] 费(fèi)[] 吗(ma)[] ？ >
+#
+< My cash is not enough. Can I pay half by card and half by cash? >
+< 我(wǒ)[] 的(de)[] 现(xiàn)[] 金(jīn)[] 不(bú)[] 够(gòu)[] ， 请(qǐng)[] 问(wèn)[] 可(kě)[] 以(yǐ)[] 一(yí)[] 半(bàn)[] 刷(shuā)[] 卡(kǎ)[] ， 一(yí)[] 半(bàn)[] 付(fù)[] 现(xiàn)[] 金(jīn)[] 吗(ma)[] ？ >
+#
+< Except the fare, are there any other fees? >
+< 除(chú)[] 了(le)[] 车(chē)[] 票(piào)[] 费(fèi)[] 以(yǐ)[] 外(wài)[] ， 还(hái)[] 需(xū)[] 要(yào)[] 缴(jiǎo)[] 什(shén)[] 么(me)[] 费(fèi)[] 用(yòng)[] 吗(ma)[] ？ >
+#
+< If I can't use the card, I will pay in cash. >
+< 如(rú)[] 果(guǒ)[] 不(bù)[] 能(néng)[] 刷(shuā)[] 卡(kǎ)[] ， 我(wǒ)[] 就(jiù)[] 付(fù)[] 现(xiàn)[] 金(jīn)[] 吧(ba)[] 。 >
+#
+< Do I need to pay more to replace fried rice with fried rice noodles? >
+< 炒(chǎo)[] 饭(fàn)[] 换(huàn)[] 成(chéng)[] 炒(chǎo)[] 米(mǐ)[] 粉(fěn)[] ， 需(xū)[] 要(yào)[] 加(jiā)[] 钱(qián)[] 吗(ma)[] ？ >

@@ -1,0 +1,60 @@
+参考:cān kǎo-reference
+漫画:màn huà-comics
+区:qū-area
+地下一楼:dì xià yī lóu-one floor below
+办:bàn-apply
+借书卡:jiè shū kǎ-Library card
+除了:chú le-beside
+护照:hù zhào-passport 
+两寸:liǎng cùn-two inch sized
+照片:zhào piàn-photo 
+儿童:ér tóng-children 
+走道:zǒu dào-corridor
+右手边:yòu shǒu biān-right-hand side
+第二排:dì èr pái-second row
+弄破:nòng pò-tear
+赔:péi-compensate 
+英文版:yīng wén bǎn-English edition 
+不小心:bù xiǎo xīn-careless 
+学生证:xué shēng zhèng-student ID card 
+付:fù-pay
+#
+参(cān)[] 考(kǎo)[] :reference
+漫(màn)[] 画(huà)[] :comics
+区(qū)[] :area
+地(dì)[] 下(xià)[] 一(yī)[] 楼(lóu)[] :one floor below
+办(bàn)[] :apply
+借(jiè)[] 书(shū)[] 卡(kǎ)[] :Library card
+除(chú)[] 了(le)[] :beside
+护(hù)[] 照(zhào)[] :passport 
+两(liǎng)[] 寸(cùn)[] :two inch sized
+照(zhào)[] 片(piàn)[] :photo 
+%
+儿(ér)[] 童(tóng)[] :children 
+走(zǒu)[] 道(dào)[] :corridor
+右(yòu)[] 手(shǒu)[] 边(biān)[] :right-hand side
+第(dì)[] 二(èr)[] 排(pái)[] :second row
+弄(nòng)[] 破(pò)[] :tear
+赔(péi)[] :compensate 
+英(yīng)[] 文(wén)[] 版(bǎn)[] :English edition 
+不(bù)[] 小(xiǎo)[] 心(xīn)[] :careless 
+学(xué)[] 生(shēng)[] 证(zhèng)[] :student ID card 
+付(fù)[] :pay
+#
+< Excuse me, where to find children books? Second row, right-hand side. >
+< 请(qǐng)[] 问(wèn)[] 儿(ér)[] 童(tóng)[] 书(shū)[] 在(zài)[] 哪(nǎ)[] 一(yí)[] 个(gè)[] 走(zǒu)[] 道(dào)[] ？ 右(yòu)[] 手(shǒu)[] 边(biān)[] 第(dì)[] 二(èr)[] 排(pái)[] 走(zǒu)[] 道(dào)[] 。 >
+#
+< I can't find the book I want at the bookstore, can you help to order for me? >
+< 书(shū)[] 店(diàn)[] 没(méi)[] 有(yǒu)[] 我(wǒ)[] 要(yào)[] 找(zhǎo)[] 的(de)[] 书(shū)[] ， 请(qǐng)[] 问(wèn)[] 可(kě)[] 以(yǐ)[] 帮(bāng)[] 我(wǒ)[] 订(dìng)[] 吗(ma)[] ？ >
+#
+< Excuse me, when will the book I order today approximately arrive? >
+< 请(qǐng)[] 问(wèn)[] 今(jīn)[] 天(tiān)[] 订(dìng)[] 的(de)[] 书(shū)[] ， 大(dà)[] 概(gài)[] 什(shén)[] 么(me)[] 时(shí)[] 候(hou)[] 会(huì)[] 到(dào)[] ？ >
+#
+< Excuse me, where to find comics books? Comics is at one floor below. >
+< 请(qǐng)[] 问(wèn)[] 漫(màn)[] 画(huà)[] 在(zài)[] 哪(nǎ)[] 一(yì)[] 区(qū)[] ？ 漫(màn)[] 画(huà)[] 在(zài)[] 地(dì)[] 下(xià)[] 一(yī)[] 楼(lóu)[] 。 >
+#
+< I accidentally tear this book, how to compensate? >
+< 我(wǒ)[] 不(bù)[] 小(xiǎo)[] 心(xīn)[] 弄(nòng)[] 破(pò)[] 了(le)[] 这(zhè)[] 本(běn)[] 书(shū)[] ， 请(qǐng)[] 问(wèn)[] 要(yào)[] 怎(zěn)[] 么(me)[] 赔(péi)[] ？ >
+#
+< These are newly arrived books, you can check the catalog. >
+< 这(zhè)[] 些(xiē)[] 是(shì)[] 新(xīn)[] 来(lái)[] 的(de)[] 书(shū)[] ， 你(nǐ)[] 可(kě)[] 以(yǐ)[] 看(kàn)[] 目(mù)[] 录(lù)[] 参(cān)[] 考(kǎo)[] 。 >

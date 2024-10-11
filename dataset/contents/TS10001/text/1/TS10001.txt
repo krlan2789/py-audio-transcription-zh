@@ -1,0 +1,51 @@
+﻿六岁: liù suì-Six years old
+长得:zhǎng de-Looks
+很胖 :hěn pàng- Very fat
+住:zhù- Live
+独生女:dú shēng nǜ-Only daughter
+上班 :shàng bān-Go to work
+看书:kàn shū-Read book
+看电视:kàn diàn shì-Watch TV
+喜欢:xǐ huan-Like
+打球:dǎ qiú-Play ball
+#
+六(liù)[] 岁(suì)[] :Six years old 
+长(zhǎng)[] 得(dé)[] :Looks
+很(hěn)[] 胖(pàng)[] : Very fat
+住(zhù)[] : Live
+独(dú)[] 生(shēng)[] 女(nǚ)[] :Only daughter
+上(shàng)[] 班(bān)[] :Go to work
+看(kàn)[] 书(shū)[] :Read book
+看(kàn)[] 电(diàn)[] 视(shì)[] :Watch TV
+喜(xǐ)[] 欢(huan)[] :Like
+打(dǎ)[] 球(qiú)[] :Play ball
+#
+< Hello, My name is Da Ming. >
+< 您(nín)[] 好(hǎo)[] ， 我(wǒ)[] 叫(jiào)[] 大(dà)[] 明(míng)[] 。 >
+#
+< I am six years old this year, I am in primary 1. >
+< 我(wǒ)[] 今(jīn)[] 年(nián)[] 六(liù)[] 岁(suì)[] ， 读(dú)[] 小(xiǎo)[] 学(xué)[] 一(yī)[] 年(nián)[] 级(jí)[] 。 >
+#
+< I am very fat, my classmates call me "big fat". >
+< 我(wǒ)[] 长(zhǎng)[] 得(de)[] 很(hěn)[] 胖(pàng)[] ， 同(tóng)[] 学(xué)[] 们(men)[] 都(dōu)[] 叫(jiào)[] 我(wǒ)[] “ 大(dà)[] 胖(pàng)[] ” 。 >
+#
+< I live in Jakarta, indonesia. >
+< 我(wǒ)[] 住(zhù)[] 在(zài)[] 印(yìn)[] 尼(ní)[] 雅(yǎ)[] 加(jiā)[] 达(dá)[] 。 >
+#
+< I don't have brothers and sisters, I am an only daughter. >
+< 我(wǒ)[] 没(méi)[] 有(yǒu)[] 哥(gē)[] 哥(ge)[] ， 也(yě)[] 没(méi)[] 有(yǒu)[] 姐(jiě)[] 姐(jie)[] ， 我(wǒ)[] 是(shì)[] 独(dú)[] 生(shēng)[] 女(nǚ)[] 。 >
+#
+< There are three people in my family, father , mother and me. >
+< 我(wǒ)[] 家(jiā)[] 有(yǒu)[] 三(sān)[] 个(gè)[] 人(rén)[] ， 爸(bà)[] 爸(ba)[] ， 妈(mā)[] 妈(ma)[] 和(hé)[] 我(wǒ)[] 。 >
+#
+< Father sends me to school every morning. >
+< 爸(bà)[] 爸(ba)[] 每(měi)[] 天(tiān)[] 早(zǎo)[] 上(shang)[] 送(sòng)[] 我(wǒ)[] 去(qù)[] 上(shàng)[] 学(xué)[] 。 >
+#
+< Mother doesn't go to work, she goes to the market to buy cooking ingredients everyday. >
+< 妈(mā)[] 妈(ma)[] 没(méi)[] 有(yǒu)[] 上(shàng)[] 班(bān)[] , 她(tā)[] 天(tiān)[] 天(tiān)[] 去(qù)[] 巴(bā)[] 刹(shā)[] 买(mǎi)[] 菜(cài)[] 。 >
+#
+< Father likes to read books, mother likes to watch TV. >
+< 爸(bà)[] 爸(ba)[] 喜(xǐ)[] 欢(huan)[] 看(kàn)[] 书(shū)[] ， 妈(mā)[] 妈(ma)[] 喜(xǐ)[] 欢(huan)[] 看(kàn)[] 电(diàn)[] 视(shì)[] 。 >
+#
+< I like to play ball together with my friends. >
+< 我(wǒ)[] 喜(xǐ)[] 欢(huan)[] 和(hé)[] 朋(péng)[] 友(you)[] 一(yì)[] 起(qǐ)[] 去(qù)[] 打(dǎ)[] 球(qiú)[] 。 >

@@ -2,6 +2,7 @@ import json
 import os
 import re
 import shutil
+from termcolor import cprint
 
 contents_dir = "./dataset/contents/"
 audio_dir = "./dataset/audio/"
@@ -55,11 +56,16 @@ def get_audio_files(root_dir):
             # Get all files in 'audio' folder
             idx = 1
             for fl in files:
-                extFile = fl.split(".")[1]
                 file = os.path.join(root, fl)
                 file = file.replace("\\", "/")
+
+                # oriPath = os.path.dirname(file)
+                oriFile = os.path.basename(file)
+                # oriName = oriFile.split(".")[0]
+                extFile = oriFile.split(".")[1]
+
                 dest = (
-                    f"{root}.{idx}.{extFile}".replace("\\", "/")
+                    f"{root}.{idx:02}.{extFile}".replace("\\", "/")
                     .replace("/audio.", ".")
                     .replace("/contents/", "/audio/")
                 )
@@ -68,6 +74,28 @@ def get_audio_files(root_dir):
                 idx += 1
 
     return audio_file_paths, audio_file_path_dest
+    # audio_file_paths = []
+    # audio_file_path_dest = []
+    # # Walk through the directory structure
+    # for root, dirs, files in os.walk(root_dir):
+    #     # Check if 'audio' folder is exist
+    #     if "audio" in root.split(os.sep):
+    #         # Get all files in 'audio' folder
+    #         idx = 1
+    #         for fl in files:
+    #             extFile = fl.split(".")[1]
+    #             file = os.path.join(root, fl)
+    #             file = file.replace("\\", "/")
+    #             dest = (
+    #                 f"{root}.{idx}.{extFile}".replace("\\", "/")
+    #                 .replace("/audio.", ".")
+    #                 .replace("/contents/", "/audio/")
+    #             )
+    #             audio_file_paths.append(file)
+    #             audio_file_path_dest.append(dest)
+    #             idx += 1
+
+    # return audio_file_paths, audio_file_path_dest
 
 
 # Get list of txt files path
@@ -75,36 +103,34 @@ txt_list, txt_list_dest = get_txt_files(contents_dir)
 # Get list of audio files path and destination
 audio_list, audio_list_dest = get_audio_files(contents_dir)
 
-# # Print results
-# for index in range(len(txt_list)):
-#     print(f"{txt_list[index]} -> {txt_list_dest[index]}")
-
-# # Print results
-# for index in range(len(audio_list)):
-#     print(f"{audio_list[index]} -> {audio_list_dest[index]}")
-
 
 # Move files
 def move_files(from_paths, to_paths):
-    if len(from_paths) is not len(to_paths):
+    cprint(
+        f"{len(from_paths)} != {len(to_paths)}: {len(from_paths) != len(to_paths)}",
+        "light_red",
+    )
+
+    if len(from_paths) != len(to_paths):
         return
 
-    # Memindahkan setiap file ke folder tujuan
+    # Move all files to destination path
     for idx in range(len(from_paths)):
         try:
-            # Pastikan folder tujuan ada, jika tidak buat foldernya
+            # Make sure destination path is exists
             dest_dir = os.path.dirname(to_paths[idx])
             if not os.path.exists(dest_dir):
                 os.makedirs(dest_dir)
 
             shutil.copyfile(from_paths[idx], to_paths[idx])
-            print(f"Success: {from_paths[idx]} copied to {to_paths[idx]}")
+            cprint(f"Success: {from_paths[idx]} copied to {to_paths[idx]}", "green")
         except Exception as e:
-            print(f"Failed to copy file {from_paths[idx]}: {e}")
+            cprint(f"Failed to copy file {from_paths[idx]}: {e}", "red")
 
 
 # Move files
 move_files(txt_list, txt_list_dest)
+
 move_files(audio_list, audio_list_dest)
 
 
@@ -129,11 +155,11 @@ for audio_file in os.listdir(audio_dir):
             content = content.replace("\n*\n", "\n#\n")
             transcriptParts = content.split("#")
             transcriptCount = len(transcriptParts) - 2
-            # print(f"{transcriptIdx}/{transcriptCount} ({productCode}):\n{content}")
+            print(f"{transcriptIdx}/{transcriptCount} ({productCode}):\n{content}\n")
             mandarin = (
                 transcriptParts[transcriptIdx + 1]
                 .strip()
-                .split("\n")[1]
+                .split("\n")[-1]
                 .replace("< ", "")
                 .replace(" >", "")
             )
@@ -142,20 +168,19 @@ for audio_file in os.listdir(audio_dir):
                 if len(w) > 1:
                     w = word.split("(")[0]
                 transcript += w
-            print(
-                "%s -> %d/%d:\n%s\n"
-                % (transcript_file, transcriptIdx, transcriptCount, transcript)
+            # cprint(
+            #     f"{transcript_file} -> {transcriptIdx}/{transcriptCount}:\n{transcript}\n",
+            #     "cyan",
+            # )
+            dataset.append(
+                {
+                    "audio_file": os.path.join(audio_dir, audio_file),
+                    "transcript": transcript,
+                }
             )
-            # for idx in range(2, transcriptCount, 1):
-        dataset.append(
-            {
-                "audio_file": os.path.join(audio_dir, audio_file),
-                "transcript": transcript,
-            }
-        )
 
 # Save the dataset to a JSON file
 with open("dataset.json", "w", encoding="utf-8") as f:
     json.dump(dataset, f, ensure_ascii=False, indent=4)
 
-print("Dataset created successfully!")
+cprint(" Dataset created successfully! ", "black", "on_cyan", attrs=["bold"])

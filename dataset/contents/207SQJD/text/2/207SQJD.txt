@@ -1,0 +1,75 @@
+﻿果汁:guǒ zhī-Juice
+换成:huàn chéng-Be changed into
+三道菜:sān dào cài-3 dishes
+够:gòu-Enough
+排骨汤:pái gǔ tāng-Ribs soup
+几人份:jǐ rén fèn-Portions/for how many people
+菜单:cài dān-Menu
+起司:qǐ sī-Cheese
+点的:diǎn de-Order
+清蒸鱼:qīng zhēng yú-Steamed fish
+牛肉:niú ròu-Beef
+辣:là-Spicy
+但:dàn-But
+太:tài-Too
+炒面:chǎo miàn-Fried noodles
+已经:yǐ jīng-Already
+等:děng-Wait
+快:kuài-Almost
+一个小时:yí gè xiǎo shí-1 hour
+猪排:zhū pái-Pork ribs
+几分熟:jǐ fēn shú-How cooked
+全熟:quán shú-Well done (meat)
+烤:kǎo-Grilled
+煎:jiān-Fried
+太油:tài yóu-Too oily
+招牌菜:zhāo pái cài-Signature dish
+比:bǐ-More
+#
+果(guǒ)[] 汁(zhī)[] :Juice
+换(huàn)[] 成(chéng)[] :Be changed into
+三(sān)[] 道(dào)[] 菜(cài)[] :3 dishes
+够(gòu)[] :Enough
+排(pái)[] 骨(gǔ)[] 汤(tāng)[] :Ribs soup
+几(jǐ)[] 人(rén)[] 份(fèn)[] :Portions/for how many people
+菜(cài)[] 单(dān)[] :Menu
+起(qǐ)[] 司(sī)[] :Cheese
+点(diǎn)[] 的(de)[] :Order
+%
+清(qīng)[] 蒸(zhēng)[] 鱼(yú)[] :Steamed fish
+牛(niú)[] 肉(ròu)[] :Beef
+辣(là)[] :Spicy
+但(dàn)[] :But
+太(tài)[] :Too
+炒(chǎo)[] 面(miàn)[] :Fried noodles
+已(yǐ)[] 经(jīng)[] :Already
+等:Wait
+快(kuài)[] :Almost
+%
+一(yí)[] 个(gè)[] 小(xiǎo)[] 时(shí)[] :1 hour
+猪(zhū)[] 排(pái)[] :Pork ribs
+几(jǐ)[] 分(fēn)[] 熟(shú)[] :How cooked
+全(quán)[] 熟(shú)[] :Well done (meat)
+烤(kǎo)[] :Grilled
+煎(jiān)[] :Fried
+太(tài)[] 油(yóu)[] :Too oily
+招(zhāo)[] 牌(pái)[] 菜(cài)[] :Signature dish
+比(bǐ)[] :More
+#
+< Excuse me, 1 portion of ribs soup is for how many people? >
+< 请(qǐng)[] 问(wèn)[] 一(yí)[] 份(fèn)[] 排(pái)[] 骨(gǔ)[] 汤(tāng)[] 可(kě)[] 以(yǐ)[] 给(gěi)[] 几(jǐ)[] 人(rén)[] 份(fèn)[] ？ >
+#
+< I ordered steamed fish, not grilled fish. >
+< 我(wǒ)[] 点(diǎn)[] 的(de)[] 是(shì)[] 清(qīng)[] 蒸(zhēng)[] 鱼(yú)[] ， 不(bú)[] 是(shì)[] 烤(kǎo)[] 鱼(yú)[] 。 >
+#
+< I can eat spicy (food), but don't make the fried noodles too spicy. >
+< 我(wǒ)[] 可(kě)[] 以(yǐ)[] 吃(chī)[] 辣(là)[] ， 但(dàn)[] 炒(chǎo)[] 面(miàn)[] 不(bú)[] 要(yào)[] 太(tài)[] 辣(là)[] 。 >
+#
+< We have already waited for almost 1 hour, can you hurry up? >
+< 我(wǒ)[] 们(men)[] 已(yǐ)[] 经(jīng)[] 等(děng)[] 了(le)[] 快(kuài)[] 一(yí)[] 个(gè)[] 小(xiǎo)[] 时(shí)[] ， 可(kě)[] 以(yǐ)[] 快(kuài)[] 一(yì)[] 点(diǎn)[] 吗(ma)[] ？ >
+#
+< How cooked do you want your pork ribs? Well done. >
+< 您(nín)[] 的(de)[] 猪(zhū)[] 排(pái)[] 要(yào)[] 几(jǐ)[] 分(fēn)[] 熟(shú)[] 的(de)[] ？ 全(quán)[] 熟(shú)[] 的(de)[] 。 >
+#
+< Grilled fish is more delicious than fried fish, it will not be too oily. >
+< 烤(kǎo)[] 的(de)[] 鱼(yú)[] 比(bǐ)[] 煎(jiān)[] 的(de)[] 鱼(yú)[] 好(hào)[] 吃(chī)[] ， 不(bú)[] 会(huì)[] 太(tài)[] 油(yóu)[] 。 >

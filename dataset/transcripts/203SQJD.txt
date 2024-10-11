@@ -1,0 +1,72 @@
+﻿打烊:dǎ yàng-Close
+最后一场:zuì hòu yī chǎng-Last performance/show
+表演:biǎo yǎn-performance/show
+先:xiān-first
+离开:lí kāi-leave
+需要:xū yào-need
+一位:yí wèi-one (person)
+汉语:hàn yǔ-Chinese Language
+导游:dǎo yóu-Tour guide
+包包:bāo bāo-Bag
+寄放:jì fàng-Leave temporarily
+售票处:shòu piào chù-Ticket stand
+游乐园:yóu lè yuán-Theme park
+餐厅:cān tīng-Restaurants
+来过:lái guò-Came here before
+纪念品:jì niàn pǐn-Souvenirs
+不好意思:bù hǎo yì si-Excuse me
+拍照:pāi zhào-Take pictures
+成人票:chéng rén piào-Adult ticket
+儿童票:ér tóng piào-Child Ticket
+总共:zǒng gòng-Total
+多少钱:duō shǎo qián-How much
+入口处:rù kǒu chù-Entrance
+集合:jí hé-Gather
+等:děng-Wait
+#
+打(dǎ)[] 烊(yàng)[] :Close
+最(zuì)[] 后(hòu)[] 一(yī)[] 场(chǎng)[] :Last performance/show
+表(biǎo)[] 演(yǎn)[] :performance/show
+先(xiān)[] :first
+离(lí)[] 开(kāi)[] :leave
+需(xū)[] 要(yào)[] :need
+一(yí)[] 位(wèi)[] :one (person)
+%
+汉(hàn)[] 语(yǔ)[] :Chinese Language
+导(dǎo)[] 游(yóu)[] :Tour guide
+包(bāo)[] 包(bāo)[] :Bag
+寄(jì)[] 放(fàng)[] :Leave temporarily
+售(shòu)[] 票(piào)[] 处(chù)[] :Ticket stand
+游(yóu)[] 乐(lè)[] 园(yuán)[] :Theme park
+餐(cān)[] 厅(tīng)[] :Restaurants
+来(lái)[] 过(guò)[] :Came here before
+%
+纪(jì)[] 念(niàn)[] 品(pǐn)[] :Souvenirs
+不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] :Excuse me
+拍(pāi)[] 照(zhào)[] :Take pictures
+成(chéng)[] 人(rén)[] 票(piào)[] :Adult ticket
+儿(ér)[] 童(tóng)[] 票(piào)[] :Child Ticket
+%
+总(zǒng)[] 共(gòng)[] :Total
+多(duō)[] 少(shǎo)[] 钱(qián)[] :How much
+入(rù)[] 口(kǒu)[] 处(chù)[] :Entrance
+集(jí)[] 合(hé)[] :Gather
+等(děng)[] :Wait
+#
+< What time does it close ? >
+< 请(qǐng)[] 问(wèn)[] 这(zhè)[] 里(lǐ)[] 几(jǐ)[] 点(diǎn)[] 打(dǎ)[] 烊(yàng)[] ？ >
+#
+< I need a tour guide that can speak Mandarin. >
+< 我(wǒ)[] 需(xū)[] 要(yào)[] 一(yí)[] 位(wèi)[] 会(huì)[] 说(shuō)[] 汉(hàn)[] 语(yǔ)[] 的(de)[] 导(dǎo)[] 游(yóu)[] 。 >
+#
+< I want to buy souvenirs, please wait for a while. >
+< 我(wǒ)[] 要(yào)[] 买(mǎi)[] 纪(jì)[] 念(niàn)[] 品(pǐn)[] ， 请(qǐng)[] 你(nǐ)[] 等(děng)[] 我(wǒ)[] 一(yí)[] 下(xià)[] 。 >
+#
+< Excuse me, can you help me take a picture? >
+< 不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] ， 可(kě)[] 不(bù)[] 可(kě)[] 以(yǐ)[] 帮(bāng)[] 我(wǒ)[] 们(men)[] 拍(pāi)[] 一(yì)[] 张(zhāng)[] 照(zhào)[] ？ >
+#
+< Excuse me, how much does two adults tickets and one child ticket cost? >
+< 请(qǐng)[] 问(wèn)[] 两(liǎng)[] 张(zhāng)[] 成(chéng)[] 人(rén)[] 票(piào)[] 一(yì)[] 张(zhāng)[] 儿(ér)[] 童(tóng)[] 票(piào)[] 总(zǒng)[] 共(gòng)[] 多(duō)[] 少(shǎo)[] 钱(qián)[] ？ >
+#
+< Everyone, please gather at the entrance at 4.30. >
+< 请(qǐng)[] 大(dà)[] 家(jiā)[] 四(sì)[] 点(diǎn)[] 半(bàn)[] 在(zài)[] 入(rù)[] 口(kǒu)[] 处(chù)[] 集(jí)[] 合(hé)[] 。 >

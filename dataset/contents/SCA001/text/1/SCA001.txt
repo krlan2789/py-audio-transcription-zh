@@ -1,0 +1,34 @@
+提款:tí kuǎn-withdraw money
+办理:bàn lǐ-do;handle
+填:tián-fill in
+取款单:qǔ kuǎn dān-a withdrawal slip
+存折:cún zhē-account book;passbook
+输入:shū rù-enter
+密码:mì mǎ-password;pin number
+换:huàn-exchange
+小抄:xiǎo chāo-petty cash
+#
+提(tí)[] 款(kuǎn)[] :withdraw money
+办(bàn)[] 理(lǐ)[] :do;handle
+填(tián)[] :fill in
+取(qǔ)[] 款(kuǎn)[] 单(dān)[] :a withdrawal slip
+存(cún)[] 折(zhé)[] :account book;passbook
+输(shū)[] 入(rù)[] :enter
+密(mì)[] 码(mǎ)[] :password;pin number
+换(huàn)[] :exchange
+小(xiǎo)[] 抄(chāo)[] :petty cash
+#
+< Hello, Lady. I would like to withdraw my money. What should I do? >
+< 小(xiǎo)[] 姐(jiě)[] ， 我(wǒ)[] 要(yào)[] 提(tí)[] 招(zhāo)[] ， 要(yào)[] 怎(zěn)[] 么(me)[] 办(bàn)[] 理(lǐ)[] ？ >
+#
+< Please fill in the withdrawal slip, and then give it to me with your account book. >
+< 请(qǐng)[] 您(nín)[] 先(xiān)[] 填(tián)[] 好(hǎo)[] 取(qǔ)[] 款(kuǎn)[] 单(dān)[] ， 填(tián)[] 好(hǎo)[] 后(hòu)[] 跟(gēn)[] 存(cún)[] 着(zhe)[] 一(yì)[] 起(qǐ)[] 给(gěi)[] 我(wǒ)[] 就(jiù)[] 好(hǎo)[] 。 >
+#
+< Please enter your pin number here. >
+< 请(qǐng)[] 输(shū)[] 入(rù)[] 密(mì)[] 码(mǎ)[] 。 >
+#
+< May I exchange for some petty cash? >
+< 我(wǒ)[] 可(kě)[] 以(yǐ)[] 换(huàn)[] 一(yì)[] 些(xiē)[] 小(xiǎo)[] 抄(chāo)[] 吗(ma)[] ？ >
+#
+< I'd like to exchange two thousand dollars for twenty pieces of hundred. >
+< 我(wǒ)[] 要(yào)[] 把(bǎ)[] 两(liǎng)[] 千(qiān)[] 元(yuán)[] 换(huàn)[] 成(chéng)[] 二(èr)[] 十(shí)[] 张(zhāng)[] 一(yī)[] 白(bái)[] 元(yuán)[] 的(de)[] 。 >

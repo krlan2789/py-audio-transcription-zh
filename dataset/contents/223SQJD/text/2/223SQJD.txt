@@ -1,0 +1,92 @@
+客房服务:kè fáng fú wù-room service
+换:huàn-change
+床单:chuáng dān-bed sheet
+枕头套:zhěn tou tào-pillow case
+行李:xíng lǐ-luggage
+拖:tuō-drag
+大厅:dà tīng-lobby
+稍等一下:shāo děng yí xià-wait a moment
+服务员:fú wù yuán-waiter
+马上:mǎ shàng-immediately
+处理:chǔ lǐ-handle, deal with
+拨打:bō dǎ-dial
+手机:shǒu jī-mobile phone
+号码:hào mǎ-number
+房卡:fáng kǎ-room access card
+忘了:wàng le-forget
+新的:xīn de-new
+冷气:lěng qì-air conditioner
+请人:qǐng rén-ask somebody
+修理:xiū lǐ-repair
+漏水:lòu shuǐ-leaking
+房间:fáng jiān-room
+隔壁:gé bì-next door
+马桶:mǎ tǒng-toilet bowl
+不能:bù néng-can't
+冲水:chōng shuǐ-flush
+浴巾:yù jīn-bath towel
+多放:duō fàng-add more
+洗发水:xǐ fà shuǐ-shampoo
+不用:bú yòng-no need
+一个小时:yí gè xiǎo shí-one hour
+打扫:dǎ sǎo-clean up
+送:sòng-send
+过去:guò qù-go over
+早餐:zǎo cān-breakfast
+#
+客(kè)[] 房(fáng)[] 服(fú)[] 务(wù)[] :room service
+换(huàn)[] :change
+床(chuáng)[] 单(dān)[] :bed sheet
+枕(zhěn)[] 头(tóu)[] 套(tào)[] :pillow case
+行(xíng)[] 李(li)[] :luggage
+拖(tuō)[] :drag
+大(dà)[] 厅(tīng)[] :lobby
+稍(shāo)[] 等(děng)[] 一(yí)[] 下(xià)[] :wait a moment
+服(fú)[] 务(wù)[] 员(yuán)[] :waiter
+%
+马(mǎ)[] 上(shàng)[] :immediately
+处(chǔ)[] 理(lǐ)[] :handle, deal with
+拨(bō)[] 打(dǎ)[] :dial
+手(shǒu)[] 机(jī)[] :mobile phone
+号(hào)[] 码(mǎ)[] :number
+房(fáng)[] 卡(kǎ)[] :room access card
+忘(wàng)[] 了(le)[] :forget
+新(xīn)[] 的(de)[] :new
+冷(lěng)[] 气(qì)[] :air conditioner
+%
+请(qǐng)[] 人(rén)[] :ask somebody
+修(xiū)[] 理(lǐ)[] :repair
+漏(lòu)[] 水(shuǐ)[] :leaking
+房(fáng)[] 间(jiān)[] :room
+隔(gé)[] 壁(bì)[] :next door
+马(mǎ)[] 桶(tǒng)[] :toilet bowl
+不(bù)[] 能(néng)[] :can't
+冲(chōng)[] 水(shuǐ)[] :flush
+浴(yù)[] 巾(jīn)[] :bath towel
+%
+多(duō)[] 放(fàng)[] :add more
+洗(xǐ)[] 发(fà)[] 水(shuǐ)[] :shampoo
+不(bú)[] 用(yòng)[] :no need
+一(yí)[] 个(gè)[] 小(xiǎo)[] 时(shí)[] :one hour
+打(dǎ)[] 扫(sǎo)[] :clean up
+送(sòng)[] :send
+过(guò)[] 去(qù)[] :go over
+早(zǎo)[] 餐(cān)[] :breakfast
+#
+< Is there room service? Please change the bed sheets for me, the pillowcases don’t need to be changed, thank you. >
+< 客(kè)[] 房(fáng)[] 服(fú)[] 务(wù)[] 吗(ma)[] ？ 请(qǐng)[] 帮(bāng)[] 我(wǒ)[] 换(huàn)[] 床(chuáng)[] 单(dān)[] ， 枕(zhěn)[] 头(tóu)[] 套(tào)[] 不(bú)[] 用(yòng)[] 换(huàn)[] ， 谢(xiè)[] 谢(xie)[] 。 >
+#
+< Hello, how do I call the mobilephone number? >
+< 你(nǐ)[] 好(hǎo)[] ， 请(qǐng)[] 问(wèn)[] 怎(zěn)[] 么(me)[] 拨(bō)[] 打(dǎ)[] 手(shǒu)[] 机(jī)[] 号(hào)[] 码(mǎ)[] ？ >
+#
+< Hello, the air-conditioning in Room 207 is not cold, can I ask someone to repair it? >
+< 你(nǐ)[] 好(hǎo)[] ， 207 房(fáng)[] 冷(lěng)[] 气(qì)[] 不(bù)[] 冷(lěng)[] ， 可(kě)[] 以(yǐ)[] 请(qǐng)[] 人(rén)[] 来(lái)[] 修(xiū)[] 理(lǐ)[] 吗(ma)[] ？ >
+#
+< Hello, the toilet in room 908 cannot be flushed. Can I change the room? >
+< 你(nǐ)[] 好(hǎo)[] ， 908 房(fáng)[] 间(jiān)[] 的(de)[] 马(mǎ)[] 桶(tǒng)[] 不(bù)[] 能(néng)[] 冲(chōng)[] 水(shuǐ)[] ， 我(wǒ)[] 可(kě)[] 以(yǐ)[] 换(huàn)[] 房(fáng)[] 间(jiān)[] 吗(ma)[] ？ >
+#
+< I forgot to put my room card in the room. Can you give me a new one? >
+< 我(wǒ)[] 的(de)[] 房(fáng)[] 卡(kǎ)[] 忘(wàng)[] 了(le)[] 放(fàng)[] 在(zài)[] 房(fáng)[] 间(jiān)[] 里(li)[] ， 可(kě)[] 以(yǐ)[] 给(gěi)[] 我(wǒ)[] 一(yì)[] 张(zhāng)[] 新(xīn)[] 的(de)[] 吗(ma)[] ？ >
+#
+< Hello, please help me drag my luggage to the lobby, thank you. >
+< 你(nǐ)[] 好(hǎo)[] ， 请(qǐng)[] 帮(bāng)[] 我(wǒ)[] 把(bǎ)[] 行(háng)[] 李(lǐ)[] 拖(tuō)[] 到(dào)[] 大(dà)[] 厅(tīng)[] ， 谢(xiè)[] 谢(xie)[] 。 >

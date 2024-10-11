@@ -1,0 +1,92 @@
+现在:xiàn zài-now
+有空:yǒu kòng-have free time
+请教:qǐng jiào-ask for advice
+问题:wèn tí-question
+所以:suǒ yǐ-so
+请假:qǐng jià-ask for leave
+考试:kǎo shì-exam
+题目:tí mù-question
+太难:tài nán-too difficult
+考得不好:kǎo de bù hǎo-didn't do the exam well
+不敢:bù gǎn-not dare to
+相信:xiāng xìn-believe
+班长:bān zhǎng-class leader
+全班:quán bān-whole class
+最低分:zuì dī fēn-lowest score
+范围:fàn wéi-scope, range
+口试:kǒu shì-oral test
+笔试:bǐ shì-written test
+抱歉:bào qiàn-sorry
+交通堵塞:jiāo tōng dǔ sè-traffic jam
+因为:yīn wèi-because
+交:jiāo-submit
+借:jiè-lend
+笔记:bǐ jì-notes
+影印:yǐng yìn-photocopy
+完蛋了:wán dàn le-Oh no
+忘了:wàng le-forgot
+作业:zuò yè-homework
+告诉:gào sù-tell
+来不及:lái bu jí-not enough time, too late
+放心:fàng xīn-rest assured
+一定:yí dìng-must
+准时:zhǔn shí-on schedule, on time
+送:sòng-send
+快:kuài-fast
+#
+现(xiàn)[] 在(zài)[] :now
+有(yǒu)[] 空(kòng)[] :have free time
+请(qǐng)[] 教(jiào)[] :ask for advice
+问(wèn)[] 题(tí)[] :question
+所(suǒ)[] 以(yǐ)[] :so
+请(qǐng)[] 假(jià)[] :ask for leave
+考(kǎo)[] 试(shì)[] :exam
+题(tí)[] 目(mù)[] :question
+太(tài)[] 难(nán)[] :too difficult
+%
+考(kǎo)[] 得(de)[] 不(bù)[] 好(hǎo)[] :didn't do the exam well
+不(bù)[] 敢(gǎn)[] :not dare to
+相(xiāng)[] 信(xìn)[] :believe
+班(bān)[] 长(zhǎng)[] :class leader
+全(quán)[] 班(bān)[] :whole class
+最(zuì)[] 低(dī)[] 分(fēn)[] :lowest score
+范(fàn)[] 围(wéi)[] :scope, range
+口(kǒu)[] 试(shì)[] :oral test
+笔(bǐ)[] 试(shì)[] :written test
+%
+抱(bào)[] 歉(qiàn)[] :sorry
+交(jiāo)[] 通(tōng)[] 堵(dǔ)[] 塞(sè)[] :traffic jam
+因(yīn)[] 为(wèi)[] :because
+交(jiāo)[] :submit
+借(jiè)[] :lend
+笔(bǐ)[] 记(jì)[] :notes
+影(yǐng)[] 印(yìn)[] :photocopy
+完(wán)[] 蛋(dàn)[] 了(le)[] :Oh no
+%
+忘(wàng)[] 了(le)[] :forgot
+作(zuò)[] 业(yè)[] :homework
+告(gào)[] 诉(sù)[] :tell
+来(lái)[] 不(bu)[] 及(jí)[] :not enough time, too late
+放(fàng)[] 心(xīn)[] :rest assured
+一(yí)[] 定(dìng)[] :must
+准(zhǔn)[] 时(shí)[] :on schedule, on time
+送(sòng)[] :send
+快(kuài)[] :fast
+#
+< I'm sorry teacher, I was sick yesterday, so I asked for leave and didn't come to school. >
+< 老(lǎo)[] 师(shī)[] 对(duì)[] 不(bu)[] 起(qǐ)[] ， 我(wǒ)[] 昨(zuó)[] 天(tiān)[] 生(shēng)[] 病(bìng)[] ， 所(suǒ)[] 以(yǐ)[] 请(qǐng)[] 假(jià)[] 没(méi)[] 来(lái)[] 上(shàng)[] 学(xué)[] 。 >
+#
+< Sorry, I was late because of the traffic jam. >
+< 抱(bào)[] 歉(qiàn)[] ， 因(yīn)[] 为(wèi)[] 交(jiāo)[] 通(tōng)[] 堵(dǔ)[] 塞(sè)[] ， 所(suǒ)[] 以(yǐ)[] 我(wǒ)[] 迟(chí)[] 到(dào)[] 了(le)[] 。 >
+#
+< It's almost late, who can send me to school? >
+< 快(kuài)[] 来(lái)[] 不(bù)[] 及(jí)[] 了(le)[] ， 谁(shéi)[] 可(kě)[] 以(yǐ)[] 送(sòng)[] 我(wǒ)[] 去(qù)[] 学(xué)[] 校(xiào)[] ？ >
+#
+< Can't believe it, the class leader got the lowest score in the class. >
+< 真(zhēn)[] 不(bù)[] 敢(gǎn)[] 相(xiāng)[] 信(xìn)[] ， 班(bān)[] 长(zhǎng)[] 考(kǎo)[] 了(le)[] 全(quán)[] 班(bān)[] 最(zuì)[] 低(dī)[] 分(fēn)[] 。 >
+#
+< Is teacher free now? I want to ask you a question. >
+< 请(qǐng)[] 问(wèn)[] 老(lǎo)[] 师(shī)[] 现(xiàn)[] 在(zài)[] 有(yǒu)[] 空(kòng)[] 吗(ma)[] ？ 我(wǒ)[] 想(xiǎng)[] 请(qǐng)[] 教(jiào)[] 您(nín)[] 一(yí)[] 个(gè)[] 问(wèn)[] 题(tí)[] 。 >
+#
+< Can you tell me the scope of this exam? >
+< 你(nǐ)[] 可(kě)[] 以(yǐ)[] 告(gào)[] 诉(sù)[] 我(wǒ)[] 这(zhè)[] 次(cì)[] 的(de)[] 考(kǎo)[] 试(shì)[] 范(fàn)[] 围(wéi)[] 吗(ma)[] ？ >

@@ -1,0 +1,66 @@
+好朋友:hǎo péng you-good friend
+星期天:xīng qī tiān-Sunday
+巴刹:bā shā-market
+叔叔:shū shu-uncle
+做工:zuò gōng-work
+一同:yī tóng-together
+蛋糕:dàn gāo-cake
+唱歌:chàng gē-sing
+礼堂:lǐ táng-hall
+打球:dǎ qiú-play ball
+快乐:kuài lè-happy
+校歌:xiào gē-school song
+来:lái-come
+同学们:tóng xué men-classmates
+真:zhēn-very
+#
+好朋友:good friend
+星期天:Sunday
+巴刹:market
+叔叔:uncle
+做工:work
+一同:together
+蛋糕:cake
+唱歌:sing
+%
+礼堂:hall
+打球:play ball
+快乐:happy
+校歌:school song
+来:come
+同学们:classmates
+真:very
+#
+ZH B 4 267ZHDJ
+#
+< 组句 ZH B 4 >
+#
+< 他(tā)[1] 们(men)[] 在(zài)[4] 礼(lǐ)[3] 堂(táng)[2] 里(lǐ)[] 唱(chàng)[4] 歌(gē)[1]  >
+#
+< 我(wǒ)[3] 的(de)[] 妈(mā)[1] 妈(ma)[] 不(bú)[2] 会(huì)[4] 做(zuò)[4] 蛋(dàn)[4] 糕(gāo)[1]  >
+#
+< 叔(shū)[1] 叔(shu)[] 和(hé)[2] 爸(bà)[4] 爸(ba)[] 一(yì)[4] 同(tóng)[2] 去(qù)[4] 做(zuò)[4] 工(gōng)[1]  >
+#
+< 星(xīng)[1] 期(qī)[1] 天(tiān)[1] 早(zǎo)[3] 上(shang)[] 巴(bā)[1] 刹(shā)[1] 里(lǐ)[3] 有(yǒu)[3] 很(hěn)[3] 多(duō)[1] 人(rén)[2]  >
+#
+< 包(bāo)[1] 叔(shū)[1] 叔(shu)[] 是(shì)[4] 爸(bà)[4] 爸(ba)[] 的(de)[] 好(hǎo)[3] 朋(péng)[2] 友(you)[]  >
+#
+< 姐(jiě)[3] 姐(jie)[] 和(hé)[2] 她(tā)[1] 的(de)[] 朋(péng)[3] 友(you)[] 去(qù)[4] 打(dǎ)[3] 球(qiú)[2]  >
+#
+< 她(tā)[1] 们(men)[] 唱(chàng)[4] 着(zhe)[] 歌(gē)[1] 走(zǒu)[3] 进(jìn)[4] 教(jiào)[4] 室(shì)[4]  >
+#
+< 今(jīn)[1] 天(tiān)[1] 一(yì)[4] 早(zǎo)[3] 妈(mā)[1] 妈(ma)[] 就(jiù)[4] 去(qù)[4] 巴(bā)[1] 刹(shā)[1] 了(le)[]  >
+#
+< 好(hǎo)[3] 朋(péng)[2] 友(you)[] 们(men)[] 在(zài)[4] 一(yì)[4] 起(qǐ)[3] 真(zhēn)[1] 快(kuài)[4] 乐(lè)[4]  >
+#
+< 老(lǎo)[3] 师(shī)[1] 和(hé)[2] 同(tóng)[2] 学(xué)[2] 们(men)[] 都(dōu)[1] 在(zài)[4] 礼(lǐ)[3] 堂(táng)[2] 里(lǐ)[3]  >
+#
+< 妈(mā)[1] 妈(ma)[] 天(tiān)[1] 天(tiān)[1] 教(jiào)[4] 弟(dì)[4] 弟(di)[] 读(dú)[2] 书(shū)[1]  >
+#
+< 有(yǒu)[3] 十(shí)[2] 个(gè)[4] 同(tóng)[2] 学(xué)[2] 来(lái)[2] 到(dào)[4] 我(wǒ)[3] 家(jiā)[1]  >
+#
+< 姐(jiě)[3] 姐(jie)[] 学(xué)[2] 会(huì)[4] 了(le)[] 做(zuò)[4] 蛋(dàn)[4] 糕(gāo)[1]  >
+#
+< 我(wǒ)[3] 们(men)[] 都(dōu)[1] 会(huì)[4] 唱(chàng)[4] 校(xiào)[4] 歌(gē)[1]  >
+#
+< 我(wǒ)[3] 画(huà)[4] 了(le)[] 一(yī)[1] 朵(duǒ)[3] 小(xiǎo)[3] 花(huā)[1] 和(hé)[2] 两(liǎng)[3] 片(piàn)[4] 叶(yè)[4] 子(zi)[]  >

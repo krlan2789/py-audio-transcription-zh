@@ -1,0 +1,61 @@
+﻿我:wǒ-I/me
+要:yào-Want
+一杯:yì bēi-A cup/glass
+珍珠:zhēn zhū-Pearl
+奶茶:nǎi chá-Milk tea
+甜度:tián dù-Sweetness
+正常:zhèng cháng-Normal
+少冰:shǎo bīng-Less ice
+请问:qǐng wèn-Excuse me
+有:yǒu-Have
+热的:rè de-Hot
+饮料:yǐn liào-Drink/beverage
+请:qǐng-Please
+帮:bāng-Help
+分开:fēn kāi-Separate
+装:zhuāng-Put
+去冰:qù bīng-No ice
+咖啡:kā fēi-Coffee
+不加糖:bù jiā táng-No sugar
+#
+我(wǒ)[] :I/me
+要(yào)[] :Want
+一(yì)[] 杯(bēi)[] :A cup/glass
+珍(zhēn)[] 珠(zhū)[] :Pearl
+奶(nǎi)[] 茶(chá)[] :Milk tea
+甜(tián)[] 度(dù)[] :Sweetness
+正(zhèng)[] 常(cháng)[] :Normal
+少(shǎo)[] 冰(bīng)[] :Less ice
+请(qǐng)[] 问(wèn)[] :Excuse me
+有(yǒu)[] :Have
+%
+热(rè)[] 的(de)[] :Hot
+饮(yǐn)[] 料(liào)[] :Drink/beverage
+请(qǐng)[] :Please
+帮(bāng)[] :Help
+分(fēn)[] 开(kāi)[] :Separate
+装(zhuāng)[] :Put
+去(qù)[] 冰(bīng)[] :No ice
+咖(kā)[] 啡(fēi)[] :Coffee
+不(bù)[] 加(jiā)[] 糖(táng)[] :No sugar
+#
+< I want a cup of bubble milk tea. >
+< 我(wǒ)[] 要(yào)[] 一(yì)[] 杯(bēi)[] 珍(zhēn)[] 珠(zhū)[] 奶(nǎi)[] 茶(chá)[] 。 >
+#
+< Is the sugar level and ice level normal? >
+< 甜(tián)[] 度(dù)[] 和(hé)[] 冰(bīng)[] 块(kuài)[]  正(zhèng)[] 常(cháng)[] 吗(ma)[] ？ >
+#
+< Normal sugar level with less ice. >
+< 甜(tián)[] 度(dù)[] 正(zhèng)[] 常(cháng)[] , 少(shǎo)[] 冰(bīng)[] 。 >
+#
+< Normal sugar level with no ice. >
+< 甜(tián)[] 度(dù)[] 正(zhèng)[] 常(cháng)[] , 去(qù)[] 冰(bīng)[] 。 >
+#
+< Is there any hot beverages? >
+< 请(qǐng)[] 问(wèn)[] 有(yǒu)[] 热(rè)[] 的(de)[] 饮(yǐn)[] 料(liào)[] 吗(ma)[] ？ >
+#
+< Please help me to pack it separately, thanks. >
+< 请(qǐng)[] 帮(bāng)[] 我(wǒ)[] 分(fēn)[] 开(kāi)[] 装(zhuāng)[] , 谢(xiè)[] 谢(xiè)[] 。 >
+#
+< I want a cup of coffee with no sugar. >
+< 我(wǒ)[] 要(yào)[] 一(yì)[] 杯(bēi)[] 咖(kā)[] 啡(fēi)[] 不(bù)[] 加(jiā)[] 糖(táng)[] 。 >

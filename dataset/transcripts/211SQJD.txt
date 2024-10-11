@@ -1,0 +1,60 @@
+打算:dǎ suàn-Plan
+国内:guó nèi-Domestic/at one's country
+出国:chū guó-Go abroad
+深造:shēn zào-Further studies
+毕业后:bì yè hòu-After graduation
+工作:gōng zuò-Work
+计划:jì huà-Plan
+呆:dāi-Stay
+大概:dà gài-Around
+大学:dà xué-University
+读完:dú wán-Finish 
+银行:yín háng-Bank
+当:dāng-Be
+冬天:dōng tiān-Winter
+旅行:lǚ xíng-Travel
+先:xiān-First
+再:zài-Then
+平常:píng cháng-Usually
+周末:zhōu mò-Weekends
+健身房:jiàn shēn fáng-Fitness center
+#
+打(dǎ)[] 算(suàn)[] :Plan
+国(guó)[] 内(nèi)[] :Domestic/at one's country
+出(chū)[] 国(guó)[] :Go abroad
+深(shēn)[] 造(zào)[] :Further studies
+毕(bì)[] 业(yè)[] 后(hòu)[] :After graduation
+工(gōng)[] 作(zuò)[] :Work
+健(jiàn)[] 身(shēn)[] 房(fáng)[] :Fitness center
+呆(dāi)[] :Stay
+大(dà)[] 概(gài)[] :Around
+大(dà)[] 学(xué)[] :University
+%
+读(dú)[] 完(wán)[] :Finish 
+银(yín)[] 行(háng)[] :Bank
+当(dāng)[] :Be
+冬(dōng)[] 天(tiān)[] :Winter
+旅(lǚ)[] 行(xíng)[] :Travel
+先(xiān)[] :First
+再(zài)[] :Then
+平(píng)[] 常(cháng)[] :Usually
+周(zhōu)[] 末(mò)[] :Weekends
+计(jì)[] 划(huà)[] :Plan
+#
+< Do you plan to study in your country or go abroad for further studies? >
+< 你(nǐ)[] 打(dǎ)[] 算(suàn)[] 在(zài)[] 国(guó)[] 内(nèi)[] 读(dú)[] 书(shū)[] ， 还(hái)[] 是(shì)[] 出(chū)[] 国(guó)[] 深(shēn)[] 造(zào)[] ？ >
+#
+< Where do you want to work after graduation? >
+< 你(nǐ)[] 毕(bì)[] 业(yè)[] 后(hòu)[] 想(xiǎng)[] 在(zài)[] 哪(nǎ)[] 里(li)[] 工(gōng)[] 作(zuò)[] ？ >
+#
+< How long do you plan to stay in China? For around 5 years, I want to finish university. >
+< 你(nǐ)[] 计(jì)[] 划(huà)[] 在(zài)[] 中(zhōng)[] 国(guó)[] 呆(dāi)[] 多(duō)[] 久(jiǔ)[] ？ 大(dà)[] 概(gài)[] 五(wǔ)[] 年(nián)[] ， 我(wǒ)[] 想(xiǎng)[] 读(dú)[] 完(wán)[] 大(dà)[] 学(xué)[] 。 >
+#
+< I don't want to work in a bank, I want to be a teacher. >
+< 我(wǒ)[] 不(bù)[] 想(xiǎng)[] 在(zài)[] 银(yín)[] 行(háng)[] 工(gōng)[] 作(zuò)[] ， 我(wǒ)[] 想(xiǎng)[] 当(dāng)[] 老(lǎo)[] 师(shī)[] 。 >
+#
+< Where do you want to travel this year's winter? I plan to go to America first, and then Canada. >
+< 今(jīn)[] 年(nián)[] 冬(dōng)[] 天(tiān)[] 你(nǐ)[] 想(xiǎng)[] 去(qù)[] 哪(nǎ)[] 儿(er)[] 旅(lǚ)[] 行(xíng)[] ？ 我(wǒ)[] 计(jì)[] 划(huà)[] 先(xiān)[] 去(qù)[] 美(měi)[] 国(guó)[] ， 再(zài)[] 去(qù)[] 加(jiā)[] 拿(ná)[] 大(dà)[] 。 >
+#
+< What do you usually do on weekends? On weekends, I will go to the fitness center to exercise with my family. >
+< 你(nǐ)[] 平(píng)[] 常(cháng)[] 周(zhōu)[] 末(mò)[] 都(dōu)[] 做(zuò)[] 些(xiē)[] 什(shén)[] 么(me)[] ？ 我(wǒ)[] 周(zhōu)[] 末(mò)[] 会(huì)[] 和(hé)[] 家(jiā)[] 人(rén)[] 一(yì)[] 起(qǐ)[] 去(qù)[] 健(jiàn)[] 身(shēn)[] 房(fáng)[] 运(yùn)[] 动(dòng)[] 。 >

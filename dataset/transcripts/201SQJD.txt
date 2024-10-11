@@ -1,0 +1,58 @@
+﻿姓:xìng-Surname
+请问:qǐng wèn-Excuse me
+多久:duō jiǔ-How long
+被:bèi-Get
+取消:qǔ xiāo-Cancelled
+招牌菜:zhāo pái cài-Specialty dish
+小姐:xiǎo jiě-Miss/woman
+一份:yí fèn-One portion
+一样:yí yàng-Same
+三号餐:sān hào cān-Combo meal no.3
+不好意思:bù hǎo yì si-Excuse me
+点:diǎn-Order
+牛排:niú pái-Steak
+太:tài-Too
+老:lǎo-Overcook (steak)
+五分熟:wǔ fēn shú-Medium rare
+再:zài-Again
+一瓶:yì píng-One bottle
+汽水:qì shuǐ-Soda
+#
+姓(xìng)[] :Surname
+请(qǐng)[] 问(wèn)[] :Excuse me
+多(duō)[] 久(jiǔ)[] :How long
+被(bèi)[] :Get
+取(qǔ)[] 消(xiāo)[] :Cancelled
+招(zhāo)[] 牌(pái)[] 菜(cài)[] :Specialty dish
+小(xiǎo)[] 姐(jiě)[] :Miss/woman
+一(yí)[] 份(fèn)[] :One portion
+一(yí)[] 样(yàng)[] :Same
+三(sān)[] 号(hào)[] 餐(cān)[] :Combo meal no.3
+%
+不(bù)[] 好(hǎo)[] 意(yì)[] 思(sī)[] :Excuse me
+点(diǎn)[] :Order
+牛(niú)[] 排(pái)[] :Steak
+太(tài)[] :Too
+老(lǎo)[] :Overcook (steak)
+五(wǔ)[] 分(fēn)[] 熟(shú)[] :Medium rare
+再(zài)[] :Again
+一(yì)[] 瓶(píng)[] :One bottle
+汽(qì)[] 水(shuǐ)[] :Soda
+#
+< What is the woman over there eating?I'd like to order one portion of the same dish. >
+< 那(nà)[] 边(biān)[] 那(nà)[] 位(wèi)[] 小(xiǎo)[] 姐(jiě)[] 吃(chī)[] 的(de)[] 是(shì)[] 什(shén)[] 么(me)[] ？ 我(wǒ)[] 要(yào)[] 一(yí)[] 份(fèn)[] 一(yí)[] 样(yàng)[] 的(de)[] 。 >
+#
+< Give me a combo no.3. >
+< 给(gěi)[] 我(wǒ)[] 一(yí)[] 份(fèn)[] 三(sān)[] 号(hào)[] 餐(cān)[] 。 >
+#
+< Can I get another bottle of soda please, thanks. >
+< 再(zài)[] 给(gěi)[] 我(wǒ)[] 一(yì)[] 瓶(píng)[] 汽(qì)[] 水(shuǐ)[] ， 谢(xiè)[] 谢(xie)[] 。 >
+#
+< Excuse me, where do I pay the bill?  >
+< 请(qǐng)[] 问(wèn)[] 在(zài)[] 哪(nǎ)[] 里(lǐ)[] 买(mǎi)[] 单(dān)[] ？ >
+#
+< How much tip should we leave? >
+< 应(yīng)[] 该(gāi)[] 给(gěi)[] 多(duō)[] 少(shǎo)[] 小(xiǎo)[] 费(fèi)[] ？ >
+#
+< I'd like to make a reservation for 2 people, My surname is Wen. >
+< 我(wǒ)[] 想(xiǎng)[] 订(dìng)[] 位(wèi)[] 。 两(liǎng)[] 位(wèi)[] ， 我(wǒ)[] 姓(xìng)[] 温(wēn)[] 。 >

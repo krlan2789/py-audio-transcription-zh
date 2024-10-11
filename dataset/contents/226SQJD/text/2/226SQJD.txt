@@ -1,0 +1,81 @@
+包包:bāo bāo-bag
+报案:bào àn-report the crime
+离开:lí kāi-leave
+交通规则:jiāo tōng guī zé-traffic rules
+不熟:bù shú-not familiar
+超速:chāo sù-speeding, overspeed
+再:zài-again
+机会:jī huì-chance
+抛锚:pāo máo-broke down
+拖车:tuō chē-trailer
+车祸:chē huò-car accident
+报警:bào jǐng-report to the police
+救护车:jiù hù chē-ambulance
+消防队:xiāo fáng duì-fire brigade
+失火了:shī huǒ le-catch fire
+救火:jiù huǒ-fire fighting
+法文:fǎ wén-French
+翻译:fān yì-translate
+抢劫:qiǎng jié-robbery
+保安:bǎo ān-security guard
+昏倒:hūn dǎo-faint
+跌倒:diē dǎo-fall down
+受伤:shòu shāng-injured, hurt
+扶:fú-support, help
+马上:mǎ shàng-immediately
+消毒:xiāo dú-disinfect
+填:tián-fill
+单子:dān zi-form
+偷:tōu-stole, steal
+钱包:qián bāo-wallet
+#
+包(bāo)[] 包(bāo)[] :bag
+报(bào)[] 案(àn)[] :report the crime
+离(lí)[] 开(kāi)[] :leave
+交(jiāo)[] 通(tōng)[] 规(guī)[] 则(zé)[] :traffic rules
+不(bù)[] 熟(shú)[] :not familiar
+超(chāo)[] 速(sù)[] :speeding, overspeed
+再(zài)[] :again
+机(jī)[] 会(huì)[] :chance
+抛(pāo)[] 锚(máo)[] :broke down
+拖(tuō)[] 车(chē)[] :trailer
+%
+车(chē)[] 祸(huò)[] :car accident
+报(bào)[] 警(jǐng)[] :report to the police
+救(jiù)[] 护(hù)[] 车(chē)[] :ambulance
+消(xiāo)[] 防(fáng)[] 队(duì)[] :fire brigade
+失(shī)[] 火(huǒ)[] 了(le)[] :catch fire
+救(jiù)[] 火(huǒ)[] :fire fighting
+法(fǎ)[] 文(wén)[] :French
+翻(fān)[] 译(yì)[] :translate
+抢(qiǎng)[] 劫(jié)[] :robbery
+保(bǎo)[] 安(ān)[] :security guard
+%
+昏(hūn)[] 倒(dǎo)[] :faint
+跌(diē)[] 倒(dǎo)[] :fall down
+受(shòu)[] 伤(shāng)[] :injured, hurt
+扶(fú)[] :support, help
+马(mǎ)[] 上(shàng)[] :immediately
+消(xiāo)[] 毒(dú)[] :disinfect
+填(tián)[] :fill
+单(dān)[] 子(zi)[] :form
+偷(tōu)[] :stole, steal
+钱(qián)[] 包(bāo)[] :wallet
+#
+< Police officer, my bag was robbed, I want to report. >
+< 警(jǐng)[] 察(chá)[] 先(xiān)[] 生(sheng)[] ， 我(wǒ)[] 的(de)[] 包(bāo)[] 包(bāo)[] 被(bèi)[] 抢(qiǎng)[] 了(le)[] ， 我(wǒ)[] 要(yào)[] 报(bào)[] 案(àn)[] 。 >
+#
+< Sorry, I'm not familiar with the traffic rules here so I speeding, please give me another chance. >
+< 对(duì)[] 不(bu)[] 起(qǐ)[] ， 我(wǒ)[] 对(duì)[] 这(zhè)[] 里(lǐ)[] 的(de)[] 交(jiāo)[] 通(tōng)[] 规(guī)[] 则(zé)[] 不(bù)[] 熟(shú)[] 才(cái)[] 会(huì)[] 超(chāo)[] 速(sù)[] ， 请(qǐng)[] 再(zài)[] 给(gěi)[] 我(wǒ)[] 一(yí)[] 次(cì)[] 机(jī)[] 会(huì)[] 。 >
+#
+< Hello, the fire brigade? There is a fire here, come and fight the fire! >
+< 喂(wèi)[] ， 消(xiāo)[] 防(fáng)[] 队(duì)[] 吗(ma)[] ？ 这(zhè)[] 里(lǐ)[] 失(shī)[] 火(huǒ)[] 了(le)[] ， 快(kuài)[] 来(lái)[] 救(jiù)[] 火(huǒ)[] ！ >
+#
+< Someone robbed, call the security guard! >
+< 有(yǒu)[] 人(rén)[] 抢(qiǎng)[] 劫(jié)[] ， 快(kuài)[] 叫(jiào)[] 保(bǎo)[] 安(ān)[] 来(lái)[] ！ >
+#
+< Someone has fainted, call ambulance! >
+< 有(yǒu)[] 人(rén)[] 昏(hūn)[] 倒(dǎo)[] 了(le)[] ， 快(kuài)[] 叫(jiào)[] 救(jiù)[] 护(hù)[] 车(chē)[] ！ >
+#
+< I fell and hurt my foot, can't stand up, can you help me up? >
+< 我(wǒ)[] 跌(diē)[] 倒(dǎo)[] 脚(jiǎo)[] 受(shòu)[] 伤(shāng)[] 了(le)[] ， 站(zhàn)[] 不(bù)[] 起(qǐ)[] 来(lái)[] ， 你(nǐ)[] 可(kě)[] 以(yǐ)[] 扶(fú)[] 我(wǒ)[] 起(qǐ)[] 来(lái)[] 吗(ma)[] ？ >

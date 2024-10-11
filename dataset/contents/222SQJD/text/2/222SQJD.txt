@@ -1,0 +1,70 @@
+蘑菇:mó gu-Mushroom
+番茄:fān qié-Tomato
+四季豆:sì jì dòu-String beans
+不太新鲜:bú tài xīn xiān-Not too fresh
+一斤:yì jīn-Half a kilogram
+便宜一点:pián yi yì diǎn-A bit cheaper
+有机蔬菜:yǒu jī shū cài-Organic vegetables
+价钱:jià qián-price
+两倍:liǎng bèi-twice
+进口:jìn kǒu-import
+特别:tè bié-especially
+受欢迎:shòu huān yíng-popular
+一下子:yí xià zi-all of a sudden
+卖光了:mài guāng le-sold out
+怎么那么:zěn me nà me-Why so …
+贵:guì-expensive
+再少:zài shǎo-lesser
+亏本:kuī běn-at a loss
+挑:tiāo-pick, choose
+八块:bā kuài-8 dollars
+算你:suàn nǐ-The price for you
+其他:qí tā-others
+半斤:bàn jīn-half a catty
+辣椒:là jiāo-Chilli
+一共:yí gòng-total 
+#
+蘑(mó)[] 菇(gu)[] :Mushroom
+番(fān)[] 茄(qié)[] :Tomato
+四(sì)[] 季(jì)[] 豆(dòu)[] :String beans
+不(bú)[] 太(tài)[] 新(xīn)[] 鲜(xiān)[] :Not too fresh
+一(yì)[] 斤(jīn)[] :Half a kilogram
+便(pián)[] 宜(yi)[] 一(yì)[] 点(diǎn)[] :A bit cheaper
+有(yǒu)[] 机(jī)[] 蔬(shū)[] 菜(cài)[] :Organic vegetables
+价(jià)[] 钱(qián)[] :price
+两(liǎng)[] 倍(bèi)[] :twice
+进(jìn)[] 口(kǒu)[] :import
+特(tè)[] 别(bié)[] :especially
+受(shòu)[] 欢(huān)[] 迎(yíng)[] :popular
+%
+一(yí)[] 下(xià)[] 子(zi)[] :all of a sudden
+卖(mài)[] 光(guāng)[] 了(le)[] :sold out
+怎(zěn)[] 么(me)[] 那(nà)[] 么(me)[] :Why so …
+贵(guì)[] :expensive
+再(zài)[] 少(shǎo)[] :lesser
+亏(kuī)[] 本(běn)[] :at a loss
+挑(tiāo)[] :pick, choose
+八(bā)[] 块(kuài)[] :8 dollars
+算(suàn)[] 你(nǐ)[] :The price for you
+其(qí)[] 他(tā)[] :others
+半(bàn)[] 斤(jīn)[] :half a catty
+辣(là)[] 椒(jiāo)[] :Chilli
+一(yí)[] 共(gòng)[] :total 
+#
+< Do you sell organic vegetables here? >
+< 请(qǐng)[] 问(wèn)[] 这(zhè)[] 里(lǐ)[] 有(yǒu)[] 卖(mài)[] 有(yǒu)[] 机(jī)[] 蔬(shū)[] 菜(cài)[] 吗(ma)[] ？ >
+#
+< Why is broccoli so expensive? >
+< 青(qīng)[] 花(huā)[] 菜(cài)[] 怎(zěn)[] 么(me)[] 那(nà)[] 么(me)[] 贵(guì)[] ？ >
+#
+< This is already very cheap, cheaper will be a loss! >
+< 这(zhè)[] 已(yǐ)[] 经(jīng)[] 很(hěn)[] 便(pián)[] 宜(yi)[] 了(le)[] ， 再(zài)[] 少(shǎo)[] 就(jiù)[] 亏(kuī)[] 本(běn)[] 了(le)[] ！ >
+#
+< Please help me pick some fresh corn and carrots. >
+< 请(qǐng)[] 帮(bāng)[] 我(wǒ)[] 挑(tiāo)[] 几(jǐ)[] 个(gè)[] 新(xīn)[] 鲜(xiān)[] 的(de)[] 玉(yù)[] 米(mǐ)[] 和(hé)[] 胡(hú)[] 萝(luó)[] 卜(bo)[] 。 >
+#
+< Half kilogram of tomatoes is eight yuan, buy 1 kg and you get 15 yuan. >
+< 一(yì)[] 斤(jīn)[] 番(fān)[] 茄(qié)[] 八(bā)[] 块(kuài)[] ， 买(mǎi)[] 两(liǎng)[] 斤(jīn)[] 算(suàn)[] 你(nǐ)[] 十(shí)[] 五(wǔ)[] 块(kuài)[] 。 >
+#
+< Sorry, the potatoes are sold out, please buy other vegetables! >
+< 不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] ， 土(tǔ)[] 豆(dòu)[] 卖(mài)[] 光(guāng)[] 了(le)[] ， 买(mǎi)[] 其(qí)[] 他(tā)[] 蔬(shū)[] 菜(cài)[] 吧(ba)[] ！ >

@@ -1,0 +1,96 @@
+打九折:dǎ jiǔ zhé-10 percent discount
+不二价:bú èr jià-no second price, can't bargain
+价钱:jià qián-price
+包括:bāo kuò-include
+运费:yùn fèi-shipping fee
+服务费:fú wù fèi-service charge
+刷卡:shuā kǎ-swipe card
+付:fù-pay
+现金:xiàn jīn-cash
+不够:bú gòu-not enough
+一半:yí bàn-a half
+已经:yǐ jīng-already
+付清:fù qīng-fully paid
+收据:shōu jù-receipt
+费用:fèi yòng-cost, fee
+一共:yí gòng-total
+一百:yì bǎi-100
+一千:yì qiān-1000
+收:shōu-receive
+找:zhǎo-pay the change
+除了:chú le-except
+车票:chē piào-fare
+以外:yǐ wài-apart from
+需要:xū yào-need
+缴:jiǎo-pay
+折价卷:zhé jià juǎn-discount coupon
+到期:dào qí-expire
+集点卡:jí diǎn kǎ-point card
+集满:jí mǎn-fully collected
+一百点:yì bǎi diǎn-100 points
+免费:miǎn fèi-free
+赠送:zèng sòng-give
+手表:shǒu biǎo-watch
+换成:huàn chéng-change into
+炒饭:chǎo fàn-fried rice
+炒米粉:chǎo mǐ fěn-fried rice noodles
+加钱:jiā qián-pay more
+#
+打(dǎ)[] 九(jiǔ)[] 折(zhé)[] :10 percent discount
+不(bú)[] 二(èr)[] 价(jià)[] :no second price, can't bargain
+价(jià)[] 钱(qián)[] :price
+包(bāo)[] 括(kuò)[] :include
+运(yùn)[] 费(fèi)[] :shipping fee
+服(fú)[] 务(wù)[] 费(fèi)[] :service charge
+刷(shuā)[] 卡(kǎ)[] :swipe card
+付(fù)[] :pay
+现(xiàn)[] 金(jīn)[] :cash
+%
+不(bú)[] 够(gòu)[] :not enough
+一(yí)[] 半(bàn)[] :a half
+已(yǐ)[] 经(jīng)[] :already
+付(fù)[] 清(qīng)[] :fully paid
+收(shōu)[] 据(jù)[] :receipt
+费(fèi)[] 用(yòng)[] :cost, fee
+一(yí)[] 共(gòng)[] :total
+一(yì)[] 百(bǎi)[] :100
+一(yì)[] 千(qiān)[] :1000
+%
+收(shōu)[] :receive
+找(zhǎo)[] :pay the change
+除(chú)[] 了(le)[] :except
+车(chē)[] 票(piào)[] :fare
+以(yǐ)[] 外(wài)[] :apart from
+需(xū)[] 要(yào)[] :need
+缴(jiǎo)[] :pay
+折(zhé)[] 价(jià)[] 卷(juǎn)[] :discount coupon
+到(dào)[] 期(qī)[] :expire
+%
+集(jí)[] 点(diǎn)[] 卡(kǎ)[] :point card
+集(jí)[] 满(mǎn)[] :fully collected
+一(yì)[] 百(bǎi)[] 点(diǎn)[] :100 points
+免(miǎn)[] 费(fèi)[] :free
+赠(zèng)[] 送(sòng)[] :give
+手(shǒu)[] 表(biǎo)[] :watch
+换(huàn)[] 成(chéng)[] :change into
+炒(chǎo)[] 饭(fàn)[] :fried rice
+炒(chǎo)[] 米(mǐ)[] 粉(fěn)[] :fried rice noodles
+加(jiā)[] 钱(qián)[] :pay more
+#
+< Sorry, there is no second price here, so no discount >
+< 不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] ， 这(zhè)[] 里(lǐ)[] 不(bú)[] 二(èr)[] 价(jià)[] ， 所(suǒ)[] 以(yǐ)[] 不(bù)[] 打(dǎ)[] 折(zhé)[] 。 >
+#
+< I have paid in full, please give me the receipt. >
+< 我(wǒ)[] 已(yǐ)[] 经(jīng)[] 付(fù)[] 清(qīng)[] 了(le)[] ， 请(qǐng)[] 给(gěi)[] 我(wǒ)[] 收(shōu)[] 据(jù)[] 。 >
+#
+< What is the cost of this 230 dollars for? >
+< 请(qǐng)[] 问(wèn)[] 这(zhè)[] 个(gè)[] 两(liǎng)[] 百(bǎi)[] 三(sān)[] 十(shí)[] 元(yuán)[] 是(shì)[] 什(shén)[] 么(me)[] 费(fèi)[] 用(yòng)[] ？ >
+#
+< The total is 1275 dollars. Receive from you 2000 dollars, pay you the change 725 dollars. >
+< 一(yí)[] 共(gòng)[] 是(shì)[] 一(yì)[] 千(qiān)[] 两(liǎng)[] 百(bǎi)[] 七(qī)[] 十(shí)[] 五(wǔ)[] ， 收(shōu)[] 您(nín)[] 两(liǎng)[] 千(qiān)[] 元(yuán)[] ， 找(zhǎo)[] 您(nín)[] 七(qī)[] 百(bǎi)[] 二(èr)[] 十(shí)[] 五(wǔ)[] 元(yuán)[] 。 >
+#
+< This discount coupon expires today. Can it still be used? >
+< 这(zhè)[] 张(zhāng)[] 折(zhé)[] 价(jià)[] 卷(juǎn)[] 今(jīn)[] 天(tiān)[] 到(dào)[] 期(qī)[] ， 请(qǐng)[] 问(wèn)[] 还(hái)[] 可(kě)[] 以(yǐ)[] 用(yòng)[] 吗(ma)[] ？ >
+#
+< With this point card, collect 100 points, give a watch for free. >
+< 这(zhè)[] 张(zhāng)[] 集(jí)[] 点(diǎn)[] 卡(kǎ)[] ， 集(jí)[] 满(mǎn)[] 一(yì)[] 百(bǎi)[] 点(diǎn)[] ， 免(miǎn)[] 费(fèi)[] 赠(zèng)[] 送(sòng)[] 手(shǒu)[] 表(biǎo)[] 一(yì)[] 只(zhī)[] 。 >

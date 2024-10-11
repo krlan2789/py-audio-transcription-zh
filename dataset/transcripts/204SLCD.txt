@@ -1,0 +1,34 @@
+住:zhù-Live
+高高的:gāo gāo de-Tall
+那里:nà lǐ-There
+黑色:hēi sè-Black
+对面:duì miàn-Opposite
+离:lí-From (distance)
+不远:bù yuǎn-Not far away
+楼上:lóu shàng-Upstairs
+楼下:lóu xià-Downstairs
+#
+住:Live
+高高的:Tall
+那里:There
+黑色:Black
+对面:Opposite
+离:From (distance)
+不远:Not far away
+楼上:Upstairs
+楼下:Downstairs
+#
+< Grandpa lives at that tall apartment. >
+< 爷(yé)[2] 爷(ye)[] 住(zhù)[4] 在(zài)[4] 那(nà)[4] 座(zuò)[4] 高(gāo)[1] 高(gāo)[1] 的(de)[] 组(zǔ)[3] 屋(wū)[1] 里(lǐ)[3] 。 >
+#
+< There is a black road overthere. >
+< 那(nà)[4] 里(lǐ)[3] 有(yǒu)[3] 一(yì)[4] 条(tiáo)[2] 黑(hēi)[1] 色(sè)[4] 的(de)[] 马(mǎ)[3] 路(lù)[4] 。 >
+#
+< There is a book store in front of teacher's house. >
+< 老(lǎo)[3] 师(shī)[1] 家(jiā)[1] 的(de)[] 对(duì)[4] 面(miàn)[4] 有(yǒu)[3] 一(yì)[4] 间(jiān)[1] 书(shū)[1] 店(diàn)[4] 。 >
+#
+< There is a bridge and a park not far from grandpa's house. >
+< 离(lí)[2] 爷(yé)[2] 爷(ye)[] 家(jiā)[1] 不(bù)[4] 远(yuǎn)[3] 有(yǒu)[3] 一(yí)[2] 座(zuò)[4] 桥(qiáo)[2] 和(hé)[2] 一(yí)[2] 个(gè)[4] 公(gōng)[1] 园(yuán)[2] 。 >
+#
+< There is a classroom upstairs and a bookstore downstairs. >
+< 楼(lóu)[2] 上(shàng)[4] 有(yǒu)[3] 一(yì)[4] 间(jiān)[1] 教(jiào)[4] 室(shì)[4] ， 楼(lóu)[2] 下(xià)[4] 有(yǒu)[3] 一(yì)[4] 家(jiā)[1] 书(shū)[1] 店(diàn)[4] 。 >

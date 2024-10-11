@@ -1,0 +1,50 @@
+染成:rǎn chéng-Dyed
+红色:hóng sè-Red
+认为:rèn wéi-Think
+后面:hòu miàn-Back/behind
+两边:liǎng biān-The sides
+前面:qián miàn-Front
+一点点:yī diǎn diǎn-A little bit
+刘海:liú hǎi-Fringe (bangs)
+太短:tài duǎn-Too short
+换:huàn-Change
+发型:fà xíng-Hairstyle
+修短:xiū duǎn-Cut short
+帮:bāng-Help
+染头发:rǎn tóu fa-Dye hair
+等:děng-	Wait
+#
+染(rǎn)[] 成(chéng)[] :Dyed
+红(hóng)[] 色(sè)[] :Red
+认(rèn)[] 为(wéi)[] :Think
+后(hòu)[] 面(mian)[] :Back/behind
+两(liǎng)[] 边(biān)[] :The sides
+前(qián)[] 面(mian)[] :Front
+一(yì)[] 点(diǎn)[] 点(diǎn)[] :A little bit
+刘(liú)[] 海(hǎi)[] :Fringe (bangs)
+%
+太(tài)[] 短(duǎn)[] :Too short
+换(huàn)[] :Change
+发(fà)[] 型(xíng)[] :Hairstyle
+修(xiū)[] 短(duǎn)[] :Cut short
+帮(bāng)[] :Help
+染(rǎn)[] 头(tóu)[] 发(fà)[] :Dye hair
+等(děng)[] :Wait
+#
+< I'd like to have my hair dyed red, do you think it will look good? >
+< 我(wǒ)[] 想(xiǎng)[] 把(bǎ)[] 头(tóu)[] 发(fa)[] 染(rǎn)[] 成(chéng)[] 红(hóng)[] 色(sè)[] ， 你(nǐ)[] 认(rèn)[] 为(wéi)[] 好(hǎo)[] 看(kàn)[] 吗(ma)[] ？ >
+#
+< Cut the back the sides shorter, and just cut the front a little bit. >
+< 后(hòu)[] 面(mian)[] 和(hé)[] 两(liǎng)[] 边(biān)[] 剪(jiǎn)[] 短(duǎn)[] ， 前(qián)[] 面(mian)[] 剪(jiǎn)[] 一(yì)[] 点(diǎn)[] 点(diǎn)[] 就(jiù)[] 好(hǎo)[] 了(le)[] 。 >
+#
+< Please don't cut the front bangs too short. >
+< 前(qián)[] 面(mian)[] 的(de)[] 刘(liú)[] 海(hǎi)[] 请(qǐng)[] 不(bú)[] 要(yào)[] 剪(jiǎn)[] 太(tài)[] 短(duǎn)[] 。 >
+#
+< I don't want to change my hairstyle. Please just help me cut it short. >
+< 我(wǒ)[] 不(bú)[] 要(yào)[] 换(huàn)[] 发(fà)[] 型(xíng)[] ， 请(qǐng)[] 帮(bāng)[] 我(wǒ)[] 修(xiū)[] 短(duǎn)[] 就(jiù)[] 好(hǎo)[] 。 >
+#
+< I want to dye my hair, how long do I have to wait? >
+< 我(wǒ)[] 要(yào)[] 染(rǎn)[] 头(tóu)[] 发(fa)[] ， 请(qǐng)[] 问(wèn)[] 要(yāo)[] 等(děng)[] 多(duō)[] 久(jiǔ)[] ？ >
+#
+< Excuse me, how long does it take to perm hair? >
+< 请(qǐng)[] 问(wèn)[] 烫(tàng)[] 头(tóu)[] 发(fa)[] 需(xū)[] 要(yào)[] 多(duō)[] 长(cháng)[] 时(shí)[] 间(jiān)[] ？ >

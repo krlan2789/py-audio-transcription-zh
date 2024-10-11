@@ -1,9 +1,11 @@
+import json
+import librosa
+import numpy as np
 import tensorflow as tf
 import tensorflow_io as tfio
-import numpy as np
-import json
 from tensorflow.keras.layers import Input, LSTM, Dense
 from tensorflow.keras.optimizers import Adam
+from termcolor import cprint
 
 
 # Load Dataset
@@ -17,20 +19,27 @@ dataset = load_dataset("dataset.json")
 
 
 # Preprocess Audio
+# def preprocess_audio(file_path):
+#     audio = tfio.audio.AudioIOTensor(file_path)
+#     audio_tensor = audio.to_tensor()
+#     if len(audio_tensor.shape) > 1 and audio_tensor.shape[1] == 1:
+#         audio_tensor = tf.squeeze(audio_tensor, axis=-1)
+#     if len(audio_tensor.shape) > 1 and audio_tensor.shape[1] == 2:
+#         audio_tensor = tf.reduce_mean(
+#             audio_tensor, axis=1
+#         )  # Average channels if there are two
+#     if len(audio_tensor.shape) == 1:
+#         audio_tensor = tf.expand_dims(audio_tensor, axis=-1)
+#     return audio_tensor
+
+
 def preprocess_audio(file_path):
-    audio = tfio.audio.AudioIOTensor(file_path)
-    audio_tensor = audio.to_tensor()
-    if len(audio_tensor.shape) > 1 and audio_tensor.shape[1] == 1:
-        audio_tensor = tf.squeeze(audio_tensor, axis=-1)
-    if len(audio_tensor.shape) > 1 and audio_tensor.shape[1] == 2:
-        audio_tensor = tf.reduce_mean(
-            audio_tensor, axis=1
-        )  # Average channels if there are two
-    if len(audio_tensor.shape) == 1:
-        audio_tensor = tf.expand_dims(audio_tensor, axis=-1)
+    audio_tensor, sr = librosa.load(file_path, sr=None, mono=True)
+    audio_tensor = np.expand_dims(audio_tensor, axis=-1)
     return audio_tensor
 
 
+cprint("Preprocess audio files!!", "yellow")
 audio_tensors = [preprocess_audio(item["audio_file"]) for item in dataset]
 transcripts = [item["transcript"] for item in dataset]
 
@@ -47,7 +56,7 @@ transcripts_indices = [
     [char_to_index[char] for char in transcript] for transcript in transcripts
 ]
 max_length = max([len(transcript) for transcript in transcripts_indices])
-print(f"\nmax_length: {max_length}")
+# print(f"\nmax_length: {max_length}") # Check max length to using in transcribe.py
 transcripts_indices = tf.keras.preprocessing.sequence.pad_sequences(
     transcripts_indices, padding="post"
 )
@@ -93,7 +102,7 @@ print("Shape of transcripts_indices:", transcripts_indices.shape)
 # Hyperparameters
 learning_rate = 0.001  # Adjust learning rate, 0.001
 batch_size = 32  # Adjust batch size, 32
-epochs = 500  # Adjust number of epochs, 10
+epochs = 50  # Adjust number of epochs, 10
 
 # Model Architecture
 input_audio = Input(shape=(max_length, 1), name="audio_input")
@@ -108,11 +117,11 @@ model.compile(
 )
 
 # Train Model
-print("Starting training...")
+cprint("Starting training...", "yellow")
 history = model.fit(
     audio_tensors, transcripts_indices, epochs=epochs, batch_size=batch_size
 )
-print("Training completed.")
+cprint("Training completed.", "yellow")
 
 # # Evaluate the Model
 # loss, accuracy = model.evaluate(audio_tensors, transcripts_indices)
@@ -121,7 +130,7 @@ print("Training completed.")
 # Save Model
 print("Saving model...")
 model.save("./audio_transcription_zh_base.h5")
-print("Model saved successfully.")
+cprint("Model saved successfully.", "green")
 
 # Save character mappings
 with open("char_to_index.json", "w", encoding="utf-8") as f:

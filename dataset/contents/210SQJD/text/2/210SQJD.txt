@@ -1,0 +1,85 @@
+不舒服:bú shū fu-Feels unwell
+带:dài-Bring/take
+看医生:kàn yī shēng-See a doctor
+牙痛:yá tòng-Toothache
+帮:bāng-Help
+止痛药:zhǐ tòng yào-Painkillers
+药物:yào wù-Medicine
+过敏:guò mǐn-Allergic
+喉咙痛:hóu lóng tòng-Sore throat
+流鼻水:liú bí shuǐ-Runny nose
+好像:hǎo xiàng-Seems like
+感冒:gǎn mào-Have a cold
+拉肚子:lā dù zi-Diarrhea
+全身无力:quán shēn wú lì-Whole body has no strength/feels weak
+烫伤:tàng shāng-Scalded
+医院:yī yuàn-Hospital
+眼药水:yǎn yàoshuǐ-Eye drops
+很痛:hěn tòng-Really hurt
+热水:rè shuǐ-Hot water
+冰水:bīng shuǐ-Cold water
+运动:yùn dòng-Exercise
+不小心:bù xiǎo xīn-Accidentally
+撞到:zhuàng dào-Hit
+擦药:cā yào-Put on medicine
+胃痛:wèi tòng-Stomachache
+胃口:wèi kǒu-Appetite
+发烧:fā shāo-Fever
+吃药:chī yào-Take medicine
+打针:dǎ zhēn-Injection
+先:xiān-First
+量体温:liáng tǐ wēn-Measure body temperature
+一会儿:yí huì er-A while
+#
+不(bù)[] 舒(shū)[] 服(fu)[] :Feels unwell
+带(dài)[] :Bring/take
+看(kàn)[] 医(yī)[] 生(shēng)[] :See a doctor
+牙(yá)[] 痛(tòng)[] :Toothache
+帮(bāng)[] :Help
+止(zhǐ)[] 痛(tòng)[] 药(yào)[] :Painkillers
+药(yào)[] 物(wù)[] :Medicine
+过(guò)[] 敏(mǐn)[] :Allergic
+喉(hóu)[] 咙(lóng)[] 痛(tòng)[] :Sore throat
+流(liú)[] 鼻(bí)[] 水(shuǐ)[] :Runny nose
+好(hǎo)[] 像(xiàng)[] :Seems like
+%
+感(gǎn)[] 冒(mào)[] :Have a cold
+拉(lā)[] 肚(dù)[] 子(zi)[] :Diarrhea
+全(quán)[] 身(shēn)[] 无(wú)[] 力(lì)[] :Whole body has no strength/feels weak
+烫(tàng)[] 伤(shāng)[] :Scalded
+医(yī)[] 院(yuàn)[] :Hospital
+眼(yǎn)[] 药(yào)[] 水(shuǐ)[] :Eye drops
+很(hěn)[] 痛(tòng)[] :Really hurt
+热(rè)[] 水(shuǐ)[] :Hot water
+冰(bīng)[] 水(shuǐ)[] :Cold water
+运(yùn)[] 动(dòng)[] :Exercise
+%
+不(bù)[] 小(xiǎo)[] 心(xīn)[] :Accidentally
+撞(zhuàng)[] 到(dào)[] :Hit
+擦(cā)[] 药(yào)[] :Put on medicine
+胃(wèi)[] 痛(tòng)[] :Stomachache
+胃(wèi)[] 口(kǒu)[] :Appetite
+发(fā)[] 烧(shāo)[] :Fever
+吃(chī)[] 药(yào)[] :Take medicine
+打(dǎ)[] 针(zhēn)[] :Injection
+先(xiān)[] :First
+量(liàng)[] 体(tǐ)[] 温(wēn)[] :Measure body temperature
+一(yì)[] 会(huì)[] 儿(er)[] :A while
+#
+< I have a sore throat and a runny nose. It seems like I have a cold. >
+< 我(wǒ)[] 喉(hóu)[] 咙(lóng)[] 痛(tòng)[] ， 流(liú)[] 鼻(bí)[] 水(shuǐ)[] ， 好(hǎo)[] 像(xiàng)[] 是(shì)[] 感(gǎn)[] 冒(mào)[] 了(le)[] 。 >
+#
+< I have diarrhea. It's been 12 times today, my whole body feels weak. >
+< 我(wǒ)[] 拉(lā)[] 肚(dù)[] 子(zi)[] ， 今(jīn)[] 天(tiān)[] 拉(lā)[] 了(le)[] 12 次(cì)[] ， 全(quán)[] 身(shēn)[] 无(wú)[] 力(lì)[] 。 >
+#
+< Elder sister's hand was scalded by hot water. We immediately take her to the hospital. >
+< 姐(jiě)[] 姐(jie)[] 的(de)[] 手(shǒu)[] 被(bèi)[] 热(rè)[] 水(shuǐ)[] 烫(tàng)[] 伤(shāng)[] 了(le)[] ， 我(wǒ)[] 们(men)[] 快(kuài)[] 带(dài)[] 她(tā)[] 去(qù)[] 医(yī)[] 院(yuàn)[] 。 >
+#
+< I have a stomachache. I don't want to eat and don't have an appetite to eat. >
+< 我(wǒ)[] 胃(wèi)[] 痛(tòng)[] ， 不(bù)[] 想(xiǎng)[] 吃(chī)[] 东(dōng)[] 西(xi)[] ， 没(méi)[] 胃(wèi)[] 口(kǒu)[] 吃(chī)[] 饭(fàn)[] 。 >
+#
+< I have a fever for 3 days. The doctor wants me to take medicine and get an injection. >
+< 我(wǒ)[] 发(fā)[] 烧(shāo)[] 三(sān)[] 天(tiān)[] 了(le)[] ， 医(yī)[] 生(shēng)[] 要(yào)[] 我(wǒ)[] 吃(chī)[] 药(yào)[] ， 打(dǎ)[] 针(zhēn)[] 。 >
+#
+< You should sit here for a while, I'll measure your body temperature first. >
+< 你(nǐ)[] 在(zài)[] 这(zhè)[] 里(lǐ)[] 坐(zuò)[] 一(yí)[] 会(huì)[] 儿(er)[] ， 我(wǒ)[] 先(xiān)[] 帮(bāng)[] 你(nǐ)[] 量(liàng)[] 体(tǐ)[] 温(wēn)[] 。 >

@@ -1,0 +1,60 @@
+找:zhǎo-find
+整个:zhěng gè-altogether 
+书架:shū jià-bookshelf 
+查:chá-check
+二手店:èr shǒu diàn-second hand book store
+也许:yě xǔ-perhaps
+订:dìng-order 
+大概:dà gài-approximately 
+订金:dìng jīn-put deposit 
+目录:mù lù-catalog 
+参考:cān kǎo-reference
+漫画:màn huà-comics
+区:qū-area
+地下一楼:dì xià yī lóu-one floor below
+办:bàn-apply
+借书卡:jiè shū kǎ-Library card
+除了:chú le-beside
+护照:hù zhào-passport 
+两寸:liǎng cùn-two inch sized
+照片:zhào piàn-photo 
+#
+找(zhǎo)[] :find
+整(zhěng)[] 个(gè)[] :altogether 
+书(shū)[] 架(jià)[] :bookshelf 
+查(chá)[] :check
+二(èr)[] 手(shǒu)[] 店(diàn)[] :second hand book store
+也(yě)[] 许(xǔ)[] :perhaps
+订(dìng)[] :order 
+大(dà)[] 概(gài)[] :approximately 
+订(dìng)[] 金(jīn)[] :put deposit 
+目(mù)[] 录(lù)[] :catalog 
+%
+参(cān)[] 考(kǎo)[] :reference
+漫(màn)[] 画(huà)[] :comics
+区(qū)[] :area
+地(dì)[] 下(xià)[] 一(yī)[] 楼(lóu)[] :one floor below
+办(bàn)[] :apply
+借(jiè)[] 书(shū)[] 卡(kǎ)[] :Library card
+除(chú)[] 了(le)[] :beside
+护(hù)[] 照(zhào)[] :passport 
+两(liǎng)[] 寸(cùn)[] :two inch sized
+照(zhào)[] 片(piàn)[] :photo 
+#
+< I have checked all bookshelves and can't find it, can you please check on the computer? >
+< 我(wǒ)[] 找(zhǎo)[] 了(le)[] 整(zhěng)[] 个(gè)[] 书(shū)[] 架(jià)[] 都(dōu)[] 没(méi)[] 找(zhǎo)[] 到(dào)[] ， 可(kě)[] 以(yǐ)[] 帮(bāng)[] 我(wǒ)[] 用(yòng)[] 电(diàn)[] 脑(nǎo)[] 查(chá)[] 一(yí)[] 下(xià)[] 吗(ma)[] ？ >
+#
+< This story book is in English, do you have the Chinese one? >
+< 这(zhè)[] 本(běn)[] 故(gù)[] 事(shi)[] 书(shū)[] 是(shì)[] 英(yīng)[] 文(wén)[] 版(bǎn)[] 的(de)[] ， 请(qǐng)[] 问(wèn)[] 有(yǒu)[] 中(zhōng)[] 文(wén)[] 版(bǎn)[] 的(de)[] 吗(ma)[] ？ >
+#
+< You need to make a deposit first, the book will arrive in 3 days. >
+< 您(nín)[] 需(xū)[] 要(yào)[] 先(xiān)[] 付(fù)[] 定(dìng)[] 金(jīn)[] ， 书(shū)[] 大(dà)[] 概(gài)[] 三(sān)[] 天(tiān)[] 会(huì)[] 到(dào)[] 。 >
+#
+< For a library card, it needs 3 pieces of two inch photos besides your passport. >
+< 办(bàn)[] 借(jiè)[] 书(shū)[] 卡(kǎ)[] 除(chú)[] 了(le)[] 护(hù)[] 照(zhào)[] 还(hái)[] 需(xū)[] 要(yào)[] 三(sān)[] 张(zhāng)[] 两(liǎng)[] 寸(cùn)[] 的(de)[] 照(zhào)[] 片(piàn)[] 。 >
+#
+< I found this book at the second-hand bookstore, perhaps you also can find the book you want there. >
+< 我(wǒ)[] 在(zài)[] 二(èr)[] 手(shǒu)[] 书(shū)[] 店(diàn)[] 里(li)[] 找(zhǎo)[] 到(dào)[] 这(zhè)[] 本(běn)[] 书(shū)[] ， 也(yě)[] 许(xǔ)[] 你(nǐ)[] 要(yào)[] 的(de)[] 书(shū)[] 那(nà)[] 里(lǐ)[] 也(yě)[] 有(yǒu)[] 。 >
+#
+< Excuse me, besides student card, what are other documents needed to make a library card? >
+< 请(qǐng)[] 问(wèn)[] 办(bàn)[] 借(jiè)[] 书(shū)[] 卡(kǎ)[] 除(chú)[] 了(le)[] 学(xué)[] 生(shēng)[] 证(zhèng)[] ， 还(hái)[] 需(xū)[] 要(yào)[] 什(shén)[] 么(me)[] 证(zhèng)[] 件(jiàn)[] ？ >

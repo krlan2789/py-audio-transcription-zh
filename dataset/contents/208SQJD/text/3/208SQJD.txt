@@ -1,0 +1,75 @@
+﻿果汁:guǒ zhī-Juice
+换成:huàn chéng-Be changed into
+三道菜:sān dào cài-3 dishes
+够:gòu-Enough
+排骨汤:pái gǔ tāng-Ribs soup
+几人份:jǐ rén fèn-Portions/for how many people
+菜单:cài dān-Menu
+起司:qǐ sī-Cheese
+点的:diǎn de-Order
+清蒸鱼:qīng zhēng yú-Steamed fish
+牛肉:niú ròu-Beef
+辣:là-Spicy
+但:dàn-But
+太:tài-Too
+炒面:chǎo miàn-Fried noodles
+已经:yǐ jīng-Already
+等:děng-Wait
+快:kuài-Almost
+一个小时:yí gè xiǎo shí-1 hour
+猪排:zhū pái-Pork ribs
+几分熟:jǐ fēn shú-How cooked
+全熟:quán shú-Well done (meat)
+烤:kǎo-Grilled
+煎:jiān-Fried
+太油:tài yóu-Too oily
+招牌菜:zhāo pái cài-Signature dish
+比:bǐ-More
+#
+果(guǒ)[] 汁(zhī)[] :Juice
+换(huàn)[] 成(chéng)[] :Be changed into
+三(sān)[] 道(dào)[] 菜(cài)[] :3 dishes
+够(gòu)[] :Enough
+排(pái)[] 骨(gǔ)[] 汤(tāng)[] :Ribs soup
+几(jǐ)[] 人(rén)[] 份(fèn)[] :Portions/for how many people
+菜(cài)[] 单(dān)[] :Menu
+起(qǐ)[] 司(sī)[] :Cheese
+点(diǎn)[] 的(de)[] :Order
+%
+清(qīng)[] 蒸(zhēng)[] 鱼(yú)[] :Steamed fish
+牛(niú)[] 肉(ròu)[] :Beef
+辣(là)[] :Spicy
+但(dàn)[] :But
+太(tài)[] :Too
+炒(chǎo)[] 面(miàn)[] :Fried noodles
+已(yǐ)[] 经(jīng)[] :Already
+等:Wait
+快(kuài)[] :Almost
+%
+一(yí)[] 个(gè)[] 小(xiǎo)[] 时(shí)[] :1 hour
+猪(zhū)[] 排(pái)[] :Pork ribs
+几(jǐ)[] 分(fēn)[] 熟(shú)[] :How cooked
+全(quán)[] 熟(shú)[] :Well done (meat)
+烤(kǎo)[] :Grilled
+煎(jiān)[] :Fried
+太(tài)[] 油(yóu)[] :Too oily
+招(zhāo)[] 牌(pái)[] 菜(cài)[] :Signature dish
+比(bǐ)[] :More
+#
+< Can the juice be changed into tea? >
+< 果(guǒ)[] 汁(zhī)[] 可(kě)[] 以(yǐ)[] 换(huàn)[] 成(chéng)[] 茶(chá)[] 吗(ma)[] ？ >
+#
+< There are six of us, will 3 dishes be enough? >
+< 我(wǒ)[] 们(men)[] 六(liù)[] 个(gè)[] 人(rén)[] ， 三(sān)[] 道(dào)[] 菜(cài)[] 够(gòu)[] 吗(ma)[] ？ >
+#
+< Please give me the menu, thank you! >
+< 请(qǐng)[] 给(gěi)[] 我(wǒ)[] 菜(cài)[] 单(dān)[] ， 谢(xiè)[] 谢(xie)[] ！ >
+#
+< Is there any cheese in it? >
+< 这(zhè)[] 里(lǐ)[] 面(miàn)[] 有(yǒu)[] 放(fàng)[] 起(qǐ)[] 司(sī)[] 吗(ma)[] ？ >
+#
+< Is this made of beef? >
+< 这(zhè)[] 是(shì)[] 牛(niú)[] 肉(ròu)[] 做(zuò)[] 的(de)[] 吗(ma)[] ？ >
+#
+< Excuse me, what is your signature dish? >
+< 请(qǐng)[] 问(wèn)[] 你(nǐ)[] 们(men)[] 的(de)[] 招(zhāo)[] 牌(pái)[] 菜(cài)[] 是(shì)[] 什(shén)[] 么(me)[] ？ >

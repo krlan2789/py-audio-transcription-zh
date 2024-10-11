@@ -1,0 +1,48 @@
+花香味:huā xiāng wèi-flower smell
+香水:xiāng shuǐ-perfume
+试用:shì yòng-try out
+母亲节:mǔ qīn jié-mother's day
+礼物:lǐ wù-present
+建议:jiàn yì-suggestion
+计算机:jì suàn jī-calculator
+附了:fù le-attach / attached
+电池:diàn chí-battery
+再:zài-again
+不用:bú yòng-don't need
+试听器:shì tīng qì-trial music player
+按钮:àn niǔ-button
+按下去:àn xià qù-press down
+#
+花(huā)[] 香(xiāng)[] 味(wèi)[] :flower smell
+香(xiāng)[] 水(shuǐ)[] :perfume
+试(shì)[] 用(yòng)[] :try out
+母(mǔ)[] 亲(qīn)[] 节(jié)[] :mother's day
+礼(lǐ)[] 物(wù)[] :present
+建(jiàn)[] 议(yì)[] :suggestion
+计(jì)[] 算(suàn)[] 机(jī)[] :calculator
+%
+附(fù)[] 了(le)[] :attach / attached
+电(diàn)[] 池(chí)[] :battery
+再(zài)[] :again
+不(bú)[] 用(yòng)[] :don't need
+试(shì)[] 听(tīng)[] 器(qì)[] :trial music player
+按(àn)[] 钮(niǔ)[] :button
+按(àn)[] 下(xià)[] 去(qù)[] :press down
+#
+< I don't really like this clothes, is there any other models? >
+< 这(zhè)[] 件(jiàn)[] 衣(yī)[] 服(fu)[] 我(wǒ)[] 不(bú)[] 太(tài)[] 喜(xǐ)[] 欢(huan)[] ， 有(yǒu)[] 其(qí)[] 他(tā)[] 款(kuǎn)[] 式(shì)[] 吗(ma)[] ？ >
+#
+< I want to give a mother's day present to my mother, do you have any suggestions? >
+< 我(wǒ)[] 想(xiǎng)[] 送(sòng)[] 给(gěi)[] 妈(mā)[] 妈(ma)[] 母(mǔ)[] 亲(qīn)[] 节(jié)[] 礼(lǐ)[] 物(wù)[] ， 你(nǐ)[] 有(yǒu)[] 什(shén)[] 么(me)[] 建(jiàn)[] 议(yì)[] 吗(ma)[] ？ >
+#
+< Inside the calculator is attached with two number three batteries, you don't need to buy batteries again. >
+< 计(jì)[] 算(suàn)[] 机(jī)[] 里(lǐ)[] 面(miàn)[] 附(fù)[] 了(le)[] 两(liǎng)[] 颗(kē)[] 三(sān)[] 号(hào)[] 电(diàn)[] 池(chí)[] ， 你(nǐ)[] 不(bú)[] 用(yòng)[] 再(zài)[] 买(mǎi)[] 电(diàn)[] 池(chí)[] 了(le)[] 。 >
+#
+< The alarm clock that i just bought yesterday is broken, can change to a new one? >
+< 我(wǒ)[] 昨(zuó)[] 天(tiān)[] 刚(gāng)[] 买(mǎi)[] 的(de)[] 闹(nào)[] 钟(zhōng)[] 坏(huài)[] 了(le)[] ， 可(kě)[] 以(yǐ)[] 换(huàn)[] 一(yí)[] 个(gè)[] 新(xīn)[] 的(de)[] 吗(ma)[] ？ >
+#
+< These earrings are all hand-made, every pair has a different model, is there any you like? >
+< 这(zhè)[] 些(xiē)[] 耳(ěr)[] 环(huán)[] 都(dōu)[] 是(shì)[] 手(shǒu)[] 工(gōng)[] 做(zuò)[] 的(de)[] ， 每(měi)[] 一(yí)[] 对(duì)[] 款(kuǎn)[] 式(shì)[] 都(dōu)[] 不(bù)[] 一(yí)[] 样(yàng)[] ， 有(yǒu)[] 喜(xǐ)[] 欢(huan)[] 的(de)[] 吗(ma)[] ？ >
+#
+< Do you know how to use this trial music player? You can just press down the green colour button. >
+< 你(nǐ)[] 知(zhī)[] 道(dào)[] 这(zhè)[] 个(ge)[] 试(shì)[] 听(tīng)[] 器(qì)[] 怎(zěn)[] 么(me)[] 用(yòng)[] 吗(ma)[] ？ 绿(lǜ)[] 色(sè)[] 按(àn)[] 钮(niǔ)[] 按(àn)[] 下(xià)[] 去(qù)[] 就(jiù)[] 可(kě)[] 以(yǐ)[] 了(le)[] 。 >

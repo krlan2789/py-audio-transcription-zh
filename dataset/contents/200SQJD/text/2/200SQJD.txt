@@ -1,0 +1,94 @@
+﻿试衣间:shì yī jiān-Fitting room
+排队:pái duì-Line up
+试穿:shì chuān-Try on
+这些:zhè xiē-These 
+这一款:zhè yī kuǎn-This model
+出:chū-Release
+别的:bié de-Other
+颜色:yán sè-Color
+这条裤子:zhè tiáo kù zi-This pants
+拉链:lā liàn-Zipper
+坏了:huài le-Broken
+帮:bāng-Help
+换:huàn-Change
+新的:xīn de-New
+不好意思:bù hǎo yì si-Excuse me/sorry
+借:jiè-Lend
+模特儿:mó tè er-Model/mannequin
+戴:dài-Wear
+帽子:mào zi-Hat
+紧:jǐn-Tight
+有点:yǒu diǎn-A little
+大一号:dà yí hào-Bigger one/one size bigger
+小号:xiǎo hào-Small size
+穿不下:chuān bú xià-Can't fit
+中号:zhōng hào-Medium size
+女装:nǚ zhuāng-Women's clothing
+男装:nán zhuāng-Men's clothing
+尺寸:chǐ cùn-Size
+刚刚好:gāng gāng hǎo-Just right
+合身:hé shēn-Fit
+拿:ná-Get
+一件:yí jiàn-1 (measure word)
+本来:běn lái-Originally
+皮鞋:pí xié-Leather shoes
+卖完:mài wán-Sold out
+但是:dàn shì-But
+#
+试(shì)[] 衣(yī)[] 间(jiān)[] :Fitting room
+排(pái)[] 队(duì)[] :Line up
+试(shì)[] 穿(chuān)[] :Try on
+这(zhè)[] 些(xiē)[] :These 
+这(zhè)[] 一(yī)[] 款(kuǎn)[] :This model
+出(chū)[] :Release
+别(bié)[] 的(de)[] :Other
+颜(yán)[] 色(sè)[] :Color
+这(zhè)[] 条(tiáo)[] 裤(kù)[] 子(zi)[] :This pants
+%
+拉(lā)[] 链(liàn)[] :Zipper
+坏(huài)[] 了(le)[] :Broken
+帮(bāng)[] :Help
+换(huàn)[] :Change
+新(xīn)[] 的(de)[] :New
+不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] :Excuse me/sorry
+借(jiè)[] :Lend
+模(mó)[] 特(tè)[] 儿(er)[] :Model/mannequin
+戴(dài)[] :Wear
+%
+帽(mào)[] 子(zi)[] :Hat
+紧(jǐn)[] :Tight
+有(yǒu)[] 点(diǎn)[] :A little
+大(dà)[] 一(yí)[] 号(hào)[] :Bigger one/one size bigger
+小(xiǎo)[] 号(hào)[] :Small size
+穿(chuān)[] 不(bú)[] 下(xià)[] :Can't fit
+中(zhōng)[] 号(hào)[] :Medium size
+女(nǚ)[] 装(zhuāng)[] :Women's clothing
+男(nán)[] 装(zhuāng)[] :Men's clothing
+%
+尺(chǐ)[] 寸(cùn)[] :Size
+刚(gāng)[] 刚(gāng)[] 好(hǎo)[] :Just right
+合(hé)[] 身(shēn)[] :Fit
+拿(ná)[] :Get
+一(yí)[] 件(jiàn)[] :1 (measure word)
+本(běn)[] 来(lái)[] :Originally
+皮(pí)[] 鞋(xié)[] :Leather shoes
+卖(mài)[] 完(wán)[] :Sold out
+但(dàn)[] 是(shì)[] :But
+#
+< There are people in the fitting room, please line up here! >
+< 试(shì)[] 衣(yī)[] 间(jiān)[] 里(lǐ)[] 有(yǒu)[] 人(rén)[] ， 您(nín)[] 在(zài)[] 这(zhè)[] 里(lǐ)[] 排(pái)[] 队(duì)[] 吧(ba)[] ！ >
+#
+< Excuse me, can I try on these clothes? >
+< 请(qǐng)[] 问(wèn)[] 这(zhè)[] 些(xiē)[] 衣(yī)[] 服(fu)[] 可(kě)[] 以(yǐ)[] 试(shì)[] 穿(chuān)[] 吗(ma)[] ？ >
+#
+< I want this one, I don't want that one. >
+< 我(wǒ)[] 要(yào)[] 这(zhè)[] 一(yí)[] 件(jiàn)[] ， 那(nà)[] 一(yí)[] 件(jiàn)[] 不(bú)[] 要(yào)[] 了(le)[] 。 >
+#
+< Sorry, can you lend me the hat that the model/mannequin is wearing? >
+< 不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] ， 可(kě)[] 以(yǐ)[] 借(jiè)[] 我(wǒ)[] 看(kàn)[] 模(mó)[] 特(tè)[] 儿(er)[] 戴(dài)[] 的(de)[] 帽(mào)[] 子(zi)[] 吗(ma)[] ？ >
+#
+< This pair is a little tight. Excuse me, is there a bigger one? >
+< 这(zhè)[] 双(shuāng)[] 穿(chuān)[] 起(qǐ)[] 来(lái)[] 有(yǒu)[] 点(diǎn)[] 紧(jǐn)[] ， 请(qǐng)[] 问(wèn)[] 有(yǒu)[] 大(dà)[] 一(yí)[] 号(hào)[] 的(de)[] 吗(ma)[] ？ >
+#
+< Excuse me, is this women's clothing or men's clothing? >
+< 请(qǐng)[] 问(wèn)[] 这(zhè)[] 是(shì)[] 女(nǚ)[] 装(zhuāng)[] 还(hái)[] 是(shì)[] 男(nán)[] 装(zhuāng)[] ？ >

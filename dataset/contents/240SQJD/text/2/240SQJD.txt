@@ -1,0 +1,90 @@
+主修:zhǔ xiū-major
+副修:fù xiū-minor
+法律:fǎ lǜ-law studies
+英语:yīng yǔ-english
+什么系:shén me xì-what department
+借:jiè-borrow
+心理学:xīn lǐ xué-psychology
+图书馆:tú shū guǎn-library
+绘画:huì huà-drawing
+参加:cān jiā-join
+社团:shè tuán-club
+商店:shāng diàn-shop
+体育馆:tǐ yù guǎn-gymnasium
+寒假:hán jià-winter holiday
+需要:xū yào-need
+学生证:xué shēng zhèng-student ID
+大学:dà xué-university
+毕业:bì yè-graduate / graduating
+深造:shēn zào-further one's studies
+一直:yì zhí-keep / always
+打瞌睡:dǎ kē shuì-dozing off
+加油站:jiā yóu zhàn-petrol station
+打工:dǎ gōng-work part time
+小时:xiǎo shí-hours
+社团活动:shè tuán huó dòng-club activity
+网球社:wǎng qiú shè-tennis club
+摄影:shè yǐng-photography
+参加过:cān jiā guò-joined before
+摄影社:shè yǐng shè-photography club
+公告:gōng gào-notices
+专门:zhuān mén-specialized
+教练:jiào liàn-coach
+指导:zhǐ dǎo-mentor / mentoring
+开门:kāi mén-open the door
+#
+主(zhǔ)[] 修(xiū)[] :major
+副(fù)[] 修(xiū)[] :minor
+法(fǎ)[] 律(lǜ)[] :law studies
+英(yīng)[] 语(yǔ)[] :english
+什(shén)[] 么(me)[] 系(xì)[] :what department
+借(jiè)[] :borrow
+心(xīn)[] 理(lǐ)[] 学(xué)[] :psychology
+图(tú)[] 书(shū)[] 馆(guǎn)[] :library
+%
+绘(huì)[] 画(huà)[] :drawing
+参(cān)[] 加(jiā)[] :join
+社(shè)[] 团(tuán)[] :club
+商(shāng)[] 店(diàn)[] :shop
+体(tǐ)[] 育(yù)[] 馆(guǎn)[] :gymnasium
+寒(hán)[] 假(jià)[] :winter holiday
+需(xū)[] 要(yào)[] :need
+学(xué)[] 生(shēng)[] 证(zhèng)[] :student ID
+%
+大(dà)[] 学(xué)[] :university
+毕(bì)[] 业(yè)[] :graduate / graduating
+深(shēn)[] 造(zào)[] :further one's studies
+一(yì)[] 直(zhí)[] :keep / always
+打(dǎ)[] 瞌(kē)[] 睡(shuì)[] :dozing off
+加(jiā)[] 油(yóu)[] 站(zhàn)[] :petrol station
+打(dǎ)[] 工(gōng)[] :work part-time
+小(xiǎo)[] 时(shí)[] :hours
+社(shè)[] 团(tuán)[] 活(huó)[] 动(dòng)[] :club activity
+%
+网(wǎng)[] 球(qiú)[] 社(shè)[] :tennis club
+摄(shè)[] 影(yǐng)[] :photography
+参(cān)[] 加(jiā)[] 过(guò)[] :joined before
+摄(shè)[] 影(yǐng)[] 社(shè)[] :photography club
+公(gōng)[] 告(gào)[] :notices
+专(zhuān)[] 门(mén)[] :specialized
+教(jiào)[] 练(liàn)[] :coach
+指(zhǐ)[] 导(dǎo)[] :mentor / mentoring
+开(kāi)[] 门(mén)[] :open the door
+#
+< You can go to the library to borrow psychology books. >
+< 你(nǐ)[] 可(kě)[] 以(yǐ)[] 去(qù)[] 图(tú)[] 书(shū)[] 馆(guǎn)[] 借(jiè)[] 心(xīn)[] 理(lǐ)[] 学(xué)[] 的(de)[] 书(shū)[] 。 >
+#
+< I want to learn painting, which club can I join? >
+< 我(wǒ)[] 想(xiǎng)[] 学(xué)[] 绘(huì)[] 画(huà)[] ， 可(kě)[] 以(yǐ)[] 参(cān)[] 加(jiā)[] 哪(nǎ)[] 一(yí)[] 个(gè)[] 社(shè)[] 团(tuán)[] ？ >
+#
+< Is the shop , library and gymnasium in the school also open during summer holidays? >
+< 学(xué)[] 校(xiào)[] 里(li)[] 的(de)[] 商(shāng)[] 店(diàn)[] ， 体(tǐ)[] 育(yù)[] 馆(guǎn)[] ， 寒(hán)[] 假(jià)[] 也(yě)[] 开(kāi)[] 门(mén)[] 吗(ma)[] ？ >
+#
+< Where do you want to study after you graduate from college? >
+< 你(nǐ)[] 大(dà)[] 学(xué)[] 毕(bì)[] 业(yè)[] 后(hòu)[] ， 想(xiǎng)[] 去(qù)[] 哪(nǎ)[] 里(lǐ)[] 深(shēn)[] 造(zào)[] ？ >
+#
+< Did you study photography? I've ever participated in the school photography club. >
+< 你(nǐ)[] 学(xué)[] 过(guò)[] 摄(shè)[] 影(yǐng)[] 吗(ma)[] ？ 我(wǒ)[] 参(cān)[] 加(jiā)[] 过(guò)[] 学(xué)[] 校(xiào)[] 摄(shè)[] 影(yǐng)[] 社(shè)[] 。 >
+#
+< Where can I see the club's activity notices? >
+< 哪(nǎ)[] 里(lǐ)[] 可(kě)[] 以(yǐ)[] 看(kàn)[] 到(dào)[] 学(xué)[] 校(xiào)[] 的(de)[] 公(gōng)[] 告(gào)[] ？ >

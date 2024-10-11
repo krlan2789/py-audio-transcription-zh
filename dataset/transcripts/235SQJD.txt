@@ -1,0 +1,48 @@
+卖:mài-Sell
+比较:bǐ jiào-more
+便宜:pián yi-cheap
+笔记本电脑:bǐ jì běn diàn nǎo-notebook computer (laptop)
+坏了:huài le-broken
+修:xiū-fix
+没电:méi diàn-out of battery
+插座:chā zuò-socket
+打字:dǎ zì-type words
+上网:shàng wǎng-browsing
+速度:sù dù-speed
+变得:biàn de-becoming
+连线:lián xiàn-connect
+国家博物馆:guó jiā bó wù guǎn-national museum
+#
+卖(mài)[] :Sell
+比(bǐ)[] 较(jiào)[] :more
+便(pián)[] 宜(yi)[] :cheap
+笔(bǐ)[] 记(jì)[] 本(běn)[] 电(diàn)[] 脑(nǎo)[] :notebook computer (laptop)
+坏(huài)[] 了(le)[] :broken
+修(xiū)[] :fix
+没(méi)[] 电(diàn)[] :out of battery
+%
+插(chā)[] 座(zuò)[] :socket
+打(dǎ)[] 字(zì)[] :type words
+上(shàng)[] 网(wǎng)[] :browsing
+速(sù)[] 度(dù)[] :speed
+变(biàn)[] 得(de)[] :becoming
+连(lián)[] 线(xiàn)[] :connect
+国(guó)[] 家(jiā)[] 博(bó)[] 物(wù)[] 馆(guǎn)[] :national museum
+#
+< I want to let poeple reinstall my computer, do you have friends that you know? >
+< 我(wǒ)[] 想(xiǎng)[] 请(qǐng)[] 人(rén)[] 帮(bāng)[] 我(wǒ)[] 重(chóng)[] 装(zhuān)[] 电(diàn)[] 脑(nǎo)[] ， 你(nǐ)[] 有(yǒu)[] 认(rèn)[] 识(shi)[] 的(de)[] 朋(péng)[] 友(you)[] 吗(ma)[] ？ >
+#
+< Why is the browsing speed here suddenly becoming so slow? >
+< 这(zhè)[] 里(li)[] 的(de)[] 上(shàng)[] 网(wǎng)[] 速(sù)[] 度(dù)[] 怎(zěn)[] 么(me)[] 突(tū)[] 然(rán)[] 变(biàn)[] 得(de)[] 那(nà)[] 么(me)[] 慢(màn)[] ？ >
+#
+< My notebook computer is broken, can you help me fix it? >
+< 我(wǒ)[] 的(de)[] 笔(bǐ)[] 记(jì)[] 本(běn)[] 电(diàn)[] 脑(nǎo)[] 坏(huài)[] 了(le)[] ， 你(nǐ)[] 可(kě)[] 以(yǐ)[] 帮(bāng)[] 我(wǒ)[] 修(xiū)[] 吗(ma)[] ？ >
+#
+< My notebook computer is quickly out of battery, excuse me where is the socket? >
+< 我(wǒ)[] 的(de)[] 笔(bǐ)[] 记(jì)[] 本(běn)[] 电(diàn)[] 脑(nǎo)[] 快(kuài)[] 没(méi)[] 电(diàn)[] 了(le)[] ， 请(qǐng)[] 问(wèn)[] 哪(nǎ)[] 里(lǐ)[] 有(yǒu)[] 插(chā)[] 座(zuò)[] ？ >
+#
+< This is the school's web address, all the documents you are looking for are here. >
+< 这(zhè)[] 是(shì)[] 学(xué)[] 校(xiào)[] 的(de)[] 网(wǎng)[] 址(zhǐ)[] ， 你(nǐ)[] 想(xiǎng)[] 找(zhǎo)[] 的(de)[] 资(zī)[] 料(liào)[] 这(zhè)[] 里(lǐ)[] 都(dōu)[] 有(yǒu)[] 。 >
+#
+< Excuse me can i type chinese or japanese words with this computer? >
+< 请(qǐng)[] 问(wèn)[] 这(zhè)[] 台(tái)[] 电(diàn)[] 脑(nǎo)[] 可(kě)[] 以(yǐ)[] 打(dǎ)[] 中(zhōng)[] 文(wén)[] 字(zì)[] 或(huò)[] 日(rì)[] 本(běn)[] 字(zì)[] 吗(ma)[] ？ >

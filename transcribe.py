@@ -1,8 +1,11 @@
 import json
+import librosa
 import numpy as np
 import re
 import tensorflow as tf
 import tensorflow_io as tfio
+
+from termcolor import cprint
 
 
 # Load character mappings
@@ -19,17 +22,23 @@ max_length = 156  # Adjust this to the max length used in your training
 
 
 # Preprocess Audio
+# def preprocess_audio(file_path):
+#     audio = tfio.audio.AudioIOTensor(file_path)
+#     audio_tensor = audio.to_tensor()
+#     if len(audio_tensor.shape) > 1 and audio_tensor.shape[1] == 1:
+#         audio_tensor = tf.squeeze(audio_tensor, axis=-1)
+#     if len(audio_tensor.shape) > 1 and audio_tensor.shape[1] == 2:
+#         audio_tensor = tf.reduce_mean(
+#             audio_tensor, axis=1
+#         )  # Average channels if there are two
+#     if len(audio_tensor.shape) == 1:
+#         audio_tensor = tf.expand_dims(audio_tensor, axis=-1)
+#     return audio_tensor
+
+
 def preprocess_audio(file_path):
-    audio = tfio.audio.AudioIOTensor(file_path)
-    audio_tensor = audio.to_tensor()
-    if len(audio_tensor.shape) > 1 and audio_tensor.shape[1] == 1:
-        audio_tensor = tf.squeeze(audio_tensor, axis=-1)
-    if len(audio_tensor.shape) > 1 and audio_tensor.shape[1] == 2:
-        audio_tensor = tf.reduce_mean(
-            audio_tensor, axis=1
-        )  # Average channels if there are two
-    if len(audio_tensor.shape) == 1:
-        audio_tensor = tf.expand_dims(audio_tensor, axis=-1)
+    audio_tensor, sr = librosa.load(file_path, sr=None, mono=True)
+    audio_tensor = np.expand_dims(audio_tensor, axis=-1)
     return audio_tensor
 
 
@@ -68,15 +77,18 @@ def transcribe(audio_path, expect_text):
         model, audio_path, max_length, char_to_index, index_to_char
     )
     transcription = re.sub(r"[\!\?]*", "", transcription)
-    print(
-        f"Predicted Transcription: {transcription}\nExpected Transcription : {expect_text}"
-    )
+    cprint(f"Predicted Transcription: {transcription}", "blue")
+    cprint(f"Expected Transcription : {expect_text}\n", "yellow")
 
 
-file_path = "./dataset/audio/GDREPETITION2.2.ogg"
-expect_text = "我今年八岁"
+file_path = "./dataset/audio/SR0002.5.ogg"
+expect_text = "一年有春、夏、秋、冬四个季节。"
 transcribe(file_path, expect_text)
 
-file_path = "./dataset/audio/GDQNA4.4.ogg"
-expect_text = "我在读书。"
+file_path = "./dataset/audio/TD001.03.ogg"
+expect_text = "明天星期几？"
+transcribe(file_path, expect_text)
+
+file_path = "./dataset/audio/TR001.04.ogg"
+expect_text = "您好，我姓杨，本来跟林医师约好明天来看牙齿，可是临时有事，想要改时间。"
 transcribe(file_path, expect_text)

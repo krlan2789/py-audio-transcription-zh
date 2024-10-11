@@ -1,0 +1,46 @@
+牛排:niú pái-Steak
+薯条:shǔ tiáo-French fries
+快一点:kuài yì diǎn-Faster
+上菜:shàng cài-Serve the dishes/food
+饿:è-Hungry
+不好意思:bù hǎo yì si-Excuse me
+取消:qǔ xiāo-Cancel
+订位:dìng wèi-Reservation
+一些:yì xiē-Some
+外带:wài dài-Take-away
+服务生:fú wù shēng-Waiter
+买单:mǎi dān-Pay the bill
+刷卡:shuā kǎ-Swipe card
+#
+牛(niú)[] 排(pái)[] :Steak
+薯(shǔ)[] 条(tiáo)[] :French fries
+快(kuài)[] 一(yì)[] 点(diǎn)[] :Faster
+上(shàng)[] 菜(cài)[] :Serve the dishes/food
+饿(è)[] :Hungry
+不(bù)[] 好(hǎo)[] 意(yì)[] 思(sī)[] :Excuse me
+%
+取(qǔ)[] 消(xiāo)[] :Cancel
+订(dìng)[] 位(wèi)[] :Reservation
+一(yì)[] 些(xiē)[] :Some
+外(wài)[] 带(dài)[] :Take-away
+服(fú)[] 务(wù)[] 生(shēng)[] :Waiter
+买(mǎi)[] 单(dān)[] :Pay the bill
+刷(shuā)[] 卡(kǎ)[] :Swipe card
+#
+< Excuse me, are there desserts and fruits? >
+< 请(qǐng)[] 问(wèn)[] 有(yǒu)[] 甜(tián)[] 点(diǎn)[] 和(hé)[] 水(shuǐ)[] 果(guǒ)[] 吗(ma)[] ？ >
+#
+< I want one portion of a 70% cooked steak and one portion of french fries. >
+< 我(wǒ)[] 要(yào)[] 一(yí)[] 份(fèn)[] 七(qī)[] 分(fēn)[] 熟(shú)[] 的(de)[] 牛(niú)[] 排(pái)[] 和(hé)[] 一(yí)[] 份(fèn)[] 薯(shǔ)[] 条(tiáo)[] 。 >
+#
+< Can you please serve the food faster, we are very hungry. >
+< 能(néng)[] 不(bu)[] 能(néng)[] 请(qǐng)[] 你(nǐ)[] 快(kuài)[] 一(yì)[] 点(diǎn)[] 上(shàng)[] 菜(cài)[] ， 因(yīn)[] 为(wèi)[] 我(wǒ)[] 们(men)[] 都(dōu)[] 很(hěn)[] 饿(è)[] 了(le)[] 。 >
+#
+< Excuse me, I want to cancel the reservation. >
+< 不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] ， 我(wǒ)[] 想(xiǎng)[] 取(qǔ)[] 消(xiāo)[] 订(dìng)[] 位(wèi)[] 。 >
+#
+< I want to order some take-away, will therebe a long wait? >
+< 我(wǒ)[] 想(xiǎng)[] 要(yào)[] 点(diǎn)[] 一(yì)[] 些(xiē)[] 菜(cài)[] 外(wài)[] 带(dài)[] ， 会(huì)[] 等(děng)[] 很(hěn)[] 久(jiǔ)[] 吗(ma)[] ？ >
+#
+< Waiter, we want to pay the bill. Can we pay by card? >
+< 服(fú)[] 务(wù)[] 生(shēng)[] ，我(wǒ)[] 们(men)[] 要(yào)[] 买(mǎi)[] 单(dān)[] ， 可(kě)[] 以(yǐ)[] 刷(shuā)[] 卡(kǎ)[] 吗(ma)[] ？ >

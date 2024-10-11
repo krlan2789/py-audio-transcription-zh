@@ -1,0 +1,72 @@
+﻿打烊:dǎ yàng-Close
+最后一场:zuì hòu yī chǎng-Last performance/show
+表演:biǎo yǎn-performance/show
+先:xiān-first
+离开:lí kāi-leave
+需要:xū yào-need
+一位:yí wèi-one (person)
+汉语:hàn yǔ-Chinese Language
+导游:dǎo yóu-Tour guide
+包包:bāo bāo-Bag
+寄放:jì fàng-Leave temporarily
+售票处:shòu piào chù-Ticket stand
+游乐园:yóu lè yuán-Theme park
+餐厅:cān tīng-Restaurants
+来过:lái guò-Came here before
+纪念品:jì niàn pǐn-Souvenirs
+不好意思:bù hǎo yì si-Excuse me
+拍照:pāi zhào-Take pictures
+成人票:chéng rén piào-Adult ticket
+儿童票:ér tóng piào-Child Ticket
+总共:zǒng gòng-Total
+多少钱:duō shǎo qián-How much
+入口处:rù kǒu chù-Entrance
+集合:jí hé-Gather
+等:děng-Wait
+#
+打(dǎ)[] 烊(yàng)[] :Close
+最(zuì)[] 后(hòu)[] 一(yī)[] 场(chǎng)[] :Last performance/show
+表(biǎo)[] 演(yǎn)[] :performance/show
+先(xiān)[] :first
+离(lí)[] 开(kāi)[] :leave
+需(xū)[] 要(yào)[] :need
+一(yí)[] 位(wèi)[] :one (person)
+%
+汉(hàn)[] 语(yǔ)[] :Chinese Language
+导(dǎo)[] 游(yóu)[] :Tour guide
+包(bāo)[] 包(bāo)[] :Bag
+寄(jì)[] 放(fàng)[] :Leave temporarily
+售(shòu)[] 票(piào)[] 处(chù)[] :Ticket stand
+游(yóu)[] 乐(lè)[] 园(yuán)[] :Theme park
+餐(cān)[] 厅(tīng)[] :Restaurants
+来(lái)[] 过(guò)[] :Came here before
+%
+纪(jì)[] 念(niàn)[] 品(pǐn)[] :Souvenirs
+不(bù)[] 好(hǎo)[] 意(yì)[] 思(si)[] :Excuse me
+拍(pāi)[] 照(zhào)[] :Take pictures
+成(chéng)[] 人(rén)[] 票(piào)[] :Adult ticket
+儿(ér)[] 童(tóng)[] 票(piào)[] :Child Ticket
+%
+总(zǒng)[] 共(gòng)[] :Total
+多(duō)[] 少(shǎo)[] 钱(qián)[] :How much
+入(rù)[] 口(kǒu)[] 处(chù)[] :Entrance
+集(jí)[] 合(hé)[] :Gather
+等(děng)[] :Wait
+#
+< The last show is at 9, please do not leave first. >
+< 最(zuì)[] 后(hòu)[] 一(yī)[] 场(chǎng)[] 表(biǎo)[] 演(yǎn)[] 九(jiǔ)[] 点(diǎn)[] ， 请(qǐng)[] 大(dà)[] 家(jiā)[] 先(xiān)[] 不(bú)[] 要(yào)[] 离(lí)[] 开(kāi)[] 。 >
+#
+< You can leave your bag here temporarily. >
+< 你(nǐ)[] 可(kě)[] 以(yǐ)[] 把(bǎ)[] 包(bāo)[] 包(bāo)[] 寄(jì)[] 放(fàng)[] 在(zài)[] 这(zhè)[] 里(lǐ)[] 。 >
+#
+< Where is the ticket stand? >
+< 请(qǐng)[] 问(wèn)[] 售(shòu)[] 票(piào)[] 处(chù)[] 在(zài)[] 哪(nǎ)[] 里(lǐ)[] ？ >
+#
+< Excuse me, are there any restaurants in the theme park? >
+< 请(qǐng)[] 问(wèn)[] 游(yóu)[] 乐(lè)[] 园(yuán)[] 里(lǐ)[] 有(yǒu)[] 没(méi)[] 有(yǒu)[] 餐(cān)[] 厅(tīng)[] ？ >
+#
+< How many times have you been here? >
+< 你(nǐ)[] 来(lái)[] 过(guò)[] 这(zhè)[] 里(lǐ)[] 几(jǐ)[] 次(cì)[] 了(le)[] ？ >
+#
+< I've never been here. >
+< 我(wǒ)[] 没(méi)[] 有(yǒu)[] 来(lái)[] 过(guò)[] 这(zhè)[] 里(lǐ)[] 。 >

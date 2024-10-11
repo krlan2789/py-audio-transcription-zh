@@ -1,0 +1,50 @@
+出示:chū shì-show
+护照:hù zhào-passport
+飞机票:fēi jī piào-airplane ticket
+需要:xū yào-need
+填写:tián xiě-fill, write
+表格:biǎo gé-form
+目的:mù dì-purpose
+探亲:tàn qīn-relatives visitation
+旅游:lǚ yóu-travel
+打算:dǎ suàn-plan
+待:dāi-stay
+多长时间:duō cháng shí jiān-how long
+大概:dà gài-probably
+左右:zuǒ yòu-approximately
+任何东西:rèn hé dōng xi-anything
+#
+出(chū)[] 示(shì)[] :show
+护(hù)[] 照(zhào)[] :passport
+飞(fēi)[] 机(jī)[] 票(piào)[] :airplane ticket
+需(xū)[] 要(yào)[] :need
+填(tián)[] 写(xiě)[] :fill, write
+表(biǎo)[] 格(gé)[] :form
+目(mù)[] 的(dì)[] :purpose
+探(tàn)[] 亲(qīn)[] :relatives visitation
+%
+旅(lǚ)[] 游(yóu)[] :travel
+打(dǎ)[] 算(suàn)[] :plan
+待(dāi)[] :stay
+多(duō)[] 长(cháng)[] 时(shí)[] 间(jiān)[] :how long
+大(dà)[] 概(gài)[] :probably
+左(zuǒ)[] 右(yòu)[] :approximately
+任(rèn)[] 何(hé)[] 东(dōng)[] 西(xi)[] :anything
+#
+< Please show your passport and airplane ticket. >
+< 请(qǐng)[] 出(chū)[] 示(shì)[] 您(nín)[] 的(de)[] 护(hù)[] 照(zhào)[] 和(hé)[] 飞(fēi)[] 机(jī)[] 票(piào)[] 。 >
+#
+< Excuse me, do I need to fill out this form? >
+< 请(qǐng)[] 问(wèn)[] ， 我(wǒ)[] 需(xū)[] 要(yào)[] 填(tián)[] 写(xiě)[] 这(zhè)[] 张(zhāng)[] 表(biǎo)[] 格(gē)[] 吗(ma)[] ？ >
+#
+< What is your purpose in coming to China? I am here to visit relatives and travel. >
+< 你(nǐ)[] 来(lái)[] 中(zhōng)[] 国(guó)[] 的(de)[] 目(mù)[] 的(dì)[] 是(shì)[] 什(shén)[] 么(me)[] ？ 我(wǒ)[] 是(shì)[] 来(lái)[] 探(tàn)[] 亲(qīn)[] 和(hé)[] 旅(lǚ)[] 游(yóu)[] 。 >
+#
+< How long do you plan to stay in China? About ten days. >
+< 你(nǐ)[] 打(dǎ)[] 算(suàn)[] 在(zài)[] 中(zhōng)[] 国(guó)[] 待(dāi)[] 多(duō)[] 长(cháng)[] 时(shí)[] 间(jiān)[] ？ 大(dà)[] 概(gài)[] 十(shí)[] 天(tiān)[] 左(zuǒ)[] 右(yòu)[] 。 >
+#
+< I don't have anything to declare, and I only bring a little cash. >
+< 我(wǒ)[] 没(méi)[] 有(yǒu)[] 任(rèn)[] 何(hé)[] 东(dōng)[] 西(xi)[] 需(xū)[] 要(yào)[] 申(shēn)[] 报(bào)[] ， 现(xiàn)[] 金(jīn)[] 也(yě)[] 只(zhǐ)[] 带(dài)[] 了(le)[] 一(yì)[] 点(diǎn)[] 。 >
+#
+< After the immigration, go straight to the boarding room. >
+< 过(guò)[] 了(le)[] 海(hǎi)[] 关(guān)[] ， 一(yì)[] 直(zhí)[] 直(zhí)[] 走(zǒu)[] 就(jiù)[] 是(shì)[] 登(dēng)[] 机(jī)[] 室(shì)[] 。 >
